@@ -160,6 +160,7 @@
       <category id="113293617" parentId="129298430">Контейнери для води</category>
       <category id="113293618" parentId="129298430">Комплектуючі</category>
       <category id="113293619" parentId="129298430">Місткості квадратні</category>
+      <category id="546348">Інші господарські товари</category>
     </categories>
     <local_delivery_cost>300.00</local_delivery_cost>
   <offers>
@@ -6022,7 +6023,7 @@ pH - 10,5 ± 1
 </description>
     <param name="Матеріал">Поліетилен</param>
     <param name="Тип">Одноразові</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>500111</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">M</param><article>500111</article><stock_quantity>100</stock_quantity></offer>
   <offer id="533720825" available="false">
     <url>https://polineo.in.ua/ua/p533720825-vidro-witty-vidtiskachem.html</url>
     <price>12754</price>
@@ -11528,7 +11529,7 @@ pH - 9,0 ± 1
     <param name="Объем, л" unit="">15</param>
     <param name="Размеры, мм" unit="">25х32,5</param>
     <param name="Цвет / Покрытие" unit="">Черный</param>
-  <param name="Колір">Чорна</param><param name="Розмір">-</param><article>Ажур-черный</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">-</param><article>Ажур-черный</article><stock_quantity>100</stock_quantity></offer>
   <offer id="533722166" available="false">
     <url>https://polineo.in.ua/ua/p533722166-miyuchij-pilosos.html</url>
     <price>44651</price>
@@ -11940,7 +11941,7 @@ Tовщина корпусу — 3 мм пластик
     <param name="Об`єм" unit="л">12</param>
     <param name="Тип">Відро без кришки</param>
     <param name="Матеріал">Пластик</param>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <param name="Розмір">-</param><article>ВП-12</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722195" available="true">
     <url>https://polineo.in.ua/ua/p533722195-filtr-poliesteru-pilozbirnik.html</url>
@@ -12858,7 +12859,7 @@ Tовщина корпусу — 3 мм пластик
     <param name="Вид обладнання">Біотуалет</param>
     <param name="Матеріал корпусу біотуалету">Пластик</param>
     <param name="Стан">Новий</param>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <param name="Розмір">-</param><article>Аква Кем Грин</article><stock_quantity>100</stock_quantity></offer>
   <offer id="533722306" available="false">
     <url>https://polineo.in.ua/ua/p533722306-dozator-ridkogo-mila.html</url>
@@ -13676,7 +13677,7 @@ pH - 8,4 ± 1
     <country_of_origin>Україна</country_of_origin>
     <description>Продукція ТМ "Диво" проводиться на Київському картонно-паперовому комбінаті тільки з високоякісних матеріалів з використанням сучасних технологій виробництва. Завдяки високій якості паперово-гігієнічної продукції бренду, виготовленої з 100% целюлози, а також доступного цінового діапазону, торгова марка користується високим попитом в українських споживачів.
  целюлозне Диво виготовлено з 100% натуральної сировини. Такі рушники стануть незамінним помічником на кухні, оскільки вони чудово поглинають вологу, дбайливо доглядають за посудом, склом та кухонними меблями. Відтепер кожна господиня може заощадити не тільки свій час, але і сімейний бюджет.</description>
-    <param name="Колір" unit="">Белые</param>
+    <param name="Колір" unit="">Білий</param>
   <param name="Розмір">-</param><article>Диво</article><stock_quantity>100</stock_quantity></offer>
   <offer id="533722808" available="false">
     <url>https://polineo.in.ua/ua/p533722808-mitla-mery-bez.html</url>
@@ -15224,7 +15225,7 @@ pH - 8,4 ± 1
 Відпускна одиниця — пакет
 Країна-виробник — Україна
 </description>
-    <param name="Колір" unit="">Белые</param>
+    <param name="Колір" unit="">Білий</param>
   <param name="Розмір">-</param><article>143000</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723033" available="true">
     <url>https://polineo.in.ua/ua/p533723033-vidro-easy-vidzhimom.html</url>
@@ -18248,7 +18249,7 @@ Tовщина корпусу — 1,5 мм
 Кількість в упаковці - 100 шт.
 Країна-виробник - Україна
 </description>
-    <param name="Розмір">Універсальний</param>
+    <param name="Розмір">S</param>
     <param name="Матеріал">Поліетилен</param>
     <param name="Тип">Одноразові</param>
   <param name="Колір">Комбінований</param><article>500110</article><stock_quantity>100</stock_quantity></offer>
@@ -20141,7 +20142,7 @@ pH - 2,8 ± 1
 Кількість в упаковці - 100 шт.
 Країна-виробник - Україна
 </description>
-    <param name="Розмір">Універсальний</param>
+    <param name="Розмір">L</param>
     <param name="Матеріал">Поліетилен</param>
     <param name="Тип">Одноразові</param>
   <param name="Колір">Комбінований</param><article>500112</article><stock_quantity>100</stock_quantity></offer>
@@ -22190,7 +22191,7 @@ pH - 8,4 ± 1
 Країна-виробник — Україна
 </description>
     <param name="Матеріал">Нержавіюча сталь</param>
-    <param name="Колір" unit="">Белые</param>
+    <param name="Колір" unit="">Білий</param>
   <param name="Розмір">-</param><article>D402C</article><stock_quantity>100</stock_quantity></offer>
   <offer id="533723981" available="false">
     <url>https://polineo.in.ua/ua/p533723981-schitka-dlya-unitazu.html</url>
@@ -22559,7 +22560,7 @@ pH - 8,4 ± 1
 Ширина совка, см: 24
 Жорсткість щетини: середня
 </description>
-    <param name="Колір" unit="">синее, красное, желтое, зелёное</param>
+    <param name="Колір" unit="">Комбінований</param>
   <param name="Розмір">-</param><article>AF202</article><stock_quantity>100</stock_quantity></offer>
   <offer id="533724051" available="false">
     <url>https://polineo.in.ua/ua/p533724051-ganchirka-free-3840.html</url>
@@ -24766,7 +24767,7 @@ pH - 9,9 ± 1
 Вага — 0,112 кг
 Країна-виробник — Італія
  </description>
-    <param name="Колір" unit="">Зелёный</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Основне призначення" unit="">Для пола</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>8712</article><stock_quantity>100</stock_quantity></offer>
   <offer id="533724258" available="true">
@@ -24950,7 +24951,7 @@ pH - 9,9 ± 1
     <picture>https://images.prom.ua/788601022_polotentsa-bumazhnye-snizhna.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Полотенца бумажные "Сніжна Панда"4 рулона</name>
+    <name>Рушники паперові "Сніжна Панда"4 рулона</name>
     <vendor>Сніжна Панда</vendor>
     <vendorCode>Сніжна Панда</vendorCode>
     <country_of_origin>Україна</country_of_origin>
@@ -28939,7 +28940,7 @@ Tовщина корпусу — 1,5 мм
 Вага - 0,59 кг
 </description>
     <param name="Матеріал">Нержавіюча сталь</param>
-    <param name="Колір" unit="">нержавейка</param>
+    <param name="Колір" unit="">Сріблястий</param>
   <param name="Розмір">-</param><article>KT1086</article><stock_quantity>0</stock_quantity></offer>
   <offer id="668857537" available="true">
     <url>https://polineo.in.ua/ua/p668857537-trimach-tualetnogo-paperu.html</url>
@@ -30094,7 +30095,7 @@ Tовщина корпусу — 1,5 мм
 Матеріал - первинний поліетилен
 Країна-виробник - Україна
 </description>
-    <param name="Розмір">S</param>
+    <param name="Розмір">M</param>
     <param name="Матеріал">Поліетилен</param>
     <param name="Тип">Одноразові</param>
   <param name="Колір">Комбінований</param><article>510111</article><stock_quantity>100</stock_quantity></offer>
@@ -30122,7 +30123,7 @@ Tовщина корпусу — 1,5 мм
 Матеріал - первинний поліетилен
 Країна-виробник - Україна
 </description>
-    <param name="Розмір">S</param>
+    <param name="Розмір">L</param>
     <param name="Матеріал">Поліетилен</param>
     <param name="Тип">Одноразові</param>
   <param name="Колір">Комбінований</param><article>510112</article><stock_quantity>0</stock_quantity></offer>
@@ -30151,7 +30152,7 @@ Tовщина корпусу — 1,5 мм
 Матеріал - первинний поліетилен
 Країна-виробник - Україна
 </description>
-    <param name="Розмір">S</param>
+    <param name="Розмір">XL</param>
     <param name="Матеріал">Поліетилен</param>
     <param name="Тип">Одноразові</param>
   <param name="Колір">Комбінований</param><article>510113</article><stock_quantity>100</stock_quantity></offer>
@@ -31160,7 +31161,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Форма">Прямокутна</param>
     <param name="Матеріал">Сталь</param>
     <param name="Размер крышки" unit="">410х260х170 мм</param>
-    <param name="Колір" unit="">Стальной</param>
+    <param name="Колір" unit="">Сірий</param>
   <param name="Розмір">-</param><article>M160S</article><stock_quantity>100</stock_quantity></offer>
   <offer id="679509508" available="true">
     <url>https://polineo.in.ua/ua/p679509508-krishka-dlya-urni.html</url>
@@ -31188,7 +31189,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Тип сміттєвого відра">Звичайне (з кришкою)</param>
     <param name="Форма">Прямокутна</param>
     <param name="Матеріал">Сталь</param>
-    <param name="Колір" unit="">Стальной</param>
+    <param name="Колір" unit="">Сірий</param>
   <param name="Розмір">-</param><article>M 301C</article><stock_quantity>100</stock_quantity></offer>
   <offer id="679515515" available="true">
     <url>https://polineo.in.ua/ua/p679515515-krishka-dlya-urni.html</url>
@@ -31217,7 +31218,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Тип сміттєвого відра">Звичайне (з кришкою)</param>
     <param name="Форма">Прямокутна</param>
     <param name="Матеріал">Сталь</param>
-    <param name="Колір" unit="">Стальной</param>
+    <param name="Колір" unit="">Сірий</param>
   <param name="Розмір">-</param><article>M301S</article><stock_quantity>100</stock_quantity></offer>
   <offer id="680240860" available="true">
     <url>https://polineo.in.ua/ua/p680240860-urna-dlya-smittya.html</url>
@@ -31462,7 +31463,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Матеріал">Нержавіюча сталь</param>
     <param name="Об`єм" unit="л">45</param>
     <param name="Тип сміттєвого відра">Сенсорне</param>
-    <param name="Колір" unit="">Стальной</param>
+    <param name="Колір" unit="">Сірий</param>
     <param name="Форма" unit="">Полукруглая</param>
   <param name="Розмір">-</param><article>ST 2009</article><stock_quantity>100</stock_quantity></offer>
   <offer id="680823830" available="false">
@@ -32547,7 +32548,7 @@ Tовщина корпусу — 1,5 мм
 Країна-виробник — Італія</description>
     <param name="Призначення">Універсальне</param>
     <param name="Тип">Віник+совок</param>
-    <param name="Колір" unit="">Красная</param>
+    <param name="Колір" unit="">Червоний</param>
     <param name="Материал рабочей части" unit="">поливинилхорид</param>
     <param name="Материал ручки/черенка" unit="">полипропилен с металом</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>12.00825.0006.01.071</article><stock_quantity>0</stock_quantity></offer>
@@ -34553,7 +34554,7 @@ CHH20
 -не сушити в пральній машині.
  
 </description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>0V000694MV</article><stock_quantity>100</stock_quantity></offer>
   <offer id="749026221" available="true">
     <url>https://polineo.in.ua/ua/p749026221-0vv00745mv-mop-microriccio.html</url>
@@ -34576,7 +34577,7 @@ CHH20
 
 При пранні слід дотримуватися наступні умови: не прати в лужних засобах, температура прання: макс 90° C не відбілювати</description>
     <param name="Матеріал">Мікрофібра</param>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <param name="Розмір">40см</param><article>0VV00745MV</article><stock_quantity>100</stock_quantity></offer>
   <offer id="749028736" available="false">
     <url>https://polineo.in.ua/ua/p749028736-ruchka-dlya-podibnoyi.html</url>
@@ -38173,7 +38174,7 @@ CHH20
     <param name="Висота" unit="см">24</param>
     <param name="Довжина" unit="см">19</param>
     <param name="Ширина" unit="см">18.5</param>
-    <param name="Колір" unit="">металл глянцевый</param>
+    <param name="Колір" unit="">Сріблястий</param>
   <param name="Розмір">-</param><article>919C</article><stock_quantity>100</stock_quantity></offer>
   <offer id="766655900" available="true">
     <url>https://polineo.in.ua/ua/p766655900-susharka-dlya-ruk.html</url>
@@ -38835,7 +38836,7 @@ CHH20
 Країна-виробник Іспанія
 </description>
     <param name="Матеріал">Нержавіюча сталь</param>
-    <param name="Колір" unit="">металл глянцевый</param>
+    <param name="Колір" unit="">Сріблястий</param>
   <param name="Розмір">-</param><article>AI0118C</article><stock_quantity>100</stock_quantity></offer>
   <offer id="860623764" available="true">
     <url>https://polineo.in.ua/ua/p860623764-milnitsya-nerzhaviyuchoyi-stali.html</url>
@@ -44353,7 +44354,7 @@ pH - 1
 -не сушити в пральній машині.
  
 </description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>0B000694MB</article><stock_quantity>0</stock_quantity></offer>
   <offer id="869247344" available="true">
     <url>https://polineo.in.ua/ua/p869247344-0g000694mg-microriccio-wet.html</url>
@@ -44375,7 +44376,7 @@ pH - 1
 -не сушити в пральній машині.
  
 </description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>0G000694MG</article><stock_quantity>100</stock_quantity></offer>
   <offer id="869248688" available="true">
     <url>https://polineo.in.ua/ua/p869248688-0r000694mr-microriccio-wet.html</url>
@@ -44397,7 +44398,7 @@ pH - 1
 -не сушити в пральній машині.
  
 </description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40см</param><article>0R000694MR</article><stock_quantity>100</stock_quantity></offer>
   <offer id="869250129" available="true">
     <url>https://polineo.in.ua/ua/p869250129-694-mop-microriccio.html</url>
@@ -44420,7 +44421,7 @@ pH - 1
 -не сушити в пральній машині.
  
 </description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>694</article><stock_quantity>100</stock_quantity></offer>
   <offer id="869252707" available="false">
     <url>https://polineo.in.ua/ua/p869252707-0b000705-mop-microriccio.html</url>
@@ -44556,7 +44557,7 @@ pH - 1
 
 При пранні слід дотримуватися наступні умови: не прати в лужних засобах, температура прання: макс 90° C не відбілювати</description>
     <param name="Матеріал">Мікрофібра</param>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40см</param><article>0BB00745MB</article><stock_quantity>100</stock_quantity></offer>
   <offer id="869417815" available="true">
     <url>https://polineo.in.ua/ua/p869417815-0gg00745mg-microriccio-velcro.html</url>
@@ -44579,7 +44580,7 @@ pH - 1
 
 Під час прання треба дотримуватися таких умов: не прати в лужних засобах, температура прання: макс 90 °C, не вибілювати</description>
     <param name="Матеріал">Мікрофібра</param>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <param name="Розмір">40см</param><article>0GG00745MG</article><stock_quantity>100</stock_quantity></offer>
   <offer id="869421580" available="true">
     <url>https://polineo.in.ua/ua/p869421580-0rr00745mr-microriccio-velcro.html</url>
@@ -44602,7 +44603,7 @@ pH - 1
 
 Під час прання треба дотримуватися таких умов: не прати в лужних засобах, температура прання: макс 90 °C, не вибілювати</description>
     <param name="Матеріал">Мікрофібра</param>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <param name="Розмір">40см</param><article>0RR00745MR</article><stock_quantity>100</stock_quantity></offer>
   <offer id="869430137" available="true">
     <url>https://polineo.in.ua/ua/p869430137-0g000476mg-mop-mikrofibrarofibra.html</url>
@@ -51359,7 +51360,7 @@ EU, OC стандарти безпеки
     <name>Вогнестійкий КОШИК ДЛЯ СМІТТЯ JVD® 10 Л (КРУГЛА, ЧОРНА)</name>
     <vendorCode>WBR-300537</vendorCode>
     <description>Товар поставляється на замовлення протягом 3-х днів після оплати</description>
-  <vendor>No Brand</vendor><param name="Колір">Чорна</param><param name="Розмір">-</param><article>WBR-300537</article><stock_quantity>100</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Чорний</param><param name="Розмір">-</param><article>WBR-300537</article><stock_quantity>100</stock_quantity></offer>
   <offer id="914633396" available="true">
     <url>https://polineo.in.ua/ua/p914633396-korzina-dlya-musora.html</url>
     <price>1470</price>
@@ -51492,7 +51493,7 @@ EU, OC стандарти безпеки
     <vendorCode>WBU-300516</vendorCode>
     <description>Товар поставляється на замовлення протягом 3-х днів після оплати
  </description>
-  <vendor>No Brand</vendor><param name="Колір">Чорне</param><param name="Розмір">-</param><article>WBU-300516</article><stock_quantity>100</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Чорний</param><param name="Розмір">-</param><article>WBU-300516</article><stock_quantity>100</stock_quantity></offer>
   <offer id="914766937" available="true">
     <url>https://polineo.in.ua/ua/p914766937-vidro-dlya-smittya.html</url>
     <price>1357</price>
@@ -51568,7 +51569,7 @@ EU, OC стандарти безпеки
  
  
 Товар поставляється на замовлення протягом 3-х днів після оплати</description>
-  <vendor>No Brand</vendor><param name="Колір">Чорне</param><param name="Розмір">-</param><article>8991028</article><stock_quantity>100</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Чорний</param><param name="Розмір">-</param><article>8991028</article><stock_quantity>100</stock_quantity></offer>
   <offer id="916829846" available="true">
     <url>https://polineo.in.ua/ua/p916829846-vidro-dlya-lodu.html</url>
     <price>2107</price>
@@ -51581,7 +51582,7 @@ EU, OC стандарти безпеки
     <vendorCode>8991030</vendorCode>
     <description>Товар поставляється на замовлення протягом 3-х днів після оплати
  </description>
-  <vendor>No Brand</vendor><param name="Колір">Чорне</param><param name="Розмір">-</param><article>8991030</article><stock_quantity>100</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Чорний</param><param name="Розмір">-</param><article>8991030</article><stock_quantity>100</stock_quantity></offer>
   <offer id="917084262" available="false">
     <url>https://polineo.in.ua/ua/p917084262-nastinnij-popilnichki-probbax.html</url>
     <price>1598</price>
@@ -55968,7 +55969,7 @@ JAH - японський бренд. Повітронепроникне відр
     <param name="Тип сміттєвого відра">З педаллю</param>
     <param name="Форма">Прямокутна</param>
     <param name="Ширина" unit="мм">345</param>
-    <param name="Колір" unit="">Серебряный металлик</param>
+    <param name="Колір" unit="">Сріблястий</param>
   <param name="Розмір">-</param><article>6311</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1076921993" available="true">
     <url>https://polineo.in.ua/ua/p1076921993-sensorne-vidro-dlya.html</url>
@@ -56041,7 +56042,7 @@ JAH - японський бренд. Повітронепроникне відр
     <param name="Тип сміттєвого відра">Сенсорне</param>
     <param name="Форма">Прямокутна</param>
     <param name="Ширина" unit="мм">260</param>
-    <param name="Колір" unit="">Серебряный металлик</param>
+    <param name="Колір" unit="">Сріблястий</param>
   <param name="Розмір">-</param><article>6396</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1076922032" available="true">
     <url>https://polineo.in.ua/ua/p1076922032-urna-popilnichkoyu-jah.html</url>
@@ -56092,7 +56093,7 @@ JAH - японський бренд. Попільниця кругла. Зроб
     <param name="Тип сміттєвого відра">Звичайне (без кришки)</param>
     <param name="Форма">Кругла</param>
     <param name="Ширина" unit="мм">280</param>
-    <param name="Колір" unit="">Серебряный металлик</param>
+    <param name="Колір" unit="">Сріблястий</param>
   <param name="Розмір">-</param><article>6330</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1076922036" available="false">
     <url>https://polineo.in.ua/ua/p1076922036-vidro-dlya-smittya.html</url>
@@ -58740,7 +58741,7 @@ R67 Пара можуть викликати сонливість і запам�
     <param name="Об`єм" unit="л">90</param>
     <param name="Тип">Бак для сміття</param>
     <param name="Кришка" unit="">есть</param>
-    <param name="Колір" unit="">Зелено-серый</param>
+    <param name="Колір" unit="">Комбінований</param>
   <param name="Розмір">-</param><article>3326</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1171627963" available="true">
     <url>https://polineo.in.ua/ua/p1171627963-bak-dlya-smittya.html</url>
@@ -59119,7 +59120,7 @@ JAH - японський бренд. Квадратна попільничка. 
     <param name="Тип сміттєвого відра">Звичайне (без кришки)</param>
     <param name="Форма">Квадратна</param>
     <param name="Ширина" unit="мм">280</param>
-    <param name="Колір" unit="">Серебряный металлик</param>
+    <param name="Колір" unit="">Сріблястий</param>
   <param name="Розмір">-</param><article>6331</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1171627981" available="true">
     <url>https://polineo.in.ua/ua/p1171627981-paketi-dlya-smittya.html</url>
@@ -59792,7 +59793,7 @@ JAH - японський бренд. Кругле відро для сміття
     <param name="Ширина" unit="мм">410</param>
     <param name="Комплектація колесами" unit="">Нет</param>
     <param name="Кришка" unit="">есть</param>
-    <param name="Колір" unit="">Металлик</param>
+    <param name="Колір" unit="">Сріблястий</param>
   <param name="Розмір">-</param><article>6838</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1171628024" available="false">
     <url>https://polineo.in.ua/ua/p1171628024-vidro-dlya-smittya.html</url>
@@ -72695,7 +72696,7 @@ pH - 10,2±1
     <description>Товар поставляється на замовлення протягом 3-х днів після оплати
  </description>
     <param name="Матеріал">Сталь</param>
-  <vendor>No Brand</vendor><param name="Колір">Чорне</param><param name="Розмір">-</param><article>WB-1271-BLA</article><stock_quantity>100</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Чорний</param><param name="Розмір">-</param><article>WB-1271-BLA</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1386627333" available="true">
     <url>https://polineo.in.ua/ua/p1386627333-vidro-dlya-smittya.html</url>
     <price>14970</price>
@@ -78989,7 +78990,7 @@ pH 4
     <vendorCode>Med Touch Blue</vendorCode>
     <description>Рукавички нітрилові забезпечують захист і гігієну рук. Без пудри. 100 шт - пакування. Синього кольору.</description>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>Med Touch Blue</article><stock_quantity>0</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">M</param><article>Med Touch Blue</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1448282902" available="true">
     <url>https://polineo.in.ua/ua/p1448282902-rukavichki-oglyadovi-nitrilovi.html</url>
     <price>217</price>
@@ -79003,7 +79004,7 @@ pH 4
     <vendorCode>Med Touch Black</vendorCode>
     <description>Рукавички нітрилові забезпечують захист і гігієну рук. Без пудри. 100 шт - пакування. Чорного кольору.</description>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>Med Touch Black</article><stock_quantity>100</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">M</param><article>Med Touch Black</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1448283597" available="false">
     <url>https://polineo.in.ua/ua/p1448283597-rukavichki-oglyadovi-nitrilovi.html</url>
     <price>207</price>
@@ -79017,7 +79018,7 @@ pH 4
     <vendorCode>Med Touch Blue L</vendorCode>
     <description>Рукавички нітрилові забезпечують захист і гігієну рук. Без пудри. 100 шт - пакування. Синього кольору.</description>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>Med Touch Blue L</article><stock_quantity>0</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">L</param><article>Med Touch Blue L</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1448284390" available="true">
     <url>https://polineo.in.ua/ua/p1448284390-rukavichki-oglyadovi-lateksni.html</url>
     <price>470</price>
@@ -79049,7 +79050,7 @@ pH 4
  
 </description>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>Med Touch Natural M</article><stock_quantity>100</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">M</param><article>Med Touch Natural M</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1448289740" available="true">
     <url>https://polineo.in.ua/ua/p1448289740-rukavichki-zahisni-vinilovi.html</url>
     <price>166</price>
@@ -79063,7 +79064,7 @@ pH 4
     <vendorCode>Mercator Medical L</vendorCode>
     <description>Рукавички вінілові забезпечують захист і гігієну рук. Без пудри. 100 шт - пакування.</description>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>Mercator Medical L</article><stock_quantity>100</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">L</param><article>Mercator Medical L</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1448289887" available="true">
     <url>https://polineo.in.ua/ua/p1448289887-rukavichki-zahisni-vinilovi.html</url>
     <price>166</price>
@@ -79077,7 +79078,7 @@ pH 4
     <vendorCode>Mercator Medical M</vendorCode>
     <description>Рукавички вінілові забезпечують захист і гігієну рук. Без пудри. 100 шт - пакування.</description>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>Mercator Medical M</article><stock_quantity>100</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">M</param><article>Mercator Medical M</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1448757594" available="true">
     <url>https://polineo.in.ua/ua/p1448757594-zgin-dlya-dushu.html</url>
     <price>230</price>
@@ -81225,7 +81226,7 @@ pH - 4
 
 Не сушити в пральній машині за високих температур і впродовж тривалого часу. 
 Рекомендується для  сухого прибирання, хімчистки підлог, полірування воском.</description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>UA9917</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1553350518" available="false">
     <url>https://polineo.in.ua/ua/p1553350518-mop-zapaska-dlya.html</url>
@@ -81248,7 +81249,7 @@ pH - 4
 
 Не сушити в пральній машині за високих температур і впродовж тривалого часу. 
 Рекомендується для  сухого прибирання, хімчистки підлог, полірування воском.</description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">60 см</param><article>UA9918</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1553353114" available="false">
     <url>https://polineo.in.ua/ua/p1553353114-mop-zapaska-dlya.html</url>
@@ -81271,7 +81272,7 @@ pH - 4
 
 Не сушити в пральній машині за високих температур і впродовж тривалого часу. 
 Рекомендується для  сухого прибирання, хімчистки підлог, полірування воском.</description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">80 см</param><article>UA9919</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1553356647" available="false">
     <url>https://polineo.in.ua/ua/p1553356647-mop-zapaska-dlya.html</url>
@@ -81294,7 +81295,7 @@ pH - 4
 
 Не сушити в пральній машині за високих температур і впродовж тривалого часу. 
 Рекомендується для  сухого прибирання, хімчистки підлог, полірування воском.</description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">100 см</param><article>UA9920</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1553363988" available="true">
     <url>https://polineo.in.ua/ua/p1553363988-mop-trio-wet.html</url>
@@ -81309,7 +81310,7 @@ pH - 4
     <country_of_origin>Україна</country_of_origin>
     <description>Плоский петльовий моп виготовлений із мікрофібри, поліестеру та бавовни, з основою з поліестеру. Кількість прань — 200-250. Моп залишається прикріпленим до основи в момент ополіскування й віджимання, що дає змогу працівнику не нахилятися й уникати прямого контакту з брудом і мийними засобами. Використовується з основою Wet System Light и Wet System Light з блокуванням. Може застосовуватися в готелях, приміщеннях охорони здоров'я, банках, торгових центрах та.т.
 Кольорове кодування на морах дає змогу використовувати зовні однакові ганчірки для різних зон прибирання.</description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>UA9905</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1553938038" available="false">
     <url>https://polineo.in.ua/ua/p1553938038-mop-wet-system.html</url>
@@ -81324,7 +81325,7 @@ pH - 4
     <country_of_origin>Україна</country_of_origin>
     <description>Плоский петлевий моп із білої мікрофібри в синю смужку. Кількість прань — 150. Ідеально підходить для професійної очищення підлога, стін і стель як для сухого, так і для вологого прибирання та дезінфекції. Рекомендується для гладких поверхонь со средней и низькою ступенем забрудненості. Використовується з основою Wet System Light и Wet System Light з блокуванням. Кольорове кодування на морах дає змогу використовувати зовні однакові ганчірки для різних зон прибирання.
 Температура прання: макс 90 °. Не використовувати кондиціонер. Не використовувати хлорний відбілювач. Сушити за низької температури.</description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>UA9913</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1553941949" available="true">
     <url>https://polineo.in.ua/ua/p1553941949-mop-kishenyami-bavovna.html</url>
@@ -81339,7 +81340,7 @@ pH - 4
     <country_of_origin>Україна</country_of_origin>
     <description>Плоский петльовий моп із бавовни (з обрізаної нитки). Основа з поліестеру. Кількість прань — 100-150. Використовується спільно з основою Blik и Blik з блокуванням. Дає змогу мити та дезінфікувати поверхні (підлога, стіни, стеля). Прати при температурі не більше 90° С, не відбілювати та не сушити в пральній машині.
 Кольорове кодування на морах дає змогу використовувати зовні однакові ганчірки для різних зон прибирання.</description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>UA9902</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1553944842" available="true">
     <url>https://polineo.in.ua/ua/p1553944842-mop-trio-kishenyami.html</url>
@@ -81354,7 +81355,7 @@ pH - 4
     <country_of_origin>Україна</country_of_origin>
     <description>Плоский петльовий моп із мікрофібри, поліестеру та бавовни. Основа з поліестеру. Кількість прань — 300-350. Призначений для універсального використання для всіх типів поверхонь. Використовувати з основою Blik и Blik з блокуванням. Бавовна добре вбирає вологу, поліестер надає абразивну дію, мікрофібра добре проникає в шорсткі поверхні. Комбінована дія мікрофібри, поліестеру та бавовни гарантує винятковий результат очищення. Прати при температурі не вище ніж 90 °C, не сушити в пральній машині; використовувати стандартний мийний засіб для текстилю; лужні мийні засоби небажані для використання; не використовувати машинне сушіння.
 Кольорове кодування на морах дає змогу використовувати зовні однакові ганчірки для різних зон прибирання.</description>
-    <param name="Колір" unit="">зеленое</param>
+    <param name="Колір" unit="">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>UA9906</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1553954911" available="false">
     <url>https://polineo.in.ua/ua/p1553954911-mop-kishenyami-mikrofibra.html</url>
@@ -88737,7 +88738,7 @@ pH - 4
     <param name="Об`єм" unit="л">100</param>
     <param name="Форма">Квадратна</param>
     <param name="Ширина" unit="см">51</param>
-  <param name="Колір">Чорна</param><param name="Розмір">-</param><article>5704</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">-</param><article>5704</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1630165711" available="true">
     <url>https://polineo.in.ua/ua/p1630165711-kanistra-shtab-prozora.html</url>
     <price>290</price>
@@ -90805,7 +90806,7 @@ pH - 4
   (для подавання води до певного рівня).
   1/2, 3/4, 1, 1,5, 2 дюйми (для додаткових введень — виведення рідини).</description>
     <param name="Об`єм" unit="л">130</param>
-  <param name="Колір">Чорна</param><param name="Розмір">-</param><article>5705</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">-</param><article>5705</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1630165812" available="false">
     <url>https://polineo.in.ua/ua/p1630165812-lotok-prozorij.html</url>
     <price>126</price>
@@ -91393,7 +91394,7 @@ pH - 4
 
 Штуцер діаметром 1/2, 3/4, 1, 1,5, 2 дюйми (для додаткових введень — виведення рідини).</description>
     <param name="Об`єм" unit="л">150</param>
-  <param name="Колір">Чорна</param><param name="Розмір">-</param><article>5706</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">-</param><article>5706</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1630165861" available="true">
     <url>https://polineo.in.ua/ua/p1630165861-koshik-dlya-bilizni.html</url>
     <price>727</price>
@@ -116840,7 +116841,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Довжина" unit="см">109</param>
     <param name="Об`єм" unit="л">250</param>
     <param name="Ширина" unit="см">56</param>
-  <param name="Колір">Чорна</param><param name="Розмір">-</param><article>5708</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">-</param><article>5708</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1630167619" available="true">
     <url>https://polineo.in.ua/ua/p1630167619-yemnist-5000-dlya.html</url>
     <price>48600</price>
@@ -130973,7 +130974,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <param name="Матеріал резервуара">Пластик</param>
     <param name="Об'єм резервуара" unit="куб. м">5</param>
     <param name="Ширина" unit="мм">1830</param>
-  <param name="Колір">Чорна</param><param name="Розмір">-</param><article>4254</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">-</param><article>4254</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1630169643" available="false">
     <url>https://polineo.in.ua/ua/p1630169643-koshik-dlya-bilizni.html</url>
     <price>343</price>
@@ -139800,7 +139801,7 @@ IP23
     <param name="Довжина" unit="см">87</param>
     <param name="Об`єм" unit="л">200</param>
     <param name="Ширина" unit="см">56</param>
-  <param name="Колір">Чорна</param><param name="Розмір">-</param><article>5707</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">-</param><article>5707</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1740576567" available="true">
     <url>https://polineo.in.ua/ua/p1740576567-kontejner-1500-promislovij.html</url>
     <price>23733</price>
@@ -159686,7 +159687,7 @@ PEVA — абсолютно нетоксичний полімерний мате
     <picture>https://images.prom.ua/6320902776_kovrik-servirovochnyj-pod.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Коврик сервировочный под столовые приборы, "Графіка", 30х45 см, ТМ Мій Дім 50109</name>
+    <name>Килимок сервірувальний под столовые приборы, "Графіка", 30х45 см, ТМ Мій Дім 50109</name>
     <vendor>Мій Дім</vendor>
     <vendorCode>Д 50109</vendorCode>
     <description>Сервірувальні серветки розміром 30x45 см — 6 шт., чудовий варіант як прикраса обіднього та навіть святкового столу. Набір серветок прямокутної форми під тарілки виготовлені з високоякісного поліпропілену.
@@ -160143,7 +160144,7 @@ PEVA — абсолютно нетоксичний полімерний мате
     <vendorCode>Д 05163B6</vendorCode>
     <country_of_origin>Італія</country_of_origin>
     <description>вішалка чорна</description>
-  <param name="Колір">Чорна</param><param name="Розмір">44,5 х 23 х 1,2 см</param><article>Д 05163B6</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">44,5 х 23 х 1,2 см</param><article>Д 05163B6</article><stock_quantity>100</stock_quantity></offer>
   <offer id="2384717906" available="true">
     <url>https://polineo.in.ua/ua/p2384717906-vishalka-everyday-445.html</url>
     <price>79</price>
@@ -164886,7 +164887,7 @@ PEVA — абсолютно нетоксичний полімерний мате
 
 </description>
     <param name="Тип">Ручка</param>
-  <param name="Колір">Чорна</param><param name="Розмір">120 см</param><article>Д 07263B</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">120 см</param><article>Д 07263B</article><stock_quantity>100</stock_quantity></offer>
   <offer id="2399582721" available="true">
     <url>https://polineo.in.ua/ua/p2399582721-gubka-dlya-shvabri.html</url>
     <price>137</price>
@@ -165697,7 +165698,7 @@ o   Країна  ТМ "Apex" — Італія
 
 
 </description>
-  <param name="Колір">Чорна</param><param name="Розмір">42х15 см</param><article>Д 09920BLACK</article><stock_quantity>100</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">42х15 см</param><article>Д 09920BLACK</article><stock_quantity>100</stock_quantity></offer>
   <offer id="2416291605" available="true">
     <url>https://polineo.in.ua/ua/p2416291605-zapaska-dlya-shvabri.html</url>
     <price>335</price>
@@ -167400,7 +167401,7 @@ o   Країна  ТМ "Apex" — Італія
     <param name="Крышка" unit="">нет</param>
     <param name="Диаметр, см" unit="">25</param>
     <param name="Размеры, мм" unit="">25х32,5</param>
-  <param name="Колір">Чорна</param><param name="Розмір">-</param><article>Ажур-черный 0275 В</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">-</param><article>Ажур-черный 0275 В</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2431948852" available="true">
     <url>https://polineo.in.ua/ua/p2431948852-dozator-dlya-mila.html</url>
     <price>990</price>
