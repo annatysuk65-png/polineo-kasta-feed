@@ -13955,7 +13955,7 @@ pH - 8,4 ± 1
     <param name="Артикул" unit="">584VE</param>
     <param name="Вместимость, шт" unit="">30</param>
     <param name="Материал корпуса" unit="">Пластик</param>
-    <param name="Колір" unit="">Зеленый</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Размеры, мм" unit="">95x32x135 мм</param>
   <param name="Розмір">-</param><article>584VE</article><stock_quantity>100</stock_quantity></offer>
   <offer id="533722861" available="true">
@@ -90739,7 +90739,7 @@ pH - 4
     <url>https://polineo.in.ua/ua/p1630165809-lotok-no1-prozorij.html</url>
     <price>55</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>118642614</categoryId>
     <picture>https://images.prom.ua/2505599819_lotok-no1-09.jpg</picture>
     <picture>https://images.prom.ua/2505599820_lotok-no1-09.jpg</picture>
     <pickup>true</pickup>
@@ -90811,7 +90811,7 @@ pH - 4
     <url>https://polineo.in.ua/ua/p1630165812-lotok-prozorij.html</url>
     <price>126</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>118642614</categoryId>
     <picture>https://images.prom.ua/2505599830_lotok-3-l.jpg</picture>
     <picture>https://images.prom.ua/2505599831_lotok-3-l.jpg</picture>
     <pickup>true</pickup>
@@ -90895,7 +90895,7 @@ pH - 4
     <url>https://polineo.in.ua/ua/p1630165815-lotok-no2-prozorij.html</url>
     <price>71</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>118642614</categoryId>
     <picture>https://images.prom.ua/2505599819_lotok-no2-17.jpg</picture>
     <picture>https://images.prom.ua/2505599820_lotok-no2-17.jpg</picture>
     <pickup>true</pickup>
@@ -91265,7 +91265,7 @@ pH - 4
     <url>https://polineo.in.ua/ua/p1630165830-lotok-prozorij.html</url>
     <price>190</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>118642614</categoryId>
     <picture>https://images.prom.ua/2505600454_lotok-45-l.jpg</picture>
     <picture>https://images.prom.ua/2505599831_lotok-45-l.jpg</picture>
     <pickup>true</pickup>
@@ -91296,7 +91296,7 @@ pH - 4
     <url>https://polineo.in.ua/ua/p1630165831-lotok-prozorij.html</url>
     <price>229</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>118642614</categoryId>
     <picture>https://images.prom.ua/2505600454_lotok-7-l.jpg</picture>
     <picture>https://images.prom.ua/2505599831_lotok-7-l.jpg</picture>
     <pickup>true</pickup>
@@ -92930,7 +92930,7 @@ pH - 4
     <param name="Гарантійний термін" unit="">24</param>
     <param name="Глибина стільця" unit="мм">480</param>
     <param name="Форма сидіння" unit="">квадратная</param>
-    <param name="Колір" unit="">Прозрачно-зеленый</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Ширина стільця" unit="мм">510</param>
   <param name="Розмір">-</param><article>2525</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1630165936" available="false">
@@ -93018,7 +93018,7 @@ pH - 4
     <param name="Гарантійний термін" unit="">24</param>
     <param name="Глибина стільця" unit="мм">495</param>
     <param name="Ширина стільця" unit="мм">520</param>
-    <param name="Колір" unit="">Зелёный</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Тип меблів" unit="">стул</param>
     <param name="Форма сидіння" unit="">квадратная</param>
     <param name="Вага" unit="">4.2</param>
@@ -94521,7 +94521,7 @@ pH - 4
     <url>https://polineo.in.ua/ua/p1630166069-komplekt-dlya-pribirannya.html</url>
     <price>710</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/2505612722_komplekt-dlya-pribirannya.jpg</picture>
     <picture>https://images.prom.ua/2505612723_komplekt-dlya-pribirannya.jpg</picture>
     <picture>https://images.prom.ua/2505612724_komplekt-dlya-pribirannya.jpg</picture>
@@ -94908,7 +94908,7 @@ pH - 4
     <url>https://polineo.in.ua/ua/p1630166117-lotok-prozorij.html</url>
     <price>316</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>118642614</categoryId>
     <picture>https://images.prom.ua/2505614475_lotok-10-l.jpg</picture>
     <picture>https://images.prom.ua/2505599831_lotok-10-l.jpg</picture>
     <pickup>true</pickup>
@@ -97045,7 +97045,7 @@ pH - 4
     <param name="Глубина стула" unit="мм">530</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Матовый красный кирпич</param>
+    <param name="Колір" unit="">Червоний</param>
     <param name="Ширина стула" unit="мм">470</param>
   <param name="Розмір">-</param><article>2649</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1630166323" available="false">
@@ -97135,7 +97135,7 @@ pH - 4
     <param name="Высота сиденья стула" unit="">470</param>
     <param name="Глубина стула" unit="мм">550</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Канареечно-желтый</param>
+    <param name="Колір" unit="">Жовтий</param>
     <param name="Ширина стула" unit="мм">490</param>
   <param name="Розмір">-</param><article>2211</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166325" available="true">
@@ -100459,7 +100459,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Глубина стула" unit="мм">600</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Прозрачно-желтый</param>
+    <param name="Колір" unit="">Жовтий</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2957</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166466" available="false">
@@ -100506,7 +100506,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Глубина стула" unit="мм">600</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Прозрачно-желтый</param>
+    <param name="Колір" unit="">Жовтий</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2950</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166468" available="false">
@@ -100553,7 +100553,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Глубина стула" unit="мм">600</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Прозрачно-красный</param>
+    <param name="Колір" unit="">Червоний</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2307</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166469" available="false">
@@ -100929,7 +100929,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">430</param>
     <param name="Глубина стула" unit="мм">600</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-синий</param>
+    <param name="Колір" unit="">Синій</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2961</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166484" available="false">
@@ -103025,7 +103025,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">460</param>
     <param name="Глубина стула" unit="мм">620</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-зеленый</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2821</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166590" available="false">
@@ -103069,7 +103069,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">460</param>
     <param name="Глубина стула" unit="мм">620</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-синий</param>
+    <param name="Колір" unit="">Синій</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2824</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166591" available="false">
@@ -104297,7 +104297,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Висота стільця з урахуванням спинки" unit="мм">880.0</param>
     <param name="Глубина стула" unit="мм">560</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Матовый желтый</param>
+    <param name="Колір" unit="">Жовтий</param>
     <param name="Ширина стула" unit="мм">490</param>
     <param name="Тип меблів" unit="">стул</param>
   <param name="Розмір">-</param><article>2974</article><stock_quantity>0</stock_quantity></offer>
@@ -104379,7 +104379,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Висота стільця з урахуванням спинки" unit="мм">880.0</param>
     <param name="Глубина стула" unit="мм">560</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Матовый черный</param>
+    <param name="Колір" unit="">Чорний</param>
     <param name="Ширина стула" unit="мм">490</param>
     <param name="Тип меблів" unit="">стул</param>
   <param name="Розмір">-</param><article>2971</article><stock_quantity>0</stock_quantity></offer>
@@ -104554,7 +104554,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">470</param>
     <param name="Глубина стула" unit="мм">590</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-зеленый</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2846</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166647" available="false">
@@ -104648,7 +104648,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">470</param>
     <param name="Глубина стула" unit="мм">590</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-серый</param>
+    <param name="Колір" unit="">Сірий</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2848</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166649" available="false">
@@ -104695,7 +104695,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">470</param>
     <param name="Глубина стула" unit="мм">590</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-синий</param>
+    <param name="Колір" unit="">Синій</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2849</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166650" available="false">
@@ -104741,7 +104741,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">470</param>
     <param name="Глубина стула" unit="мм">590</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-черный</param>
+    <param name="Колір" unit="">Чорний</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2850</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166655" available="false">
@@ -104788,7 +104788,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">470</param>
     <param name="Глубина стула" unit="мм">590</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-зеленый</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2835</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166656" available="false">
@@ -104835,7 +104835,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">470</param>
     <param name="Глубина стула" unit="мм">590</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-синий</param>
+    <param name="Колір" unit="">Синій</param>
     <param name="Ширина стула" unit="мм">590</param>
   <param name="Розмір">-</param><article>2836</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166657" available="false">
@@ -106593,7 +106593,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Глибина стільця" unit="мм">500</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Матовый желтый</param>
+    <param name="Колір" unit="">Жовтий</param>
     <param name="Ширина стільця" unit="мм">490</param>
   <param name="Розмір">-</param><article>2263</article><stock_quantity>100</stock_quantity></offer>
   <offer id="1630166712" available="false">
@@ -106636,7 +106636,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Глибина стільця" unit="мм">500</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Матовый черный</param>
+    <param name="Колір" unit="">Чорний</param>
     <param name="Ширина стільця" unit="мм">490</param>
   <param name="Розмір">-</param><article>2260</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166713" available="false">
@@ -106721,7 +106721,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Глибина стільця" unit="мм">500</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Прозрачно-зеленый</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Ширина стільця" unit="мм">490</param>
   <param name="Розмір">-</param><article>2477</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166715" available="false">
@@ -106764,7 +106764,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Глибина стільця" unit="мм">500</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Прозрачно-синий</param>
+    <param name="Колір" unit="">Синій</param>
     <param name="Ширина стільця" unit="мм">490</param>
   <param name="Розмір">-</param><article>2478</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166716" available="false">
@@ -108108,7 +108108,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Высота сиденья стула" unit="">440</param>
     <param name="Глибина стільця" unit="мм">530</param>
     <param name="Наличие спинки" unit="">Да</param>
-    <param name="Колір" unit="">Прозрачно-зеленый</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Ширина стільця" unit="мм">470</param>
   <param name="Розмір">-</param><article>2645</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166765" available="false">
@@ -108381,7 +108381,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Ширина стільця" unit="мм">490</param>
     <param name="Висота стільця з урахуванням спинки" unit="мм">840.0</param>
-    <param name="Колір" unit="">Зелёный</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Тип меблів" unit="">стул</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
   <param name="Розмір">-</param><article>2212</article><stock_quantity>0</stock_quantity></offer>
@@ -108529,7 +108529,7 @@ X-Treme-S WOX — це інноваційний і сучасний стілец
     <param name="Глибина стільця" unit="мм">530</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Прозрачно-зеленый</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Ширина стільця" unit="мм">470</param>
   <param name="Розмір">-</param><article>3010</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166791" available="false">
@@ -108578,7 +108578,7 @@ X-Treme-S WOX — це інноваційний і сучасний стілец
     <param name="Глибина стільця" unit="мм">530</param>
     <param name="Наличие спинки" unit="">Да</param>
     <param name="Форма сидіння" unit="">прямоугольная</param>
-    <param name="Колір" unit="">Прозрачно-красный</param>
+    <param name="Колір" unit="">Червоний</param>
     <param name="Ширина стільця" unit="мм">470</param>
   <param name="Розмір">-</param><article>3008</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630166792" available="false">
@@ -110301,7 +110301,7 @@ X-Treme-S WOX — це інноваційний і сучасний стілец
     <param name="Особенности" unit="">Комплектация подножкой</param>
     <param name="Ширина" unit="">480</param>
     <param name="Гарантійний термін" unit="">24</param>
-    <param name="Колір" unit="">Зелёный</param>
+    <param name="Колір" unit="">Зелений</param>
     <param name="Тип" unit="">Барный стул</param>
   <param name="Розмір">-</param><article>3151</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630167097" available="false">
@@ -110854,7 +110854,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <param name="Вага" unit="">4.23</param>
     <param name="Высота сиденья стула" unit="">446</param>
     <param name="Глибина стільця" unit="мм">523</param>
-    <param name="Колір" unit="">Канареечно-желтый</param>
+    <param name="Колір" unit="">Жовтий</param>
     <param name="Ширина стільця" unit="мм">488</param>
     <param name="Висота стільця з урахуванням спинки" unit="мм">783.0</param>
     <param name="Тип меблів" unit="">стул</param>
@@ -113978,7 +113978,7 @@ X-Treme Sled стильний бар-стілець. Дуже зручний у 
     <url>https://polineo.in.ua/ua/p1630167306-komplekt-dlya-pribirannya.html</url>
     <price>1220</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/2505616858_komplekt-dlya-pribirannya.jpg</picture>
     <picture>https://images.prom.ua/2505612723_komplekt-dlya-pribirannya.jpg</picture>
     <picture>https://images.prom.ua/2505612724_komplekt-dlya-pribirannya.jpg</picture>
@@ -120863,7 +120863,7 @@ PAPATYA — провідний світовий бренд із розробки
     <url>https://polineo.in.ua/ua/p1630167851-plastikovij-kontejner-800.html</url>
     <price>13166</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>118642614</categoryId>
     <picture>https://images.prom.ua/2505610756_plastikovij-kontejner-800.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -120903,7 +120903,7 @@ PAPATYA — провідний світовий бренд із розробки
     <url>https://polineo.in.ua/ua/p1630167852-plastikovij-kontejner-990.html</url>
     <price>21753</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>118642614</categoryId>
     <picture>https://images.prom.ua/2505610757_plastikovij-kontejner-990.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -123817,7 +123817,7 @@ PAPATYA — провідний світовий бренд із розробки
     <url>https://polineo.in.ua/ua/p1630168000-nasadka-shvabru-planet.html</url>
     <price>183</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/2505615763_nasadka-na-shvabru.jpg</picture>
     <picture>https://images.prom.ua/2505615764_nasadka-na-shvabru.jpg</picture>
     <pickup>true</pickup>
@@ -123855,7 +123855,7 @@ PAPATYA — провідний світовий бренд із розробки
     <url>https://polineo.in.ua/ua/p1630168001-nasadka-shvabru-planet.html</url>
     <price>143</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/2505615765_nasadka-na-shvabru.jpg</picture>
     <picture>https://images.prom.ua/2505615766_nasadka-na-shvabru.jpg</picture>
     <pickup>true</pickup>
@@ -124016,7 +124016,7 @@ PAPATYA — провідний світовий бренд із розробки
     <url>https://polineo.in.ua/ua/p1630168012-skladana-shvabra-planet.html</url>
     <price>721</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>36486133</categoryId>
     <picture>https://images.prom.ua/2505616033_skladana-shvabra-planet.jpg</picture>
     <picture>https://images.prom.ua/2505616035_skladana-shvabra-planet.jpg</picture>
     <picture>https://images.prom.ua/2505616037_skladana-shvabra-planet.jpg</picture>
@@ -124757,7 +124757,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630168024-komplekt-richnogo-obslugovuvannya.html</url>
     <price>733</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/2505616325_komplekt-richnogo-obslugovuvannya.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -124798,7 +124798,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630168025-komplekt-richnogo-obslugovuvannya.html</url>
     <price>343</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/2505616328_komplekt-richnogo-obslugovuvannya.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -124837,7 +124837,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630168026-komplekt-richnogo-obslugovuvannya.html</url>
     <price>343</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/2505616330_komplekt-richnogo-obslugovuvannya.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -125458,7 +125458,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630168044-nabir-hozelock-2353.html</url>
     <price>412</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/2505617070_nabir-hozelock-2353.jpg</picture>
     <picture>https://images.prom.ua/2505617071_nabir-hozelock-2353.jpg</picture>
     <pickup>true</pickup>
@@ -125719,7 +125719,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630168050-tajmer-dlya-polivannya.html</url>
     <price>687</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/2505617095_tajmer-dlya-polivannya.jpg</picture>
     <picture>https://images.prom.ua/2505617096_tajmer-dlya-polivannya.jpg</picture>
     <pickup>true</pickup>
@@ -125774,7 +125774,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630168051-tajmer-dlya-polivannya.html</url>
     <price>1580</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/2505617097_tajmer-dlya-polivannya.jpg</picture>
     <picture>https://images.prom.ua/2505617098_tajmer-dlya-polivannya.jpg</picture>
     <picture>https://images.prom.ua/2505617099_tajmer-dlya-polivannya.jpg</picture>
@@ -127146,7 +127146,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630168088-schitka-dlya-vannoyi.html</url>
     <price>46</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/2505618384_schitka-dlya-vannoyi.jpg</picture>
     <picture>https://images.prom.ua/2505618386_schitka-dlya-vannoyi.jpg</picture>
     <picture>https://images.prom.ua/2505612735_schitka-dlya-vannoyi.jpg</picture>
@@ -129419,7 +129419,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169526-nabir-dlya-polivannya.html</url>
     <price>1661</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825583832_nabir-dlya-polivannya.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -129464,7 +129464,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169527-nabir-dlya-polivannya.html</url>
     <price>2633</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825583833_nabir-dlya-polivannya.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -130097,7 +130097,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169541-tajmer-dlya-polivannya.html</url>
     <price>2633</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825584368_tajmer-dlya-polivannya.jpg</picture>
     <picture>https://images.prom.ua/3825584369_tajmer-dlya-polivannya.jpg</picture>
     <picture>https://images.prom.ua/3825584370_tajmer-dlya-polivannya.jpg</picture>
@@ -130153,7 +130153,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169542-tajmer-dlya-polivannya.html</url>
     <price>5267</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825584373_tajmer-dlya-polivannya.jpg</picture>
     <picture>https://images.prom.ua/3825584374_tajmer-dlya-polivannya.jpg</picture>
     <picture>https://images.prom.ua/3825584375_tajmer-dlya-polivannya.jpg</picture>
@@ -130210,7 +130210,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169543-trimach-dlya-shlanga.html</url>
     <price>1374</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825584377_trimach-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825584378_trimach-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825584379_trimach-dlya-shlanga.jpg</picture>
@@ -130335,7 +130335,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169545-trimach-dlya-shlanga.html</url>
     <price>536</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825584386_trimach-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825584387_trimach-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825584388_trimach-dlya-shlanga.jpg</picture>
@@ -130514,7 +130514,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169549-mini-gryadka-dlya.html</url>
     <price>1975</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825584789_mini-gryadka-dlya.jpg</picture>
     <picture>https://images.prom.ua/3825584790_mini-gryadka-dlya.jpg</picture>
     <picture>https://images.prom.ua/3825584791_mini-gryadka-dlya.jpg</picture>
@@ -130572,7 +130572,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169550-nakonechnik-dlya-shlanga.html</url>
     <price>419</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825584801_nakonechnik-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825584802_nakonechnik-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825584803_nakonechnik-dlya-shlanga.jpg</picture>
@@ -131353,7 +131353,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169657-sadovij-vizok-kolesah.html</url>
     <price>1982</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>129298429</categoryId>
     <picture>https://images.prom.ua/3825591530_sadovij-vizok-na.jpg</picture>
     <picture>https://images.prom.ua/3825591532_sadovij-vizok-na.jpg</picture>
     <picture>https://images.prom.ua/3825591534_sadovij-vizok-na.jpg</picture>
@@ -131388,7 +131388,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169658-sadovij-vizok-kolesah.html</url>
     <price>1820</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>129298429</categoryId>
     <picture>https://images.prom.ua/3825591536_sadovij-vizok-na.jpg</picture>
     <picture>https://images.prom.ua/3825591538_sadovij-vizok-na.jpg</picture>
     <picture>https://images.prom.ua/3825591534_sadovij-vizok-na.jpg</picture>
@@ -131423,7 +131423,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169659-lijka-dlya-kvitiv.html</url>
     <price>158</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>129298429</categoryId>
     <picture>https://images.prom.ua/3825592226_lijka-dlya-kvitiv.jpg</picture>
     <picture>https://images.prom.ua/3825592227_lijka-dlya-kvitiv.jpg</picture>
     <picture>https://images.prom.ua/3825592228_lijka-dlya-kvitiv.jpg</picture>
@@ -131465,7 +131465,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169660-lijka-dlya-kvitiv.html</url>
     <price>158</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>129298429</categoryId>
     <picture>https://images.prom.ua/3825592230_lijka-dlya-kvitiv.jpg</picture>
     <picture>https://images.prom.ua/3825592228_lijka-dlya-kvitiv.jpg</picture>
     <picture>https://images.prom.ua/3825592227_lijka-dlya-kvitiv.jpg</picture>
@@ -131507,7 +131507,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169661-lijka-dlya-kvitiv.html</url>
     <price>223</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>129298429</categoryId>
     <picture>https://images.prom.ua/3825592230_lijka-dlya-kvitiv.jpg</picture>
     <picture>https://images.prom.ua/3825592228_lijka-dlya-kvitiv.jpg</picture>
     <picture>https://images.prom.ua/3825592227_lijka-dlya-kvitiv.jpg</picture>
@@ -131551,7 +131551,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169662-lijka-dlya-kvitiv.html</url>
     <price>174</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>129298429</categoryId>
     <picture>https://images.prom.ua/3825592238_lijka-dlya-kvitiv.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -131590,7 +131590,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630169663-lijka-dlya-kvitiv.html</url>
     <price>223</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>129298429</categoryId>
     <picture>https://images.prom.ua/3825592226_lijka-dlya-kvitiv.jpg</picture>
     <picture>https://images.prom.ua/3825592228_lijka-dlya-kvitiv.jpg</picture>
     <picture>https://images.prom.ua/3825592227_lijka-dlya-kvitiv.jpg</picture>
@@ -131854,7 +131854,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630170041-kriplennya-metaleve-dlya.html</url>
     <price>174</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108442778</categoryId>
     <picture>https://images.prom.ua/3825594509_kriplennya-metaleve-dlya.jpg</picture>
     <picture>https://images.prom.ua/3825593391_kriplennya-metaleve-dlya.jpg</picture>
     <picture>https://images.prom.ua/3825594511_kriplennya-metaleve-dlya.jpg</picture>
@@ -131886,7 +131886,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630170076-kriplennya-metaleve-dlya.html</url>
     <price>174</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108442778</categoryId>
     <picture>https://images.prom.ua/3825596550_kriplennya-metaleve-dlya.jpg</picture>
     <picture>https://images.prom.ua/3825596551_kriplennya-metaleve-dlya.jpg</picture>
     <pickup>true</pickup>
@@ -131917,7 +131917,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630170205-kriplennya-metaleve-dlya.html</url>
     <price>174</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108442778</categoryId>
     <picture>https://images.prom.ua/3825603358_kriplennya-metaleve-dlya.jpg</picture>
     <picture>https://images.prom.ua/3825603359_kriplennya-metaleve-dlya.jpg</picture>
     <picture>https://images.prom.ua/3825601592_kriplennya-metaleve-dlya.jpg</picture>
@@ -131950,7 +131950,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630171021-kriplennya-metaleve-dlya.html</url>
     <price>158</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108442778</categoryId>
     <picture>https://images.prom.ua/3825550827_kriplennya-metaleve-dlya.jpg</picture>
     <picture>https://images.prom.ua/3825550828_kriplennya-metaleve-dlya.jpg</picture>
     <picture>https://images.prom.ua/3825550826_kriplennya-metaleve-dlya.jpg</picture>
@@ -132600,7 +132600,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630171049-nakonechnik-dlya-shlanga.html</url>
     <price>733</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825555133_nakonechnik-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825555134_nakonechnik-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825555135_nakonechnik-dlya-shlanga.jpg</picture>
@@ -132641,7 +132641,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630171050-nakonechnik-dlya-shlanga.html</url>
     <price>1752</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825555137_nakonechnik-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825555138_nakonechnik-dlya-shlanga.jpg</picture>
     <picture>https://images.prom.ua/3825555139_nakonechnik-dlya-shlanga.jpg</picture>
@@ -132724,7 +132724,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <url>https://polineo.in.ua/ua/p1630171052-nabir-dlya-polivannya.html</url>
     <price>745</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>108513433</categoryId>
     <picture>https://images.prom.ua/3825555965_nabir-dlya-polivannya.jpg</picture>
     <picture>https://images.prom.ua/3825555966_nabir-dlya-polivannya.jpg</picture>
     <pickup>true</pickup>
@@ -150044,7 +150044,7 @@ pH 7,2±1
     <url>https://polineo.in.ua/ua/p1937361963-derevyana-ruchka-dlya.html</url>
     <price>285</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/4830909218_derevyana-ruchka-dlya.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -150065,7 +150065,7 @@ pH 7,2±1
     <url>https://polineo.in.ua/ua/p1937366770-metaloplastikova-ruchka-dlya.html</url>
     <price>216</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/4830939206_metaloplastikova-ruchka-dlya.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -150086,7 +150086,7 @@ pH 7,2±1
     <url>https://polineo.in.ua/ua/p1937371943-hromoregulyuvannya-ruchka-dlya.html</url>
     <price>807</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/4830957058_hromoregulyuvannya-ruchka-dlya.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -150107,7 +150107,7 @@ pH 7,2±1
     <url>https://polineo.in.ua/ua/p1937378426-alyuminiyeva-ruchka-dlya.html</url>
     <price>664</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/4830990962_alyuminiyeva-ruchka-dlya.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -150128,7 +150128,7 @@ pH 7,2±1
     <url>https://polineo.in.ua/ua/p1937390799-ruchka-rejki-dlya.html</url>
     <price>564</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/4831038838_ruchka-do-rejki.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -150148,7 +150148,7 @@ pH 7,2±1
     <url>https://polineo.in.ua/ua/p1937406841-ruchka-shubki-dlya.html</url>
     <price>302</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/4831058695_ruchka-do-shubki.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -150169,7 +150169,7 @@ pH 7,2±1
     <url>https://polineo.in.ua/ua/p1937922320-ruchka-shubki-dlya.html</url>
     <price>336</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/4831058695_ruchka-do-shubki.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -150195,7 +150195,7 @@ pH 7,2±1
     <url>https://polineo.in.ua/ua/p1937946460-ruchka-shubki-dlya.html</url>
     <price>373</price>
     <currencyId>UAH</currencyId>
-    <categoryId>546348</categoryId>
+    <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/4831058695_ruchka-do-shubki.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
