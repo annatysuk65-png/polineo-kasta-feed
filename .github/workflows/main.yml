@@ -8,45 +8,59 @@ permissions:
   contents: read
 
 jobs:
-  check-prom-feed:
+  compare-catalogs:
     runs-on: ubuntu-latest
     steps:
-      - name: Check Prom XML feed
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Compare Prom and Kasta catalogs
         env:
           PROM_FEED_URL: ${{ secrets.PROM_FEED_URL }}
         run: |
           python - <<'PY'
           import os
+          import glob
           import urllib.request
           import xml.etree.ElementTree as ET
 
           url = os.environ.get("PROM_FEED_URL", "")
           if not url.startswith("https://"):
-              raise SystemExit("PROM_FEED_URL is missing or invalid")
+              raise SystemExit("Missing PROM_FEED_URL")
 
-          try:
-              request = urllib.request.Request(
-                  url, headers={"User-Agent": "PolineoFeedCheck/1.0"}
-              )
-              with urllib.request.urlopen(request, timeout=90) as response:
-                  data = response.read()
+          files = glob.glob("polineo_kasta_edynyi_katalog_*.xml")
+          if len(files) != 1:
+              raise SystemExit("Expected exactly one Kasta XML file")
 
-              root = ET.fromstring(data)
-              offers = root.findall(".//offer")
+          request = urllib.request.Request(
+              url,
+              headers={"User-Agent": "PolineoFeedCheck/1.0"}
+          )
 
-              if not offers:
-                  raise ValueError("No offer elements found")
+          with urllib.request.urlopen(request, timeout=120) as response:
+              prom_data = response.read()
 
-              available = sum(
-                  x.get("available", "").lower() == "true"
-                  for x in offers
-              )
+          prom_root = ET.fromstring(prom_data)
+          kasta_root = ET.parse(files[0]).getroot()
 
-              print("XML downloaded successfully")
-              print("Total offers:", len(offers))
-              print("Available:", available)
-              print("Other availability:", len(offers) - available)
-              print("No changes made to Kasta or GitHub XML")
-          except Exception:
-              raise SystemExit("Feed verification failed")
+          prom_offers = prom_root.findall(".//offer")
+          kasta_offers = kasta_root.findall(".//offer")
+
+          prom_ids = {x.get("id") for x in prom_offers}
+          kasta_ids = {x.get("id") for x in kasta_offers}
+
+          prom_ids.discard(None)
+          kasta_ids.discard(None)
+
+          new_ids = sorted(prom_ids - kasta_ids)
+          missing_ids = sorted(kasta_ids - prom_ids)
+
+          print("Prom offers:", len(prom_offers))
+          print("Kasta XML offers:", len(kasta_offers))
+          print("New IDs from Prom:", len(new_ids))
+          print("IDs missing from Prom:", len(missing_ids))
+
+          print("New product IDs:", ", ".join(new_ids[:30]))
+          print("Missing product IDs:", ", ".join(missing_ids[:30]))
+          print("Comparison complete. No files changed.")
           PY
