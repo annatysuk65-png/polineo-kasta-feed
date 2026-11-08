@@ -87,8 +87,8 @@ jobs:
                       if not base.is_finite() or base <= 0:
                           raise ValueError("Invalid price")
 
-                      price = (base * Decimal("1.15")).quantize(
-                          Decimal("1"), rounding=ROUND_HALF_UP
+                      price = (base * Decimal("1.255")).quantize(
+                          Decimal("0.01"), rounding=ROUND_HALF_UP
                       )
                       target = offer.find("price")
                       if target is None:
