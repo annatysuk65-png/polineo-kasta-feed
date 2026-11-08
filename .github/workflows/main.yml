@@ -8,13 +8,13 @@ permissions:
   contents: read
 
 jobs:
-  compare-catalogs:
+  build-test-feed:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Compare Prom and Kasta catalogs
+      - name: Build test XML
         env:
           PROM_FEED_URL: ${{ secrets.PROM_FEED_URL }}
         run: |
@@ -23,6 +23,7 @@ jobs:
           import glob
           import urllib.request
           import xml.etree.ElementTree as ET
+          from decimal import Decimal, ROUND_HALF_UP
 
           url = os.environ.get("PROM_FEED_URL", "")
           if not url.startswith("https://"):
@@ -30,37 +31,102 @@ jobs:
 
           files = glob.glob("polineo_kasta_edynyi_katalog_*.xml")
           if len(files) != 1:
-              raise SystemExit("Expected exactly one Kasta XML file")
+              raise SystemExit("Expected one Kasta XML file")
 
-          request = urllib.request.Request(
+          req = urllib.request.Request(
               url,
-              headers={"User-Agent": "PolineoFeedCheck/1.0"}
+              headers={"User-Agent": "PolineoSync/1.0"}
+          )
+          with urllib.request.urlopen(req, timeout=120) as r:
+              prom_root = ET.fromstring(r.read())
+
+          tree = ET.parse(files[0])
+          kasta_root = tree.getroot()
+
+          prom = {
+              o.get("id"): o
+              for o in prom_root.findall(".//offer")
+              if o.get("id")
+          }
+          kasta = kasta_root.findall(".//offer")
+          existing = {o.get("id") for o in kasta}
+
+          overrides = {
+              "754311885": Decimal("3771"),
+              "3083334722": Decimal("1850"),
+          }
+
+          updated = 0
+          unavailable = 0
+          prices_updated = 0
+          missing_price = 0
+
+          for offer in kasta:
+              pid = offer.get("id")
+              source = prom.get(pid)
+              available = (
+                  source is not None
+                  and source.get("available", "").lower() == "true"
+              )
+
+              offer.set("available", "true" if available else "false")
+              stock = offer.find("stock_quantity")
+              if stock is None:
+                  stock = ET.SubElement(offer, "stock_quantity")
+              stock.text = "50" if available else "0"
+
+              if not available:
+                  unavailable += 1
+
+              if source is not None:
+                  raw_price = source.findtext("price")
+                  try:
+                      base = overrides.get(pid)
+                      if base is None:
+                          base = Decimal(raw_price.replace(",", "."))
+                      if not base.is_finite() or base <= 0:
+                          raise ValueError("Invalid price")
+
+                      price = (base * Decimal("1.15")).quantize(
+                          Decimal("1"), rounding=ROUND_HALF_UP
+                      )
+                      target = offer.find("price")
+                      if target is None:
+                          target = ET.SubElement(offer, "price")
+                      target.text = str(price)
+                      prices_updated += 1
+                  except (ValueError, TypeError, AttributeError):
+                      missing_price += 1
+
+              updated += 1
+
+          new_ids = sorted(set(prom) - existing)
+          missing_ids = sorted(existing - set(prom))
+
+          tree.write(
+              "polineo_TEST.xml",
+              encoding="utf-8",
+              xml_declaration=True
           )
 
-          with urllib.request.urlopen(request, timeout=120) as response:
-              prom_data = response.read()
+          ET.parse("polineo_TEST.xml")
 
-          prom_root = ET.fromstring(prom_data)
-          kasta_root = ET.parse(files[0]).getroot()
-
-          prom_offers = prom_root.findall(".//offer")
-          kasta_offers = kasta_root.findall(".//offer")
-
-          prom_ids = {x.get("id") for x in prom_offers}
-          kasta_ids = {x.get("id") for x in kasta_offers}
-
-          prom_ids.discard(None)
-          kasta_ids.discard(None)
-
-          new_ids = sorted(prom_ids - kasta_ids)
-          missing_ids = sorted(kasta_ids - prom_ids)
-
-          print("Prom offers:", len(prom_offers))
-          print("Kasta XML offers:", len(kasta_offers))
-          print("New IDs from Prom:", len(new_ids))
+          print("Prom offers:", len(prom))
+          print("Kasta XML offers:", updated)
+          print("Updated prices:", prices_updated)
+          print("Invalid or missing prices:", missing_price)
+          print("Stock 50:", updated - unavailable)
+          print("Stock 0:", unavailable)
+          print("New IDs requiring import:", len(new_ids))
           print("IDs missing from Prom:", len(missing_ids))
-
-          print("New product IDs:", ", ".join(new_ids[:30]))
-          print("Missing product IDs:", ", ".join(missing_ids[:30]))
-          print("Comparison complete. No files changed.")
+          print("New IDs:", ", ".join(new_ids[:20]))
+          print("Missing IDs:", ", ".join(missing_ids[:20]))
+          print("TEST ONLY. Production XML unchanged.")
           PY
+
+      - name: Upload test XML
+        uses: actions/upload-artifact@v4
+        with:
+          name: Polineo-TEST-XML
+          path: polineo_TEST.xml
+          retention-days: 7
