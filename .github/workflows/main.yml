@@ -3,9 +3,15 @@ name: Polineo Kasta Sync
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: polineo-kasta-production
+  cancel-in-progress: false
 
 jobs:
   build-test-feed:
@@ -120,8 +126,14 @@ jobs:
           kasta_offers_container = kasta_root.find(".//offers")
           if kasta_offers_container is None:
               raise SystemExit("Missing <offers> container in Kasta XML")
+          categories_container = kasta_root.find(".//categories")
+          if categories_container is None:
+              raise SystemExit("Missing <categories> in Kasta XML")
           known_categories = {
-              c.get("id") for c in kasta_root.findall(".//categories/category") if c.get("id")
+              c.get("id") for c in categories_container.findall("category") if c.get("id")
+          }
+          prom_categories = {
+              c.get("id"): c for c in prom_root.findall(".//categories/category") if c.get("id")
           }
           
           updated_prices = 0
@@ -148,9 +160,18 @@ jobs:
           for pid in new_ids:
               source = prom[pid]
               cat_id = (source.findtext("categoryId") or "").strip()
-              if not cat_id or cat_id not in known_categories:
-                  skipped_new.append((pid, "Unmapped category: " + cat_id))
+              if not cat_id:
+                  skipped_new.append((pid, "Missing source category"))
                   continue
+              # Preserve new categories in XML. Kasta may still require manual mapping.
+              if cat_id not in known_categories:
+                  category = prom_categories.get(cat_id)
+                  if category is None:
+                      skipped_new.append((pid, "No category definition: " + cat_id))
+                      continue
+                  categories_container.append(copy.deepcopy(category))
+                  known_categories.add(cat_id)
+                  print("NEW CATEGORY NEEDS KASTA MAPPING:", cat_id)
               offer = copy.deepcopy(source)
               try:
                   set_price(offer, source)
@@ -162,7 +183,13 @@ jobs:
               kasta_offers_container.append(offer)
               added.append(pid)
           
-          # Test output only. Never overwrite the GitHub production XML.
+          # Build and validate a test file before replacing the production XML.
+          if len(missing_ids) > 200:
+              raise SystemExit("Too many missing Prom IDs; refusing publication")
+          if len(invalid_existing_prices) > 0:
+              raise SystemExit("Invalid existing prices; refusing publication")
+          if skipped_new:
+              raise SystemExit("Some new products could not be added; refusing publication")
           tree.write(OUTPUT, encoding="utf-8", xml_declaration=True)
           result = ET.parse(OUTPUT)
           final_offers = result.findall(".//offer")
@@ -179,8 +206,23 @@ jobs:
           print("New IDs:", ", ".join(added[:20]))
           print("Skipped new examples:", skipped_new[:20])
           print("Invalid price examples:", invalid_existing_prices[:20])
-          print("TEST ONLY: production XML remains unchanged")
+          # Publish only after all validations and full XML parsing succeed.
+          import shutil
+          shutil.copyfile(OUTPUT, files[0])
+          print("Validated XML copied to production path:", files[0])
           PY
+
+      - name: Commit updated production XML
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- 'polineo_kasta_edynyi_katalog_'*.xml
+          if git diff --cached --quiet; then
+            echo "No changes in XML"
+          else
+            git commit -m "Sync Polineo Kasta catalog from Prom"
+            git push
+          fi
 
       - name: Upload test XML
         uses: actions/upload-artifact@v4
