@@ -19,109 +19,167 @@ jobs:
           PROM_FEED_URL: ${{ secrets.PROM_FEED_URL }}
         run: |
           python - <<'PY'
-          import os
+          import copy
           import glob
+          import os
           import urllib.request
           import xml.etree.ElementTree as ET
-          from decimal import Decimal, ROUND_HALF_UP
-
+          from decimal import Decimal, InvalidOperation, ROUND_HALF_UP
+          
+          MARKUP = Decimal("1.255")
+          STOCK_AVAILABLE = "50"
+          STOCK_UNAVAILABLE = "0"
+          OUTPUT = "polineo_TEST.xml"
+          
+          
+          def ordinary_price(offer):
+              raw = offer.findtext("price")
+              if not raw:
+                  raise ValueError("Missing regular price")
+              try:
+                  current = Decimal(raw.strip().replace(",", "."))
+                  old_raw = offer.findtext("oldprice") or offer.findtext("old_price")
+                  old = Decimal(old_raw.strip().replace(",", ".")) if old_raw else None
+              except (InvalidOperation, AttributeError) as exc:
+                  raise ValueError("Invalid price data") from exc
+              if not current.is_finite() or current <= 0:
+                  raise ValueError("Invalid regular price")
+              if old is not None and old.is_finite() and old > current:
+                  return old
+              return current
+          
+          
+          def set_text(offer, tag, value):
+              element = offer.find(tag)
+              if element is None:
+                  element = ET.SubElement(offer, tag)
+              element.text = value
+          
+          
+          def clean_discounts(offer):
+              for tag in ("oldprice", "old_price"):
+                  for element in offer.findall(tag):
+                      offer.remove(element)
+          
+          
+          def set_price(offer, source):
+              amount = (ordinary_price(source) * MARKUP).quantize(
+                  Decimal("0.01"), rounding=ROUND_HALF_UP
+              )
+              set_text(offer, "price", str(amount))
+              clean_discounts(offer)
+          
+          
+          def set_availability(offer, source):
+              available = source is not None and source.get("available", "").lower() == "true"
+              offer.set("available", "true" if available else "false")
+              set_text(offer, "stock_quantity", STOCK_AVAILABLE if available else STOCK_UNAVAILABLE)
+              return available
+          
+          
+          def ensure_new_fields(offer, pid):
+              vendor = (offer.findtext("vendor") or "").strip()
+              if not vendor:
+                  set_text(offer, "vendor", "No Brand")
+              if offer.find("article") is None:
+                  set_text(offer, "article", "POL-" + pid)
+              params = {p.get("name", "").strip().casefold() for p in offer.findall("param")}
+              if "колір" not in params:
+                  ET.SubElement(offer, "param", {"name": "Колір"}).text = "комбінований/в асортименті"
+              if "розмір" not in params:
+                  ET.SubElement(offer, "param", {"name": "Розмір"}).text = "без розміру"
+          
+          
           url = os.environ.get("PROM_FEED_URL", "")
           if not url.startswith("https://"):
-              raise SystemExit("Missing PROM_FEED_URL")
-
+              raise SystemExit("Missing HTTPS PROM_FEED_URL")
+          
           files = glob.glob("polineo_kasta_edynyi_katalog_*.xml")
           if len(files) != 1:
-              raise SystemExit("Expected one Kasta XML file")
-
-          req = urllib.request.Request(
-              url,
-              headers={"User-Agent": "PolineoSync/1.0"}
-          )
-          with urllib.request.urlopen(req, timeout=120) as r:
-              prom_root = ET.fromstring(r.read())
-
+              raise SystemExit("Expected exactly one production Kasta XML file")
+          
+          request = urllib.request.Request(url, headers={"User-Agent": "PolineoSync/1.0"})
+          with urllib.request.urlopen(request, timeout=120) as response:
+              prom_root = ET.fromstring(response.read())
+          
           tree = ET.parse(files[0])
           kasta_root = tree.getroot()
-
-          prom = {
-              o.get("id"): o
-              for o in prom_root.findall(".//offer")
-              if o.get("id")
+          prom_offers = prom_root.findall(".//offer")
+          orig_offers = kasta_root.findall(".//offer")
+          prom = {o.get("id"): o for o in prom_offers if o.get("id")}
+          existing = {o.get("id") for o in orig_offers if o.get("id")}
+          
+          # Guard against empty/partial Prom exports or accidentally malformed catalogs.
+          if len(prom) < 5000 or len(orig_offers) < 5000:
+              raise SystemExit("Suspiciously small feed; no test XML generated")
+          if len(prom) != len([o for o in prom_offers if o.get("id")]):
+              raise SystemExit("Duplicate product IDs in Prom feed")
+          if len(existing) != len(orig_offers):
+              raise SystemExit("Duplicate or empty IDs in Kasta XML")
+          
+          kasta_offers_container = kasta_root.find(".//offers")
+          if kasta_offers_container is None:
+              raise SystemExit("Missing <offers> container in Kasta XML")
+          known_categories = {
+              c.get("id") for c in kasta_root.findall(".//categories/category") if c.get("id")
           }
-          kasta = kasta_root.findall(".//offer")
-          existing = {o.get("id") for o in kasta}
-
-          overrides = {
-              "754311885": Decimal("3771"),
-              "3083334722": Decimal("1850"),
-          }
-
-          updated = 0
-          unavailable = 0
-          prices_updated = 0
-          missing_price = 0
-
-          for offer in kasta:
+          
+          updated_prices = 0
+          invalid_existing_prices = []
+          stock_zero = 0
+          for offer in orig_offers:
               pid = offer.get("id")
               source = prom.get(pid)
-              available = (
-                  source is not None
-                  and source.get("available", "").lower() == "true"
-              )
-
-              offer.set("available", "true" if available else "false")
-              stock = offer.find("stock_quantity")
-              if stock is None:
-                  stock = ET.SubElement(offer, "stock_quantity")
-              stock.text = "50" if available else "0"
-
-              if not available:
-                  unavailable += 1
-
+              if not set_availability(offer, source):
+                  stock_zero += 1
               if source is not None:
-                  raw_price = source.findtext("price")
                   try:
-                      base = overrides.get(pid)
-                      if base is None:
-                          base = Decimal(raw_price.replace(",", "."))
-                      if not base.is_finite() or base <= 0:
-                          raise ValueError("Invalid price")
-
-                      price = (base * Decimal("1.255")).quantize(
-                          Decimal("0.01"), rounding=ROUND_HALF_UP
-                      )
-                      target = offer.find("price")
-                      if target is None:
-                          target = ET.SubElement(offer, "price")
-                      target.text = str(price)
-                      prices_updated += 1
-                  except (ValueError, TypeError, AttributeError):
-                      missing_price += 1
-
-              updated += 1
-
+                      set_price(offer, source)
+                      updated_prices += 1
+                  except (ValueError, InvalidOperation, TypeError, AttributeError):
+                      invalid_existing_prices.append(pid)
+              # Remove possible Prom discount metadata for existing offers too.
+              clean_discounts(offer)
+          
           new_ids = sorted(set(prom) - existing)
           missing_ids = sorted(existing - set(prom))
-
-          tree.write(
-              "polineo_TEST.xml",
-              encoding="utf-8",
-              xml_declaration=True
-          )
-
-          ET.parse("polineo_TEST.xml")
-
+          added = []
+          skipped_new = []
+          for pid in new_ids:
+              source = prom[pid]
+              cat_id = (source.findtext("categoryId") or "").strip()
+              if not cat_id or cat_id not in known_categories:
+                  skipped_new.append((pid, "Unmapped category: " + cat_id))
+                  continue
+              offer = copy.deepcopy(source)
+              try:
+                  set_price(offer, source)
+              except (ValueError, InvalidOperation, TypeError, AttributeError):
+                  skipped_new.append((pid, "Invalid price"))
+                  continue
+              set_availability(offer, source)
+              ensure_new_fields(offer, pid)
+              kasta_offers_container.append(offer)
+              added.append(pid)
+          
+          # Test output only. Never overwrite the GitHub production XML.
+          tree.write(OUTPUT, encoding="utf-8", xml_declaration=True)
+          result = ET.parse(OUTPUT)
+          final_offers = result.findall(".//offer")
+          assert len(final_offers) == len(orig_offers) + len(added)
+          assert len({o.get("id") for o in final_offers}) == len(final_offers)
           print("Prom offers:", len(prom))
-          print("Kasta XML offers:", updated)
-          print("Updated prices:", prices_updated)
-          print("Invalid or missing prices:", missing_price)
-          print("Stock 50:", updated - unavailable)
-          print("Stock 0:", unavailable)
-          print("New IDs requiring import:", len(new_ids))
-          print("IDs missing from Prom:", len(missing_ids))
-          print("New IDs:", ", ".join(new_ids[:20]))
-          print("Missing IDs:", ", ".join(missing_ids[:20]))
-          print("TEST ONLY. Production XML unchanged.")
+          print("Existing Kasta offers:", len(orig_offers))
+          print("Updated existing prices:", updated_prices)
+          print("Stock 0 on existing offers:", stock_zero)
+          print("New offers added:", len(added))
+          print("New offers skipped:", len(skipped_new))
+          print("Existing IDs missing in Prom (stock 0):", len(missing_ids))
+          print("Invalid existing prices:", len(invalid_existing_prices))
+          print("New IDs:", ", ".join(added[:20]))
+          print("Skipped new examples:", skipped_new[:20])
+          print("Invalid price examples:", invalid_existing_prices[:20])
+          print("TEST ONLY: production XML remains unchanged")
           PY
 
       - name: Upload test XML
