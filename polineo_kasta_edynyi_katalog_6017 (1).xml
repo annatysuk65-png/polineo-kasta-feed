@@ -52770,7 +52770,7 @@ FROSCH видаляє природним способом відкладення
     <vendorCode>Frosch</vendorCode>
     <description>Ополіскувач для сяйного посуду. Висушування без утворення нальоту завдяки натуральній фруктовій кислоті.</description>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="927780476" available="true">
+  <offer id="927780476" available="false">
     <url>https://polineo.in.ua/ua/p927780476-zasib-dlya-unitazu.html</url>
     <price>309.99</price>
     <currencyId>UAH</currencyId>
@@ -52782,7 +52782,7 @@ FROSCH видаляє природним способом відкладення
     <vendor>Bref</vendor>
     <vendorCode>Bref</vendorCode>
     <description>Засіб для чищення унітазу Bref Сила-Актив 4 в 1 формула: гігієна, захист від накипу, свіжість і піна. Тверді туалетні блоки Bref Сила-Актив - незвичайні за своїм дизайном і унікальні по своїй дії. Під час змивання Bref Сила-Актив утворює активну піну, яка ефективно очищає поверхню унітазу і попереджає утворення вапняного нальоту. Крім потужної формули, продукт надає приємний аромат і свіжість Вашої туалетній кімнаті. 2 + 1 безкоштовно! Вигідно!</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Bref</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Bref</article><stock_quantity>0</stock_quantity></offer>
   <offer id="927785815" available="true">
     <url>https://polineo.in.ua/ua/p927785815-blok-tualetnij-bref.html</url>
     <price>309.99</price>
