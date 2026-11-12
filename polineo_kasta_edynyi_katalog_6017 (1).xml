@@ -27887,7 +27887,7 @@ pH - 10,4 ± 1
     <param name="Страна происхождения" unit="">Турция</param>
     <param name="Размеры, мм" unit="">140*240*270(h) мм</param>
   <param name="Розмір">-</param><article>JRWBb124</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="586954309" available="true">
+  <offer id="586954309" available="false">
     <url>https://polineo.in.ua/ua/p586954309-ck756-vizok-dlya.html</url>
     <price>5636.21</price>
     <currencyId>UAH</currencyId>
@@ -27973,7 +27973,7 @@ pH - 10,4 ± 1
     <param name="Призначення" unit="">уборочная тележка 2 ведра</param>
     <param name="Размеры, мм" unit="">900*450*800</param>
     <param name="Вес (кг)" unit="">10,5</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CK756</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CK756</article><stock_quantity>0</stock_quantity></offer>
   <offer id="586956225" available="true">
     <url>https://polineo.in.ua/ua/p586956225-ck759-vizok-dlya.html</url>
     <price>10575.89</price>
@@ -133530,7 +133530,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <param name="Размеры, мм" unit="">40,5х31,8х52,5</param>
     <param name="Цвет / Покрытие" unit="">Белый</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ВП-45sat</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1646938655" available="true">
+  <offer id="1646938655" available="false">
     <url>https://polineo.in.ua/ua/p1646938655-vizok-dlya-pribirannya.html</url>
     <price>5603.58</price>
     <currencyId>UAH</currencyId>
@@ -133554,7 +133554,7 @@ Hozelock — інноваційна компанія, перша у світі, 
 Розміри, мм: 900*450*800
 </description>
     <param name="Матеріал">Пластик</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CK756S</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CK756S</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1648900701" available="true">
     <url>https://polineo.in.ua/ua/p1648900701-emkist-5000-vertikalna.html</url>
     <price>38743.11</price>
