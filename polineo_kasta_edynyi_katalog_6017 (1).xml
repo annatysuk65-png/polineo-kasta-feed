@@ -1804,9 +1804,9 @@
     <param name="Размеры, мм" unit="">40,5х31,8х52,5</param>
     <param name="Цвет / Покрытие" unit="">Белый</param>
   <param name="Розмір">-</param><article>ВП-45</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533719983" available="true">
+  <offer id="533719983" available="false">
     <url>https://polineo.in.ua/ua/p533719983-k6zm-dispenser-listovogo.html</url>
-    <price>557932.84</price>
+    <price>564.75</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342002</categoryId>
     <picture>https://images.prom.ua/788563478_k6zm-dispenser-listovogo.jpg</picture>
@@ -1825,7 +1825,7 @@
     <param name="Крепеж" unit="">Да</param>
     <param name="Страна происхождения" unit="">Евпропа</param>
     <param name="Размеры, мм" unit="">135х120х225</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>K6ZM</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>K6ZM</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533719986" available="true">
     <url>https://polineo.in.ua/ua/p533719986-dozator-ridkogo-mila.html</url>
     <price>1667.90</price>
@@ -4779,7 +4779,7 @@ Airwick апарат +
   <param name="Розмір">-</param><article>5320</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720758" available="true">
     <url>https://polineo.in.ua/ua/p533720758-tualetnij-papir-dzhambo.html</url>
-    <price>1054.83</price>
+    <price>1132.01</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/788569735_tualetnij-papir-dzhambo.jpg</picture>
@@ -5466,7 +5466,7 @@ pH - 10,5 ± 1
   <param name="Колір">Прозорий</param><param name="Розмір">-</param><article>562T</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720797" available="true">
     <url>https://polineo.in.ua/ua/p533720797-tualetnij-papir-ruloni.html</url>
-    <price>884.78</price>
+    <price>945.02</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/788570454_tualetnij-papir-u.jpg</picture>
@@ -8262,7 +8262,7 @@ Tовщина корпусу — 3 мм пластик
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Солярис-М</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533721501" available="true">
     <url>https://polineo.in.ua/ua/p533721501-nakladki-unitaz-mini.html</url>
-    <price>233.43</price>
+    <price>251.00</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341981</categoryId>
     <picture>https://images.prom.ua/2948443275_nakladki-na-unitaz.jpg</picture>
@@ -13994,7 +13994,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FRA-20638</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722864" available="true">
     <url>https://polineo.in.ua/ua/p533722864-v303-tualetnij-papir.html</url>
-    <price>1261.69</price>
+    <price>1347.87</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/788587518_v303-tualetnij-papir.jpg</picture>
@@ -15937,7 +15937,7 @@ pH - 8,2±1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>AI0090C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723123" available="true">
     <url>https://polineo.in.ua/ua/p533723123-vizok-dlya-pribirannya.html</url>
-    <price>7699.43</price>
+    <price>8157.50</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/788590441_vizok-dlya-pribirannya.jpg</picture>
@@ -27976,7 +27976,7 @@ pH - 10,4 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CK756</article><stock_quantity>0</stock_quantity></offer>
   <offer id="586956225" available="true">
     <url>https://polineo.in.ua/ua/p586956225-ck759-vizok-dlya.html</url>
-    <price>10575.89</price>
+    <price>11108.01</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/914217089_ck759-vizok-dlya.jpg</picture>
@@ -32266,7 +32266,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>ВП-10sat</article><stock_quantity>50</stock_quantity></offer>
   <offer id="693285010" available="true">
     <url>https://polineo.in.ua/ua/p693285010-vizok-dlya-pribirannya.html</url>
-    <price>7664.29</price>
+    <price>8121.11</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1141746465_vizok-dlya-pribirannya.jpg</picture>
@@ -55309,7 +55309,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1500</article><stock_quantity>50</stock_quantity></offer>
   <offer id="987661002" available="true">
     <url>https://polineo.in.ua/ua/p987661002-nakladki-unitaz-mini.html</url>
-    <price>175.79</price>
+    <price>188.25</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341981</categoryId>
     <picture>https://images.prom.ua/2948432807_nakladki-na-unitaz.jpg</picture>
@@ -69243,7 +69243,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>6088</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1361485112" available="true">
     <url>https://polineo.in.ua/ua/p1361485112-tualetnij-papir-ruloni.html</url>
-    <price>744.22</price>
+    <price>794.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/6567372366_tualetnij-papir-v.jpg</picture>
@@ -69275,7 +69275,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>203021</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1361487842" available="false">
     <url>https://polineo.in.ua/ua/p1361487842-tualetnij-papir-ruloni.html</url>
-    <price>734.18</price>
+    <price>859.68</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/2944991160_tualetnij-papir-v.jpg</picture>
@@ -69307,7 +69307,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>203022</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1361496585" available="true">
     <url>https://polineo.in.ua/ua/p1361496585-tualetnij-papir-ruloni.html</url>
-    <price>997.73</price>
+    <price>1071.77</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/2945007150_tualetnij-papir-v.jpg</picture>
@@ -69402,7 +69402,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B202</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1361549207" available="true">
     <url>https://polineo.in.ua/ua/p1361549207-tualetnij-papir-ruloni.html</url>
-    <price>602.40</price>
+    <price>642.56</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/2945130932_tualetnij-papir-v.jpg</picture>
@@ -69464,7 +69464,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>B917</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1361559515" available="true">
     <url>https://polineo.in.ua/ua/p1361559515-tualetnij-papir-ruloni.html</url>
-    <price>496.98</price>
+    <price>530.87</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/2945178710_tualetnij-papir-v.jpg</picture>
@@ -133530,9 +133530,9 @@ Hozelock — інноваційна компанія, перша у світі, 
     <param name="Размеры, мм" unit="">40,5х31,8х52,5</param>
     <param name="Цвет / Покрытие" unit="">Белый</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ВП-45sat</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1646938655" available="false">
+  <offer id="1646938655" available="true">
     <url>https://polineo.in.ua/ua/p1646938655-vizok-dlya-pribirannya.html</url>
-    <price>5603.58</price>
+    <price>5997.65</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/3878902608_vizok-dlya-pribirannya.jpg</picture>
@@ -133554,7 +133554,7 @@ Hozelock — інноваційна компанія, перша у світі, 
 Розміри, мм: 900*450*800
 </description>
     <param name="Матеріал">Пластик</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CK756S</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CK756S</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1648900701" available="true">
     <url>https://polineo.in.ua/ua/p1648900701-emkist-5000-vertikalna.html</url>
     <price>38743.11</price>
@@ -139986,7 +139986,7 @@ V-складка
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B305</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1781109819" available="true">
     <url>https://polineo.in.ua/ua/p1781109819-tualetnij-papir-ruloni.html</url>
-    <price>751.75</price>
+    <price>775.59</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/4307149869_tualetnij-papir-u.jpg</picture>
@@ -146589,7 +146589,7 @@ steel-to-rubber/ є
   <param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>00000862U</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1867576873" available="false">
     <url>https://polineo.in.ua/ua/p1867576873-tualetnij-papir-pachtsi.html</url>
-    <price>1550.05</price>
+    <price>1656.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/4593057486_tualetnij-papir-u.jpg</picture>
@@ -154396,7 +154396,7 @@ CHH-7704. Портативний (автономний) мобільний ст�
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>HSK810</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2023797902" available="true">
     <url>https://polineo.in.ua/ua/p2023797902-vizok-dlya-pribirannya.html</url>
-    <price>7718.25</price>
+    <price>8176.33</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/5122311121_vizok-dlya-pribirannya.jpg</picture>
@@ -155648,7 +155648,7 @@ ABS-пластик
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>AI0129C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2185112399" available="true">
     <url>https://polineo.in.ua/ua/p2185112399-vizok-dlya-pribirannya.html</url>
-    <price>4863.13</price>
+    <price>5268.49</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/5718649352_vizok-dlya-pribirannya.jpg</picture>
@@ -172965,7 +172965,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">30мм</param><article>S010004</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2792255564" available="false">
     <url>https://polineo.in.ua/ua/p2792255564-tualetnij-papir-pachtsi.html</url>
-    <price>1389.29</price>
+    <price>1479.65</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/6884010155_tualetnij-papir-u.jpg</picture>
