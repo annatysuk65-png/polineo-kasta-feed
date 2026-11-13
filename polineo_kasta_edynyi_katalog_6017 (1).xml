@@ -2351,7 +2351,7 @@
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>755</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720035" available="true">
     <url>https://polineo.in.ua/ua/p533720035-schitka-dlya-pidmitannya.html</url>
-    <price>197.04</price>
+    <price>183.23</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788564698_schitka-dlya-pidmitannya.jpg</picture>
@@ -2503,7 +2503,7 @@
   <vendor>No Brand</vendor><param name="Розмір">145 см</param><article>1081V</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720054" available="true">
     <url>https://polineo.in.ua/ua/p533720054-dozator-mila-abo.html</url>
-    <price>786.89</price>
+    <price>801.95</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/2301175160_dozator-mila-abo.jpg</picture>
@@ -3810,7 +3810,7 @@ Tовщина корпусу — 1,5 мм
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Дез - 3</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720160" available="true">
     <url>https://polineo.in.ua/ua/p533720160-vidro-dlya-mijki.html</url>
-    <price>1730.65</price>
+    <price>1821.01</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/3034067209_vidro-dlya-mijki.jpg</picture>
@@ -5015,7 +5015,7 @@ CE, UL, СВ, RoHS.</description>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CW1442</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720775" available="true">
     <url>https://polineo.in.ua/ua/p533720775-dozator-mila-abo.html</url>
-    <price>422.94</price>
+    <price>430.47</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1405834728_dozator-mila-abo.jpg</picture>
@@ -5156,9 +5156,9 @@ CE, UL, СВ, RoHS.</description>
     <param name="Длина, см" unit="">50</param>
     <param name="Матеріал" unit="">АВС Пластик</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>KS.50</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720784" available="false">
+  <offer id="533720784" available="true">
     <url>https://polineo.in.ua/ua/p533720784-medichnij-dozator-mila.html</url>
-    <price>494.47</price>
+    <price>478.16</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1405841843_medichnij-dozator-mila.jpg</picture>
@@ -5199,7 +5199,7 @@ CE, UL, СВ, RoHS.</description>
     <param name="Страна происхождения" unit="">Европа</param>
     <param name="Тип дозатора" unit="">Локтевой, наливной</param>
     <param name="Цвет / Покрытие" unit="">Белый</param>
-  <param name="Розмір">-</param><article>S5М</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Розмір">-</param><article>S5М</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720785" available="true">
     <url>https://polineo.in.ua/ua/p533720785-dozator-ridkogo-mila.html</url>
     <price>2354.38</price>
@@ -6354,7 +6354,7 @@ pH - 10,5 ± 1
   <param name="Розмір">-</param><article>С501</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720852" available="true">
     <url>https://polineo.in.ua/ua/p533720852-dozator-mila-pini.html</url>
-    <price>581.07</price>
+    <price>592.36</price>
     <currencyId>UAH</currencyId>
     <categoryId>36486362</categoryId>
     <picture>https://images.prom.ua/788571700_dozator-mila-pini.jpg</picture>
@@ -7328,7 +7328,7 @@ pH - 6,8 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>658C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720949" available="true">
     <url>https://polineo.in.ua/ua/p533720949-dozator-mila-abo.html</url>
-    <price>347.64</price>
+    <price>353.91</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1405837427_dozator-mila-abo.jpg</picture>
@@ -10521,7 +10521,7 @@ pH - 9,0 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">60 см</param><article>0142</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722085" available="true">
     <url>https://polineo.in.ua/ua/p533722085-schitka-dlya-pidmitannya.html</url>
-    <price>545.93</price>
+    <price>568.52</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788581266_schitka-dlya-pidmitannya.jpg</picture>
@@ -13047,7 +13047,7 @@ Tовщина корпусу — 3 мм пластик
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>AI0100CS</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722325" available="true">
     <url>https://polineo.in.ua/ua/p533722325-schitka-dlya-pidmitannya.html</url>
-    <price>539.65</price>
+    <price>568.52</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788585830_schitka-dlya-pidmitannya.jpg</picture>
@@ -14536,7 +14536,7 @@ pH - 8,4 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>AI0020C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722952" available="true">
     <url>https://polineo.in.ua/ua/p533722952-metalevij-skrebok-plastikovoyu.html</url>
-    <price>426.70</price>
+    <price>436.74</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788588437_metalevij-skrebok-z.jpg</picture>
@@ -16090,7 +16090,7 @@ pH - 8,2±1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>DJF0038ACS</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723131" available="true">
     <url>https://polineo.in.ua/ua/p533723131-vidro-dlya-mijki.html</url>
-    <price>2508.75</price>
+    <price>2617.93</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/788590638_vidro-dlya-mijki.jpg</picture>
@@ -16870,7 +16870,7 @@ pH - 8,0 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FRA- 11715</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723419" available="true">
     <url>https://polineo.in.ua/ua/p533723419-dozator-mila-abo.html</url>
-    <price>347.64</price>
+    <price>353.91</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1405832360_dozator-mila-abo.jpg</picture>
@@ -17157,7 +17157,7 @@ pH - 8,0 ± 1
   <param name="Розмір">-</param><article>566</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723450" available="true">
     <url>https://polineo.in.ua/ua/p533723450-ktf345-schitka-prasku.html</url>
-    <price>81.58</price>
+    <price>85.34</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/2170831846_ktf345-schitka-prasku.jpg</picture>
@@ -20220,7 +20220,7 @@ pH - 2,8 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>PP0065CS</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723806" available="true">
     <url>https://polineo.in.ua/ua/p533723806-dozator-mila-abo.html</url>
-    <price>564.75</price>
+    <price>573.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1405833701_dozator-mila-abo.jpg</picture>
@@ -21134,7 +21134,7 @@ pH - 6,9±1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TD-8314S</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723878" available="true">
     <url>https://polineo.in.ua/ua/p533723878-rukoyatka-metaleva-rizba.html</url>
-    <price>322.54</price>
+    <price>332.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/3034167531_rukoyatka-metaleva-rizba.jpg</picture>
@@ -23801,7 +23801,7 @@ pH - 9,9 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>0548</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724174" available="true">
     <url>https://polineo.in.ua/ua/p533724174-schitka-dlya-pidmitannya.html</url>
-    <price>174.45</price>
+    <price>141.82</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788603126_schitka-dlya-pidmitannya.jpg</picture>
@@ -25547,7 +25547,7 @@ pH - 2,3 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>AWK-1L</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724361" available="true">
     <url>https://polineo.in.ua/ua/p533724361-medichnij-dozator-mila.html</url>
-    <price>680.21</price>
+    <price>691.51</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1405842261_medichnij-dozator-mila.jpg</picture>
@@ -25774,7 +25774,7 @@ pH - 2,3 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FIO-10</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724373" available="true">
     <url>https://polineo.in.ua/ua/p533724373-dozator-mila-abo.html</url>
-    <price>228.41</price>
+    <price>227.16</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1405837740_dozator-mila-abo.jpg</picture>
@@ -26477,7 +26477,7 @@ pH - 12,1 ± 1
   <param name="Колір">Комбінований</param><article>500113</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724444" available="true">
     <url>https://polineo.in.ua/ua/p533724444-nabir-lez-dlya.html</url>
-    <price>495.73</price>
+    <price>489.45</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788606932_nabir-lez-dlya.jpg</picture>
@@ -27562,7 +27562,7 @@ pH - 10,4 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>PCK489</article><stock_quantity>50</stock_quantity></offer>
   <offer id="583372688" available="true">
     <url>https://polineo.in.ua/ua/p583372688-sk490-metalevij-zatiskach.html</url>
-    <price>150.60</price>
+    <price>148.09</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/905680320_sk490-metalevij-zatiskach.jpg</picture>
@@ -33931,7 +33931,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>Сумка универсальная</article><stock_quantity>0</stock_quantity></offer>
   <offer id="738613627" available="true">
     <url>https://polineo.in.ua/ua/p738613627-schitka-dlya-pidmitannya.html</url>
-    <price>181.98</price>
+    <price>188.25</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/1239764967_schitka-dlya-pidmitannya.jpg</picture>
@@ -38329,7 +38329,7 @@ CHH20
   <param name="Розмір">-</param><article>28-1000</article><stock_quantity>50</stock_quantity></offer>
   <offer id="812650533" available="true">
     <url>https://polineo.in.ua/ua/p812650533-dozator-mila-abo.html</url>
-    <price>390.31</price>
+    <price>396.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1405857362_dozator-mila-abo.jpg</picture>
@@ -41362,7 +41362,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">55 см</param><article>KCY5585</article><stock_quantity>50</stock_quantity></offer>
   <offer id="864748627" available="true">
     <url>https://polineo.in.ua/ua/p864748627-koshik-podvijnij-dlya.html</url>
-    <price>676.45</price>
+    <price>705.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1527255277_koshik-podvijnij-dlya.jpg</picture>
@@ -48402,7 +48402,7 @@ pH - 9
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FRA-11690</article><stock_quantity>50</stock_quantity></offer>
   <offer id="891695275" available="true">
     <url>https://polineo.in.ua/ua/p891695275-schitka-dlya-pidmitannya.html</url>
-    <price>144.33</price>
+    <price>138.05</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/1594820083_schitka-dlya-pidmitannya.jpg</picture>
@@ -48732,7 +48732,7 @@ pH - 9
   <param name="Розмір">-</param><article>DJ0037А</article><stock_quantity>0</stock_quantity></offer>
   <offer id="898714289" available="true">
     <url>https://polineo.in.ua/ua/p898714289-medichnij-dozator-mila.html</url>
-    <price>603.66</price>
+    <price>614.95</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1608263104_medichnij-dozator-mila-pini.jpg</picture>
@@ -48873,7 +48873,7 @@ pH - 9
   <param name="Розмір">-</param><article>716</article><stock_quantity>50</stock_quantity></offer>
   <offer id="899029164" available="true">
     <url>https://polineo.in.ua/ua/p899029164-dozator-mila-abo.html</url>
-    <price>473.14</price>
+    <price>481.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1608866666_dozator-mila-abo.jpg</picture>
@@ -48900,7 +48900,7 @@ pH - 9
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S5B</article><stock_quantity>50</stock_quantity></offer>
   <offer id="899037743" available="true">
     <url>https://polineo.in.ua/ua/p899037743-medichnij-dozator-mila.html</url>
-    <price>550.95</price>
+    <price>560.99</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/1608880708_medichnij-dozator-mila.jpg</picture>
@@ -52455,7 +52455,7 @@ Persil Expert має найкращу формулу у своїй історі�
     <vendorCode>Fairy</vendorCode>
     <description>Fairy Апельсин і Лимонник видалить пахнуть залишки їжі з вашої посуду, залишивши посуд свіжим і сяюче чистим.</description>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Fairy</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="924948761" available="true">
+  <offer id="924948761" available="false">
     <url>https://polineo.in.ua/ua/p924948761-zasib-fairy-zelene.html</url>
     <price>140.56</price>
     <currencyId>UAH</currencyId>
@@ -52467,7 +52467,7 @@ Persil Expert має найкращу формулу у своїй історі�
     <vendor>Fairy</vendor>
     <vendorCode>Fairy</vendorCode>
     <description>Fairy Яблуко видалить пахнуть залишки їжі з вашої посуду, залишивши посуд свіжим і сяюче чистим.</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Fairy</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Fairy</article><stock_quantity>0</stock_quantity></offer>
   <offer id="924962318" available="true">
     <url>https://polineo.in.ua/ua/p924962318-zasib-dlya-mittya.html</url>
     <price>227.16</price>
@@ -52560,7 +52560,7 @@ Persil Expert має найкращу формулу у своїй історі�
     <vendorCode>Frosch</vendorCode>
     <description>Очисний бальзам для посуду видаляє природним способом стійкі жирні забруднення завдяки високоефективним біологічним розчинникам жиру, отриманих із цедри зеленого лимона.</description>
   <param name="Колір">Зелений</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="927022111" available="true">
+  <offer id="927022111" available="false">
     <url>https://polineo.in.ua/ua/p927022111-balzam-dlya-mittya.html</url>
     <price>889.80</price>
     <currencyId>UAH</currencyId>
@@ -52573,8 +52573,8 @@ Persil Expert має найкращу формулу у своїй історі�
     <vendorCode>Frosch</vendorCode>
     <description>FROSCH — серія екологічно чистих і безпечних засобів із рослинними поверхнево-активними речовинами.
 FROSCH видаляє природним способом відкладення жиру, бруду за допомогою високоефективних біологічних розчинників жиру, отриманих зі шкіри лимона.  Поширює приємний аромат свіжого лимона.</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="927024211" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="927024211" available="false">
     <url>https://polineo.in.ua/ua/p927024211-balzam-dlya-posudu.html</url>
     <price>291.16</price>
     <currencyId>UAH</currencyId>
@@ -52586,8 +52586,8 @@ FROSCH видаляє природним способом відкладення
     <vendor>Frosch</vendor>
     <vendorCode>Frosch</vendorCode>
     <description>Бальзам для миття посуду Гранат марки FROSCH ефективно видаляє жир і бруд і відмиває посуд до блиску.  Високоефективний склад, що доглядає за шкірою, на основі рослинних ПАР має нейтральний для шкіри рівень pH і підтримує баланс вологості шкіри.  Натуральні екстракти граната, що містяться в бальзамі, доглядають за вашими руками, поки ви миєте посуд.</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="927035324" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="927035324" available="false">
     <url>https://polineo.in.ua/ua/p927035324-balzam-dlya-mittya.html</url>
     <price>291.16</price>
     <currencyId>UAH</currencyId>
@@ -52599,7 +52599,7 @@ FROSCH видаляє природним способом відкладення
     <vendor>Frosch</vendor>
     <vendorCode>Frosch</vendorCode>
     <description>Frosch Baby Бальзам для миття дитячого посуду.  FROSCH — серія екологічно чистих і безпечних засобів із рослинними поверхнево-активними речовинами.  Властивості: Ніжний і ефективний бальзам спеціально розроблені для видалення залишків їжі з дитячих речей, наприклад, дитячих пляшечок, сосок, прорізувачів для зубів або іграшок, миються.  Бальзам гіпоалергічний, без барвників і ароматизаторів.  Його ніжна формула рН — нейтральні для шкіри та повісті змивається водою.  Схвалено дерматологами.</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>0</stock_quantity></offer>
   <offer id="927177006" available="true">
     <url>https://polineo.in.ua/ua/p927177006-zasib-dlya-aromatizatsiyi.html</url>
     <price>272.34</price>
@@ -53446,7 +53446,7 @@ FROSCH видаляє природним способом відкладення
     <vendorCode>Sama</vendorCode>
     <description>Призначений для чищення скла, автомобільного скла, дзеркал, плитки, панелей побутових електроприладів, хромованих поверхонь. Спеціальна формула спрею забезпечує ідеальну чистоту скла і дзеркал. Ізопропіловий і нашатирний спирти, що входять до складу спрею, ефективно борються з пилом і брудом і надовго забезпечують яскравий блиск скляних поверхнях. Містить поверхнево-активні речовини, завдяки яким не залишається розлучень після чищення.</description>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Sama</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="936499416" available="true">
+  <offer id="936499416" available="false">
     <url>https://polineo.in.ua/ua/p936499416-zasib-dlya-ochischennya.html</url>
     <price>272.34</price>
     <currencyId>UAH</currencyId>
@@ -53459,7 +53459,7 @@ FROSCH видаляє природним способом відкладення
     <vendorCode>FROSCH</vendorCode>
     <description>Frosch — серія екологічно чистих і безпечних засобів із рослинними поверхнево-активними речовинами.  Багатофункціональний засіб для зручного чищення скла, скляних поверхонь і кахлю.  Засіб з етиловим спиртом піклується про сяйну чистоту будь-яких поверхонь.  На лаковані поверхні наносити вологою ганчіркою.</description>
     <param name="Об`єм" unit="мл">500</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FROSCH</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FROSCH</article><stock_quantity>0</stock_quantity></offer>
   <offer id="936506021" available="true">
     <url>https://polineo.in.ua/ua/p936506021-zasib-dlya-mittya.html</url>
     <price>97.89</price>
@@ -53577,7 +53577,7 @@ FROSCH видаляє природним способом відкладення
     <description>Подаруйте поверхонь своєї кухні та ванної сяючий блиск чистоти! Чистячий засіб «Cillit» призначений для боротьби з вапняним нальотом, іржею, застарілими плямами і іншими важкими забрудненнями.
 Підходить для використання на поверхнях з плитки, кахлю, порцеляни, фаянсу, пластику, і навіть лінолеуму. Не рекомендується використовувати «Cillit» для чищення емальованих і мармурових поверхонь. Зручний у використанні і економічний.</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Cillit Bang</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="937170255" available="true">
+  <offer id="937170255" available="false">
     <url>https://polineo.in.ua/ua/p937170255-zasib-dlya-vidalennya.html</url>
     <price>402.86</price>
     <currencyId>UAH</currencyId>
@@ -53590,7 +53590,7 @@ FROSCH видаляє природним способом відкладення
     <vendorCode>Frosch</vendorCode>
     <description>Чудово очищає металеві деталі, крани, раковини від вапняного нальоту. Сильна формула з малиновим оцтом розчиняє вапно та протистоїть утворенню плям від води. Залишає приємний ягідний аромат.</description>
     <param name="Об`єм" unit="мл">500</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>0</stock_quantity></offer>
   <offer id="937210840" available="true">
     <url>https://polineo.in.ua/ua/p937210840-poroshok-dlya-chischennya.html</url>
     <price>205.82</price>
@@ -58138,7 +58138,7 @@ R67 Пара можуть викликати сонливість і запам�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SEPTOR</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1166311165" available="true">
     <url>https://polineo.in.ua/ua/p1166311165-trimach-lez-dlya.html</url>
-    <price>156.88</price>
+    <price>151.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/2338082434_trimach-lez-dlya.jpg</picture>
@@ -65805,7 +65805,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>PR2787B</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1352582207" available="true">
     <url>https://polineo.in.ua/ua/p1352582207-dozator-mila-abo.html</url>
-    <price>263.55</price>
+    <price>268.57</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/2914642416_dozator-mila-abo.jpg</picture>
@@ -65844,7 +65844,7 @@ pH - 7,5
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S2B</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1352630331" available="true">
     <url>https://polineo.in.ua/ua/p1352630331-dozator-mila-pini.html</url>
-    <price>627.50</price>
+    <price>638.80</price>
     <currencyId>UAH</currencyId>
     <categoryId>36486362</categoryId>
     <picture>https://images.prom.ua/2914769500_dozator-mila-pini.jpg</picture>
@@ -72958,7 +72958,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>NZS028WP</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1389033437" available="true">
     <url>https://polineo.in.ua/ua/p1389033437-komplekt-dlya-pribirannya.html</url>
-    <price>701.55</price>
+    <price>732.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/3033934396_komplekt-dlya-pribirannya.jpg</picture>
@@ -72980,7 +72980,7 @@ pH - 10,2±1
   <param name="Розмір">-</param><article>KAF300B</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1389042007" available="true">
     <url>https://polineo.in.ua/ua/p1389042007-komplekt-dlya-pribirannya.html</url>
-    <price>701.55</price>
+    <price>732.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/3033946290_komplekt-dlya-pribirannya.jpg</picture>
@@ -73002,7 +73002,7 @@ pH - 10,2±1
   <param name="Розмір">-</param><article>KAF300G</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1389043997" available="true">
     <url>https://polineo.in.ua/ua/p1389043997-komplekt-dlya-pribirannya.html</url>
-    <price>701.55</price>
+    <price>732.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/3033954278_komplekt-dlya-pribirannya.jpg</picture>
@@ -73024,7 +73024,7 @@ pH - 10,2±1
   <param name="Розмір">-</param><article>KAF300R</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1389048245" available="true">
     <url>https://polineo.in.ua/ua/p1389048245-komplekt-dlya-pribirannya.html</url>
-    <price>701.55</price>
+    <price>732.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/3033964001_komplekt-dlya-pribirannya.jpg</picture>
@@ -73045,7 +73045,7 @@ pH - 10,2±1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>KAF300Y</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1389088896" available="true">
     <url>https://polineo.in.ua/ua/p1389088896-schitka-dlya-pidmitannya.html</url>
-    <price>212.10</price>
+    <price>218.37</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/3034055168_schitka-dlya-pidmitannya.jpg</picture>
@@ -73065,7 +73065,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>AS356</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1389177995" available="true">
     <url>https://polineo.in.ua/ua/p1389177995-rukoyatka-alyuminiyeva-teleskopichna.html</url>
-    <price>801.95</price>
+    <price>823.28</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/3034322025_rukoyatka-alyuminiyeva-teleskopichna.jpg</picture>
@@ -73090,7 +73090,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ATS296</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1389183644" available="true">
     <url>https://polineo.in.ua/ua/p1389183644-rukoyatka-alyuminiyeva-teleskopichna.html</url>
-    <price>801.95</price>
+    <price>823.28</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/3034333050_rukoyatka-alyuminiyeva-teleskopichna.jpg</picture>
@@ -73117,7 +73117,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">180см</param><article>ATS297</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1389194118" available="true">
     <url>https://polineo.in.ua/ua/p1389194118-trimach-rukoyatok-gachki.html</url>
-    <price>1101.89</price>
+    <price>1132.01</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342001</categoryId>
     <picture>https://images.prom.ua/3034363143_trimach-rukoyatok-na.jpg</picture>
@@ -73148,7 +73148,7 @@ pH - 10,2±1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>HST64</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1389202136" available="true">
     <url>https://polineo.in.ua/ua/p1389202136-dozator-mila-abo.html</url>
-    <price>224.65</price>
+    <price>227.16</price>
     <currencyId>UAH</currencyId>
     <categoryId>36486588</categoryId>
     <picture>https://images.prom.ua/1405832360_dozator-mila-abo.jpg</picture>
@@ -73174,7 +73174,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S2T</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1389370260" available="false">
     <url>https://polineo.in.ua/ua/p1389370260-avtomatichnij-dozator-dezinfikuyuchogo.html</url>
-    <price>4374.93</price>
+    <price>4731.35</price>
     <currencyId>UAH</currencyId>
     <categoryId>36486588</categoryId>
     <picture>https://images.prom.ua/1527263920_avtomatichnij-dozator-dezinfikuyuchogo.jpg</picture>
@@ -137228,7 +137228,7 @@ Hozelock — інноваційна компанія, перша у світі, 
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>12458</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1680836810" available="true">
     <url>https://polineo.in.ua/ua/p1680836810-zminni-leza-dlya.html</url>
-    <price>778.10</price>
+    <price>803.20</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/3990581923_zminni-leza-dlya.jpg</picture>
@@ -137305,7 +137305,7 @@ Hozelock — інноваційна компанія, перша у світі, 
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Campi Green</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1682649846" available="true">
     <url>https://polineo.in.ua/ua/p1682649846-shvabra-rozpilyuvachem-spray.html</url>
-    <price>1439.49</price>
+    <price>1488.43</price>
     <currencyId>UAH</currencyId>
     <categoryId>36486133</categoryId>
     <picture>https://images.prom.ua/3996531322_shvabra-z-rozpilyuvachem.jpg</picture>
@@ -139905,7 +139905,7 @@ IP23
   <param name="Розмір">-</param><article>12886</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1773672693" available="true">
     <url>https://polineo.in.ua/ua/p1773672693-alv292-ruchka-alyuminiyeva.html</url>
-    <price>410.39</price>
+    <price>422.94</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/4283289175_alv292-ruchka-alyuminiyeva.jpg</picture>
@@ -158144,7 +158144,7 @@ Urinex не можна використовувати для чищення кр
   <param name="Розмір">-</param><article>05006.B</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2357836390" available="true">
     <url>https://polineo.in.ua/ua/p2357836390-komplekt-dlya-pribirannya.html</url>
-    <price>632.52</price>
+    <price>732.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/6280771665_komplekt-dlya-pribirannya.jpg</picture>
@@ -169474,7 +169474,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-401AS</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2545804818" available="true">
     <url>https://polineo.in.ua/ua/p2545804818-nabir-dlya-pribirannya.html</url>
-    <price>440.51</price>
+    <price>453.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/6588619531_nabir-dlya-pribirannya.jpg</picture>
@@ -169508,7 +169508,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Розмір">-</param><article>RDG10 </article><stock_quantity>50</stock_quantity></offer>
   <offer id="2545821423" available="true">
     <url>https://polineo.in.ua/ua/p2545821423-nabir-dlya-pribirannya.html</url>
-    <price>440.51</price>
+    <price>453.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/6976839015_nabir-dlya-pribirannya.jpg</picture>
@@ -169544,7 +169544,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Розмір">-</param><article>RDY10</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2545830406" available="true">
     <url>https://polineo.in.ua/ua/p2545830406-nabir-dlya-pribirannya.html</url>
-    <price>440.51</price>
+    <price>453.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/6588619794_nabir-dlya-pribirannya.jpg</picture>
@@ -169576,7 +169576,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Розмір">-</param><article>RDB10</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2545834164" available="true">
     <url>https://polineo.in.ua/ua/p2545834164-nabir-dlya-pribirannya.html</url>
-    <price>440.51</price>
+    <price>453.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/6588618871_nabir-dlya-pribirannya.jpg</picture>
@@ -169678,7 +169678,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>KA451FB</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2556767572" available="true">
     <url>https://polineo.in.ua/ua/p2556767572-zminni-leza-dlya.html</url>
-    <price>1217.35</price>
+    <price>1223.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/7281244157_zminni-leza-dlya.jpg</picture>
@@ -204687,7 +204687,7 @@ Scrabbing моп  це моп з мікробібри з жорстики вта
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>MLD176G</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3196594164" available="true">
     <url>https://polineo.in.ua/ua/p3196594164-dozator-dlya-ridkogo.html</url>
-    <price>464.35</price>
+    <price>473.14</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341954</categoryId>
     <picture>https://images.prom.ua/7708930203_dozator-dlya-ridkogo.jpg</picture>
@@ -204710,7 +204710,7 @@ Vialli S9B — компактний настінний дозатор для р�
  </description>
     <param name="Колір">Чорний</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>S9B</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="3196595785" available="true">
+  <offer id="3196595785" available="false">
     <url>https://polineo.in.ua/ua/p3196595785-dozator-mila-abo.html</url>
     <price>469.37</price>
     <currencyId>UAH</currencyId>
@@ -204731,7 +204731,7 @@ Vialli S9B — компактний настінний дозатор для р�
 Розміри, мм: 105*129*170
 Тип кріплення: шуруп</description>
     <param name="Матеріал">Пластик</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S5C</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S5C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="3196598910" available="true">
     <url>https://polineo.in.ua/ua/p3196598910-dozator-dlya-dezrozchinu.html</url>
     <price>7530.00</price>
@@ -204768,7 +204768,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <param name="Колір">Нержавіюча сталь</param><param name="Розмір">-</param><article>D10</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3196601852" available="true">
     <url>https://polineo.in.ua/ua/p3196601852-dozator-ridkogo-mila.html</url>
-    <price>411.64</price>
+    <price>419.17</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341954</categoryId>
     <picture>https://images.prom.ua/7708945920_dozator-ridkogo-mila.jpg</picture>
