@@ -54572,7 +54572,7 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 </description>
     <param name="Довжина" unit="мм">10</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H8101D25</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981273859" available="true">
+  <offer id="981273859" available="false">
     <url>https://polineo.in.ua/ua/p981273859-protikovzka-strichka-heskins.html</url>
     <price>1695.51</price>
     <currencyId>UAH</currencyId>
@@ -54604,8 +54604,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистисть: середня. 
 </description>
     <param name="Ширина" unit="мм">50</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401B50</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981281554" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401B50</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981281554" available="false">
     <url>https://polineo.in.ua/ua/p981281554-protikovzka-strichka-heskins.html</url>
     <price>847.13</price>
     <currencyId>UAH</currencyId>
@@ -54637,10 +54637,10 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистисть: середня. 
 </description>
     <param name="Ширина" unit="мм">25</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401B</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981294126" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401B</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981294126" available="false">
     <url>https://polineo.in.ua/ua/p981294126-protikovzka-strichka-heskins.html</url>
-    <price>847.13</price>
+    <price>1134.52</price>
     <currencyId>UAH</currencyId>
     <categoryId>67052999</categoryId>
     <picture>https://images.prom.ua/1817261400_protikovzka-strichka-heskins.jpg</picture>
@@ -54670,8 +54670,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистість: середня. 
 </description>
     <param name="Ширина" unit="мм">25</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401R</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981300766" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401R</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981300766" available="false">
     <url>https://polineo.in.ua/ua/p981300766-protikovzka-strichka-heskins.html</url>
     <price>1695.51</price>
     <currencyId>UAH</currencyId>
@@ -54707,8 +54707,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистість: середня. 
 </description>
     <param name="Ширина" unit="мм">50</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401R50</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981370100" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401R50</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981370100" available="false">
     <url>https://polineo.in.ua/ua/p981370100-protikovzka-strichka-heskins.html</url>
     <price>847.13</price>
     <currencyId>UAH</currencyId>
@@ -54740,8 +54740,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистість: середня. 
 </description>
     <param name="Ширина" unit="мм">25</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401V</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981377284" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401V</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981377284" available="false">
     <url>https://polineo.in.ua/ua/p981377284-protikovzka-strichka-heskins.html</url>
     <price>1695.51</price>
     <currencyId>UAH</currencyId>
@@ -54773,8 +54773,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистість: середня. 
 </description>
     <param name="Ширина" unit="мм">50</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401V50</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981410486" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401V50</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981410486" available="false">
     <url>https://polineo.in.ua/ua/p981410486-protikovzka-strichka-heskins.html</url>
     <price>847.13</price>
     <currencyId>UAH</currencyId>
@@ -54806,8 +54806,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистість: середня.
 </description>
     <param name="Ширина" unit="мм">25</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401W</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981427358" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401W</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981427358" available="false">
     <url>https://polineo.in.ua/ua/p981427358-protikovzka-strichka-heskins.html</url>
     <price>1695.51</price>
     <currencyId>UAH</currencyId>
@@ -54839,8 +54839,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистість: середня. 
 </description>
     <param name="Ширина" unit="мм">50</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401W50</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981503003" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401W50</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981503003" available="false">
     <url>https://polineo.in.ua/ua/p981503003-protikovzka-strichka-heskins.html</url>
     <price>847.13</price>
     <currencyId>UAH</currencyId>
@@ -54872,8 +54872,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистість: средняя. 
 </description>
     <param name="Ширина" unit="мм">25</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401O</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981531305" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401O</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981531305" available="false">
     <url>https://polineo.in.ua/ua/p981531305-protikovzka-strichka-heskins.html</url>
     <price>1695.51</price>
     <currencyId>UAH</currencyId>
@@ -54904,8 +54904,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Колір - помаранчевий.
 Зернистість: средняя. 
 </description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401O50</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981544281" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401O50</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981544281" available="false">
     <url>https://polineo.in.ua/ua/p981544281-protikovzka-strichka-heskins.html</url>
     <price>847.13</price>
     <currencyId>UAH</currencyId>
@@ -54936,8 +54936,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Колір - Чорно- Жовтий.
 Зернистість: середня. 
 </description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401D</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981562903" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401D</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981562903" available="false">
     <url>https://polineo.in.ua/ua/p981562903-protikovzka-strichka-heskins.html</url>
     <price>847.13</price>
     <currencyId>UAH</currencyId>
@@ -54969,8 +54969,8 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистість: середня. 
 </description>
     <param name="Ширина" unit="мм">25</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401A</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="981576339" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401A</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="981576339" available="false">
     <url>https://polineo.in.ua/ua/p981576339-protikovzka-strichka-heskins.html</url>
     <price>1695.51</price>
     <currencyId>UAH</currencyId>
@@ -55002,7 +55002,7 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
 Зернистість: середня. 
 </description>
     <param name="Ширина" unit="мм">50</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401A50</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>H3401A50</article><stock_quantity>0</stock_quantity></offer>
   <offer id="986002287" available="true">
     <url>https://polineo.in.ua/ua/p986002287-trimach-gigiyenichnih-paketiv.html</url>
     <price>903.60</price>
@@ -198309,7 +198309,7 @@ ZSH.03.K.120.CH – професійний готельний візок для 
     <param name="Колір">Білий</param>
     <param name="Матеріал насадки">Бавовна</param>
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>ВД4131</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="3032475328" available="true">
+  <offer id="3032475328" available="false">
     <url>https://polineo.in.ua/ua/p3032475328-kishenkovij-skrebok-dlya.html</url>
     <price>461.84</price>
     <currencyId>UAH</currencyId>
@@ -198329,7 +198329,7 @@ ZSH.03.K.120.CH – професійний готельний візок для 
 
 Клас:Професійні</description>
     <param name="Колір">Сірий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>ВД34010</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>ВД34010</article><stock_quantity>0</stock_quantity></offer>
   <offer id="3032484112" available="true">
     <url>https://polineo.in.ua/ua/p3032484112-motuzkovij-proshitij-mop.html</url>
     <price>425.45</price>
