@@ -2168,7 +2168,7 @@
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>K4M</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720023" available="true">
     <url>https://polineo.in.ua/ua/p533720023-urna-ofisna-12l.html</url>
-    <price>1516.04</price>
+    <price>1628.99</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/788564401_urna-ofisna-12l.jpg</picture>
@@ -6673,7 +6673,7 @@ pH - 10,5 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3006</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720876" available="true">
     <url>https://polineo.in.ua/ua/p533720876-urna-ofisna-12l.html</url>
-    <price>1516.04</price>
+    <price>1621.46</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/788572260_urna-ofisna-12l.jpg</picture>
@@ -6972,7 +6972,7 @@ pH - 10,5 ± 1
   <param name="Розмір">-</param><article>DJ0010F</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720910" available="true">
     <url>https://polineo.in.ua/ua/p533720910-urna-ofisna-12l.html</url>
-    <price>1879.99</price>
+    <price>2009.26</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/788572953_urna-ofisna-12l.jpg</picture>
@@ -13800,7 +13800,7 @@ pH - 8,4 ± 1
   <param name="Розмір">-</param><article>0867</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722844" available="true">
     <url>https://polineo.in.ua/ua/p533722844-urna-ofisna-12l.html</url>
-    <price>1810.97</price>
+    <price>1941.49</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/788587309_urna-ofisna-12l.jpg</picture>
@@ -14441,7 +14441,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>11722</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722946" available="true">
     <url>https://polineo.in.ua/ua/p533722946-koshik-metalevij-metal.html</url>
-    <price>3525.30</price>
+    <price>3762.49</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1240383596_koshik-metalevij-25.jpg</picture>
@@ -23518,7 +23518,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>714NE</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724139" available="true">
     <url>https://polineo.in.ua/ua/p533724139-urna-dlya-smittya.html</url>
-    <price>5195.70</price>
+    <price>5550.87</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/788602433_urna-dlya-smittya.jpg</picture>
@@ -23622,7 +23622,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>654MA</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724154" available="true">
     <url>https://polineo.in.ua/ua/p533724154-koshik-metalevij-satinovij.html</url>
-    <price>5671.97</price>
+    <price>6061.65</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1240515225_koshik-metalevij-25.jpg</picture>
@@ -24443,9 +24443,9 @@ pH - 9,9 ± 1
     <param name="Поверхня" unit="">Матовая</param>
     <param name="Страна происхождения" unit="">Испания</param>
   <param name="Колір">Комбінований</param><param name="Розмір">800мм</param><article>BG0800CS</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533724242" available="true">
+  <offer id="533724242" available="false">
     <url>https://polineo.in.ua/ua/p533724242-urna-ofisna-12l.html</url>
-    <price>1516.04</price>
+    <price>1621.46</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/788604226_urna-ofisna-12l.jpg</picture>
@@ -24470,7 +24470,7 @@ pH - 9,9 ± 1
     <param name="Размеры, мм" unit="">235х300 мм</param>
     <param name="Вес (кг)" unit="">1,5</param>
     <param name="Материал корпуса" unit="">Металл, покрытый черной порошковой краской</param>
-  <param name="Розмір">-</param><article>M812B</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>M812B</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724243" available="false">
     <url>https://polineo.in.ua/ua/p533724243-mop-dlya-suhogo.html</url>
     <price>426.70</price>
@@ -24563,7 +24563,7 @@ pH - 9,9 ± 1
     <param name="Призначення" unit="">сгонка для пола</param>
     <param name="Размер,см" unit="">45</param>
   <param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>MYK502</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533724247" available="true">
+  <offer id="533724247" available="false">
     <url>https://polineo.in.ua/ua/p533724247-rukoyatka-alyuminiyeva-teleskopichna.html</url>
     <price>3230.37</price>
     <currencyId>UAH</currencyId>
@@ -24591,7 +24591,7 @@ pH - 9,9 ± 1
     <param name="Телескопическая штанга" unit="">Да</param>
     <param name="Матеріал" unit="">Алюминий</param>
     <param name="Страна происхождения" unit="">Турция</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TUS282</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TUS282</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724248" available="false">
     <url>https://polineo.in.ua/ua/p533724248-vidro-sinye-28l.html</url>
     <price>1559.97</price>
@@ -25127,7 +25127,7 @@ pH - 9,9 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>0692</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724327" available="false">
     <url>https://polineo.in.ua/ua/p533724327-urna-dlya-smittya.html</url>
-    <price>5001.18</price>
+    <price>5038.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/788605176_urna-dlya-smittya.jpg</picture>
@@ -25908,7 +25908,7 @@ pH - 2,3 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>DJ0115C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724385" available="true">
     <url>https://polineo.in.ua/ua/p533724385-koshik-metalevij-glyansovij.html</url>
-    <price>5672.60</price>
+    <price>6061.65</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/1240537978_koshik-metalevij-25.jpg</picture>
@@ -31029,9 +31029,9 @@ Tовщина корпусу — 1,5 мм
     <param name="Вага" unit="г">2500</param>
     <param name="Матеріал">Метал</param>
   <param name="Розмір">-</param><article>M-116Black</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="679477549" available="true">
+  <offer id="679477549" available="false">
     <url>https://polineo.in.ua/ua/p679477549-koshik-metalevij-polirovanij.html</url>
-    <price>3525.30</price>
+    <price>3762.49</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1111788973_koshik-metalevij-polirovanij.jpg</picture>
@@ -31058,10 +31058,10 @@ Tовщина корпусу — 1,5 мм
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">160</param>
     <param name="Матеріал">Метал</param>
-  <param name="Розмір">-</param><article>M125Black</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>M125Black</article><stock_quantity>0</stock_quantity></offer>
   <offer id="679485585" available="true">
     <url>https://polineo.in.ua/ua/p679485585-urna-dlya-smittya.html</url>
-    <price>9032.24</price>
+    <price>9647.19</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1111802605_urna-dlya-smittya.jpg</picture>
@@ -31103,7 +31103,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>M160C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="679488104" available="true">
     <url>https://polineo.in.ua/ua/p679488104-urna-dlya-smittya.html</url>
-    <price>9032.24</price>
+    <price>9647.19</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1111802605_urna-dlya-smittya.jpg</picture>
@@ -31146,7 +31146,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>M160S</article><stock_quantity>50</stock_quantity></offer>
   <offer id="679509508" available="true">
     <url>https://polineo.in.ua/ua/p679509508-krishka-dlya-urni.html</url>
-    <price>2433.45</price>
+    <price>2599.11</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494320</categoryId>
     <picture>https://images.prom.ua/1111839115_krishka-dlya-urni.jpg</picture>
@@ -31174,7 +31174,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>M 301C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="679515515" available="true">
     <url>https://polineo.in.ua/ua/p679515515-krishka-dlya-urni.html</url>
-    <price>2433.45</price>
+    <price>2599.11</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494320</categoryId>
     <picture>https://images.prom.ua/1111839115_krishka-dlya-urni.jpg</picture>
@@ -31203,7 +31203,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>M301S</article><stock_quantity>50</stock_quantity></offer>
   <offer id="680240860" available="true">
     <url>https://polineo.in.ua/ua/p680240860-urna-dlya-smittya.html</url>
-    <price>2044.40</price>
+    <price>2184.96</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/1113069904_urna-dlya-smittya.jpg</picture>
@@ -31231,9 +31231,9 @@ Tовщина корпусу — 1,5 мм
     <param name="Колір">Чорний</param>
     <param name="Матеріал">Метал</param>
   <param name="Розмір">-</param><article>M811Black</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="680243095" available="false">
+  <offer id="680243095" available="true">
     <url>https://polineo.in.ua/ua/p680243095-urna-dlya-smittya.html</url>
-    <price>2812.46</price>
+    <price>2607.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/1113074550_urna-dlya-smittya.jpg</picture>
@@ -31260,10 +31260,10 @@ Tовщина корпусу — 1,5 мм
     <param name="Форма">Кругла</param>
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Сталь</param>
-  <param name="Розмір">-</param><article>M811C</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Розмір">-</param><article>M811C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="680244068" available="true">
     <url>https://polineo.in.ua/ua/p680244068-urna-dlya-smittya.html</url>
-    <price>2555.18</price>
+    <price>2730.88</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1113076098_urna-dlya-smittya.jpg</picture>
@@ -31322,7 +31322,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>M825Black</article><stock_quantity>0</stock_quantity></offer>
   <offer id="680808531" available="true">
     <url>https://polineo.in.ua/ua/p680808531-urna-dlya-smittya.html</url>
-    <price>3683.43</price>
+    <price>3929.41</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/1113866045_urna-dlya-smittya.jpg</picture>
@@ -31380,9 +31380,9 @@ Tовщина корпусу — 1,5 мм
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Сталь</param>
   <param name="Розмір">-</param><article>M825C</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="680810836" available="true">
+  <offer id="680810836" available="false">
     <url>https://polineo.in.ua/ua/p680810836-urna-dlya-smittya.html</url>
-    <price>4191.70</price>
+    <price>4475.33</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1113869453_urna-dlya-smittya.jpg</picture>
@@ -31409,7 +31409,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Тип сміттєвого відра">Звичайне (без кришки)</param>
     <param name="Форма">Циліндрична</param>
     <param name="Колір">Сірий</param>
-  <param name="Розмір">-</param><article>M825S</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>M825S</article><stock_quantity>0</stock_quantity></offer>
   <offer id="680821560" available="true">
     <url>https://polineo.in.ua/ua/p680821560-urna-napivkrugla-sensorna.html</url>
     <price>17552.43</price>
@@ -33326,7 +33326,7 @@ pH - 14
   <param name="Розмір">-</param><article>868</article><stock_quantity>50</stock_quantity></offer>
   <offer id="715075445" available="true">
     <url>https://polineo.in.ua/ua/p715075445-urna-dlya-smittya.html</url>
-    <price>9871.83</price>
+    <price>10545.77</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341994</categoryId>
     <picture>https://images.prom.ua/1186914948_urna-dlya-smittya.jpg</picture>
@@ -38563,7 +38563,7 @@ CHH20
   <param name="Розмір">-</param><article>615В</article><stock_quantity>50</stock_quantity></offer>
   <offer id="860324565" available="true">
     <url>https://polineo.in.ua/ua/p860324565-urna-dlya-smittya.html</url>
-    <price>6131.93</price>
+    <price>6546.08</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/1517134853_urna-dlya-smittya.jpg</picture>
@@ -38595,7 +38595,7 @@ CHH20
   <param name="Розмір">-</param><article>M160Black</article><stock_quantity>50</stock_quantity></offer>
   <offer id="860328972" available="true">
     <url>https://polineo.in.ua/ua/p860328972-301black-krishka-dlya.html</url>
-    <price>1844.85</price>
+    <price>1972.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494320</categoryId>
     <picture>https://images.prom.ua/1517157943_m-301black-krishka.jpg</picture>
@@ -67965,7 +67965,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>M116001</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1356542723" available="true">
     <url>https://polineo.in.ua/ua/p1356542723-vkladka-trimach-mishka.html</url>
-    <price>822.03</price>
+    <price>875.99</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494311</categoryId>
     <picture>https://images.prom.ua/2926987882_vkladka-trimach-mishka-dlya.jpg</picture>
@@ -68002,7 +68002,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>M125002C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1356554387" available="false">
     <url>https://polineo.in.ua/ua/p1356554387-krishka-dlya-urni.html</url>
-    <price>909.88</price>
+    <price>835.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494311</categoryId>
     <picture>https://images.prom.ua/2927012067_krishka-dlya-urni.jpg</picture>
@@ -68096,9 +68096,9 @@ pH - 7,5
 Країна-виробник - Україна</description>
     <param name="Колір">Сірий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>M825Grey</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1357386126" available="true">
+  <offer id="1357386126" available="false">
     <url>https://polineo.in.ua/ua/p1357386126-urna-dlya-smittya.html</url>
-    <price>3680.92</price>
+    <price>3929.41</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494311</categoryId>
     <picture>https://images.prom.ua/2929916286_urna-dlya-smittya.jpg</picture>
@@ -68119,7 +68119,7 @@ pH - 7,5
 Вага - 3.7 кг
 Країна-виробник - Україна</description>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>M825White</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>M825White</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1357393263" available="false">
     <url>https://polineo.in.ua/ua/p1357393263-urna-dlya-smittya.html</url>
     <price>4469.06</price>
@@ -138266,7 +138266,7 @@ Ultra Air Pocket
   <param name="Розмір">-</param><article>A954521</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1724269884" available="true">
     <url>https://polineo.in.ua/ua/p1724269884-urna-dlya-musora.html</url>
-    <price>2763.51</price>
+    <price>2951.76</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/4127166123_urna-dlya-musora.jpg</picture>
@@ -205387,7 +205387,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3270106441</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
-  <offer id="3272836972" available="true">
+  <offer id="3272836972" available="false">
     <url>https://polineo.in.ua/ua/p3272836972-schitka-dlya-mittya.html</url>
     <price>5459.25</price>
     <currencyId>UAH</currencyId>
@@ -205427,7 +205427,7 @@ Vialli S9B — компактний настінний дозатор для р�
 Підходить для домашнього та професійного використання
 
 </description>
-  <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3272836972</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
+  <stock_quantity>0</stock_quantity><vendor>No Brand</vendor><article>POL-3272836972</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
   </offers>
