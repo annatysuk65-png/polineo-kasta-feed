@@ -5717,7 +5717,7 @@ pH - 10,5 ± 1
   <param name="Розмір">-</param><article>764AR</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720812" available="true">
     <url>https://polineo.in.ua/ua/p533720812-urna-dlya-smittya.html</url>
-    <price>5195.70</price>
+    <price>5550.87</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/788570904_urna-dlya-smittya.jpg</picture>
@@ -7241,7 +7241,7 @@ pH - 6,8 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>E801S</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720945" available="false">
     <url>https://polineo.in.ua/ua/p533720945-koshik-metalevij.html</url>
-    <price>4069.97</price>
+    <price>4352.34</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/788574044_koshik-metalevij-16.jpg</picture>
@@ -11980,7 +11980,7 @@ Tовщина корпусу — 3 мм пластик
   <param name="Колір">Комбінований</param><param name="Розмір">650 мм</param><article>BR0600CS</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722198" available="true">
     <url>https://polineo.in.ua/ua/p533722198-urna-pepelnitsya-line.html</url>
-    <price>4578.24</price>
+    <price>4845.56</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341994</categoryId>
     <picture>https://images.prom.ua/788584123_urna-pepelnitsya-15-l.jpg</picture>
@@ -12093,7 +12093,7 @@ Tовщина корпусу — 3 мм пластик
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>564 Коричневий</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722209" available="false">
     <url>https://polineo.in.ua/ua/p533722209-koshik-metalevij.html</url>
-    <price>4069.97</price>
+    <price>4352.34</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/788584381_koshik-metalevij-16.jpg</picture>
@@ -21428,7 +21428,7 @@ pH - 6,9±1
   <param name="Розмір">-</param><article>DJF0032</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723904" available="false">
     <url>https://polineo.in.ua/ua/p533723904-mop-dlya-suhogo.html</url>
-    <price>493.22</price>
+    <price>509.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/2958506877_mop-dlya-suhogo.jpg</picture>
@@ -30891,7 +30891,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CW2023</article><stock_quantity>0</stock_quantity></offer>
   <offer id="679050279" available="true">
     <url>https://polineo.in.ua/ua/p679050279-106black-pryamokutna-urna.html</url>
-    <price>1551.18</price>
+    <price>1656.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1110954564_m-106black-pryamokutna-urna.jpg</picture>
@@ -30923,7 +30923,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>M106Black</article><stock_quantity>50</stock_quantity></offer>
   <offer id="679051839" available="true">
     <url>https://polineo.in.ua/ua/p679051839-metaleva-urna-dlya.html</url>
-    <price>2304.18</price>
+    <price>2458.55</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1110960362_metaleva-urna-dlya.jpg</picture>
@@ -30951,7 +30951,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>M106S</article><stock_quantity>50</stock_quantity></offer>
   <offer id="679475770" available="true">
     <url>https://polineo.in.ua/ua/p679475770-koshik-metalevij.html</url>
-    <price>2857.64</price>
+    <price>3057.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1111784773_koshik-metalevij-16.jpg</picture>
@@ -30991,9 +30991,9 @@ Tовщина корпусу — 1,5 мм
     <param name="Вага" unit="г">2500</param>
     <param name="Матеріал">Метал</param>
   <param name="Розмір">-</param><article>M116W</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="679476066" available="true">
+  <offer id="679476066" available="false">
     <url>https://polineo.in.ua/ua/p679476066-koshik-dlya-smittya.html</url>
-    <price>2857.64</price>
+    <price>3057.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/1111782545_koshik-dlya-smittya.jpg</picture>
@@ -31028,7 +31028,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Висота" unit="мм">400</param>
     <param name="Вага" unit="г">2500</param>
     <param name="Матеріал">Метал</param>
-  <param name="Розмір">-</param><article>M-116Black</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>M-116Black</article><stock_quantity>0</stock_quantity></offer>
   <offer id="679477549" available="false">
     <url>https://polineo.in.ua/ua/p679477549-koshik-metalevij-polirovanij.html</url>
     <price>3762.49</price>
@@ -31484,7 +31484,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>PP0006</article><stock_quantity>0</stock_quantity></offer>
   <offer id="680871281" available="true">
     <url>https://polineo.in.ua/ua/p680871281-urna-pepelnitsya-sira.html</url>
-    <price>3802.65</price>
+    <price>4061.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341994</categoryId>
     <picture>https://images.prom.ua/1113936934_urna-pepelnitsya-sira-a500.jpg</picture>
@@ -67924,7 +67924,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>CW1332</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1356530513" available="true">
     <url>https://polineo.in.ua/ua/p1356530513-urna-dlya-smittya.html</url>
-    <price>1551.18</price>
+    <price>1656.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494311</categoryId>
     <picture>https://images.prom.ua/2926957778_urna-dlya-smittya.jpg</picture>
@@ -67948,7 +67948,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>M106White</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1356536030" available="true">
     <url>https://polineo.in.ua/ua/p1356536030-vkladka-trimach-mishka.html</url>
-    <price>614.95</price>
+    <price>656.37</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494311</categoryId>
     <picture>https://images.prom.ua/2926969591_vkladka-trimach-mishka-dlya.jpg</picture>
@@ -68237,7 +68237,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ST2031</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1357446670" available="true">
     <url>https://polineo.in.ua/ua/p1357446670-popilnitsi-odnorazovi.html</url>
-    <price>1282.61</price>
+    <price>1370.46</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341994</categoryId>
     <picture>https://images.prom.ua/2930100609_popilnitsi-odnorazovi.jpg</picture>
@@ -68256,9 +68256,9 @@ pH - 7,5
 Вага - н.д.
 Країна-виробник - Україна</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>A088</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1357448560" available="false">
+  <offer id="1357448560" available="true">
     <url>https://polineo.in.ua/ua/p1357448560-urna-popilnitsya-15l.html</url>
-    <price>4585.77</price>
+    <price>4687.43</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341994</categoryId>
     <picture>https://images.prom.ua/2930114854_urna-popilnitsya-15l-r-line.jpg</picture>
@@ -68291,7 +68291,7 @@ pH - 7,5
 
 
 Країна-виробник - Україна</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>A500C</article><stock_quantity>0</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>A500C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1357939321" available="true">
     <url>https://polineo.in.ua/ua/p1357939321-vidkidne-sidinnya-dushovu.html</url>
     <price>15613.46</price>
@@ -71061,7 +71061,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Розмір">40см</param><article>0745MV</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1365223960" available="true">
     <url>https://polineo.in.ua/ua/p1365223960-mop-zapaska-dlya.html</url>
-    <price>617.46</price>
+    <price>661.39</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/2958528933_mop-zapaska-dlya.jpg</picture>
@@ -81160,9 +81160,9 @@ pH - 4
 Великобританія</description>
     <param name="Об`єм" unit="л">12</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CW1645</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1553328536" available="false">
+  <offer id="1553328536" available="true">
     <url>https://polineo.in.ua/ua/p1553328536-mop-zapaska-dlya.html</url>
-    <price>417.92</price>
+    <price>422.94</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/3573347318_mop-zapaska-dlya.jpg</picture>
@@ -81182,7 +81182,7 @@ pH - 4
 Не сушити в пральній машині за високих температур і впродовж тривалого часу. 
 Рекомендується для  сухого прибирання, хімчистки підлог, полірування воском.</description>
     <param name="Колір" unit="">Зелений</param>
-  <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>UA9917</article><stock_quantity>0</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>UA9917</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1553350518" available="false">
     <url>https://polineo.in.ua/ua/p1553350518-mop-zapaska-dlya.html</url>
     <price>533.38</price>
@@ -138450,9 +138450,9 @@ Ultra Air Pocket
 Італія</description>
     <param name="Об`єм" unit="л">120</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0W004664</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1724292782" available="true">
+  <offer id="1724292782" available="false">
     <url>https://polineo.in.ua/ua/p1724292782-urna-dlya-smittya.html</url>
-    <price>3534.08</price>
+    <price>3771.28</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/4127216704_urna-dlya-smittya.jpg</picture>
@@ -138501,7 +138501,7 @@ Ultra Air Pocket
     <param name="Размеры, мм" unit="">480х250х170 мм, размер отверстия 200х100 мм</param>
     <param name="Тип" unit="">Ведро без крышки</param>
     <param name="Установка урны" unit="">Переносная</param>
-  <param name="Розмір">-</param><article>M120Black</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>M120Black</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1724296702" available="true">
     <url>https://polineo.in.ua/ua/p1724296702-trimach-paperovih-rulonnih.html</url>
     <price>3374.70</price>
@@ -152413,9 +152413,9 @@ CHH-7704. Портативний (автономний) мобільний ст�
 </description>
     <param name="Колір">Чорний</param>
   <param name="Розмір">90х125 см</param><article>162020300</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2006330481" available="true">
+  <offer id="2006330481" available="false">
     <url>https://polineo.in.ua/ua/p2006330481-mop-wet-system.html</url>
-    <price>308.73</price>
+    <price>313.75</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/5058106545_mop-40-sm.jpg</picture>
@@ -152435,7 +152435,7 @@ CHH-7704. Портативний (автономний) мобільний ст�
 Матеріал: мікрофібра</description>
     <param name="Основне призначення">Для пола</param>
     <param name="Тип">Насадка для швабри</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>UA9921</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>UA9921</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2006356025" available="false">
     <url>https://polineo.in.ua/ua/p2006356025-mop-kishenyami-universalnij.html</url>
     <price>348.89</price>
@@ -167922,9 +167922,9 @@ o   Країна  ТМ "Apex" — Італія
 
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TCH404030</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2472892139" available="false">
+  <offer id="2472892139" available="true">
     <url>https://polineo.in.ua/ua/p2472892139-servetki-glass-dlya.html</url>
-    <price>1257.51</price>
+    <price>1342.85</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341979</categoryId>
     <picture>https://images.prom.ua/6454357003_servetki-glass-dlya.jpg</picture>
@@ -167969,7 +167969,7 @@ o   Країна  ТМ "Apex" — Італія
 </description>
     <param name="Матеріал" unit="">полиэстр-полиамид</param>
     <param name="Габаритные размеры" unit="">40*40</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TKP103020</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TKP103020</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2472911147" available="true">
     <url>https://polineo.in.ua/ua/p2472911147-mop-soft-band.html</url>
     <price>604.43</price>
@@ -168571,7 +168571,7 @@ o   Країна  ТМ "Apex" — Італія
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>00000840VZ</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2505349371" available="true">
     <url>https://polineo.in.ua/ua/p2505349371-mop-wet-system.html</url>
-    <price>386.54</price>
+    <price>392.82</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/6501235631_mop-44-sm.jpg</picture>
@@ -172086,7 +172086,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TKP201120</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2771371229" available="true">
     <url>https://polineo.in.ua/ua/p2771371229-servetki-sofelia-dlya.html</url>
-    <price>341.36</price>
+    <price>365.21</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341979</categoryId>
     <picture>https://images.prom.ua/6855726209_servetki-sofelia-dlya.jpg</picture>
@@ -172179,9 +172179,9 @@ o   Країна  ТМ "Apex" — Італія
     <param name="Вид товару">Серветки</param>
     <param name="Оброблювана поверхня">Тканина</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TKP101210</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2771416752" available="false">
+  <offer id="2771416752" available="true">
     <url>https://polineo.in.ua/ua/p2771416752-servetki-alice-multi.html</url>
-    <price>425.45</price>
+    <price>513.30</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341979</categoryId>
     <picture>https://images.prom.ua/6855770906_servetki-alice-multi-t.jpg</picture>
@@ -172229,7 +172229,7 @@ o   Країна  ТМ "Apex" — Італія
 	Країна-виробник : Італія
 </description>
     <param name="Вид товару">Серветки</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TKP101040</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TKP101040</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2771437033" available="false">
     <url>https://polineo.in.ua/ua/p2771437033-servetki-alice-multi.html</url>
     <price>480.67</price>
@@ -178651,9 +178651,9 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
     <param name="Артикул" unit="">РСР516</param>
     <param name="Ширина" unit="">35см</param>
   <param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>РСР516/А</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2857307692" available="true">
+  <offer id="2857307692" available="false">
     <url>https://polineo.in.ua/ua/p2857307692-mop-40sm-wet.html</url>
-    <price>345.13</price>
+    <price>350.15</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/6982308566_mop-40sm-wet.jpg</picture>
@@ -178681,7 +178681,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
 	Країна-виробник Україна
 	Плоский петельний моп із мікрофібри (з обрізаної нитки) з основою з поліестру (70% бавовни, 30% синтетична тканина). Витримує 100-150 циклів прання. Моп залишається прикріпленим до основи у момент ополіскування і віджиму, що дозволяє працівнику не нахилятись і уникати прямого контакту із брудом та мийними засобами. Використовується з основою Wet System Light ї Wet System Light з блокуванням.  Може застосовуватись у готелях, медичних закладах, банках, торговельних центрах і т.п.
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40см</param><article>UA9923</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40см</param><article>UA9923</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2857310004" available="false">
     <url>https://polineo.in.ua/ua/p2857310004-osnova-wet-system.html</url>
     <price>3385.99</price>
@@ -198715,7 +198715,7 @@ VITON - фторвуглецевий каучук / фторований
 
  </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>10571</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="3082903931" available="true">
+  <offer id="3082903931" available="false">
     <url>https://polineo.in.ua/ua/p3082903931-mop-35sm-uni.html</url>
     <price>533.38</price>
     <currencyId>UAH</currencyId>
@@ -198729,7 +198729,7 @@ VITON - фторвуглецевий каучук / фторований
 
  Може застосовуватись у готелях, медичних закладах, банках, торговельних центрах і т.п.</description>
     <param name="Матеріал насадки">Мікрофібра</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>UA9940</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>UA9940</article><stock_quantity>0</stock_quantity></offer>
   <offer id="3083010301" available="true">
     <url>https://polineo.in.ua/ua/p3083010301-shvabra-rezervuarom-dlya.html</url>
     <price>8606.79</price>
@@ -200494,7 +200494,7 @@ VITON - фторвуглецевий каучук / фторований
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CW1899</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3098219854" available="true">
     <url>https://polineo.in.ua/ua/p3098219854-urna-dlya-smittya.html</url>
-    <price>1551.18</price>
+    <price>1656.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/7500396254_urna-dlya-smittya.jpg</picture>
