@@ -852,7 +852,7 @@
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B3440</article><stock_quantity>0</stock_quantity></offer>
   <offer id="527806714" available="true">
     <url>https://polineo.in.ua/ua/p527806714-elektrosusharka-dlya-ruk.html</url>
-    <price>17810.96</price>
+    <price>19259.23</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/844292450_elektrosusharka-dlya-ruk.jpg</picture>
@@ -9265,7 +9265,7 @@ pH - 9,0 ± 1
   <param name="Розмір">-</param><article>706MA</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533721656" available="true">
     <url>https://polineo.in.ua/ua/p533721656-biotualet.html</url>
-    <price>4047.38</price>
+    <price>4125.19</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3041882860_biotualet.jpg</picture>
@@ -11805,7 +11805,7 @@ Tовщина корпусу — 3 мм пластик
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>0H003900</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722186" available="true">
     <url>https://polineo.in.ua/ua/p533722186-susharka-fen-dlya.html</url>
-    <price>1217.35</price>
+    <price>1316.50</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341990</categoryId>
     <picture>https://images.prom.ua/878409560_susharka-fen-dlya.jpg</picture>
@@ -14022,7 +14022,7 @@ pH - 8,4 ± 1
   <param name="Розмір">-</param><article>В303</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722870" available="true">
     <url>https://polineo.in.ua/ua/p533722870-elektrosusharka-dlya-ruk.html</url>
-    <price>18858.89</price>
+    <price>20393.75</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/2904823443_elektrosusharka-dlya-ruk.jpg</picture>
@@ -27187,7 +27187,7 @@ pH - 12,1 ± 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>PRO зелені</article><stock_quantity>50</stock_quantity></offer>
   <offer id="571934741" available="true">
     <url>https://polineo.in.ua/ua/p571934741-shvidkisna-visokoefektivna-susharka.html</url>
-    <price>11652.68</price>
+    <price>12600.20</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/878394745_shvidkisna-visokoefektivna-susharka.jpg</picture>
@@ -27267,7 +27267,7 @@ pH - 12,1 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1002</article><stock_quantity>50</stock_quantity></offer>
   <offer id="571956826" available="true">
     <url>https://polineo.in.ua/ua/p571956826-susharka-fen-dlya.html</url>
-    <price>1760.77</price>
+    <price>1902.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341990</categoryId>
     <picture>https://images.prom.ua/878416698_susharka-fen-dlya.jpg</picture>
@@ -32562,9 +32562,9 @@ Tовщина корпусу — 1,5 мм
     <param name="Материал рабочей части" unit="">поливинилхорид</param>
     <param name="Материал ручки/черенка" unit="">полипропилен с металом</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>12.00825.0006.02.071</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="706777253" available="true">
+  <offer id="706777253" available="false">
     <url>https://polineo.in.ua/ua/p706777253-biotualet-1120t.html</url>
-    <price>4909.56</price>
+    <price>5001.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/880516863_biotualet-1120t.jpg</picture>
@@ -32600,10 +32600,10 @@ Tовщина корпусу — 1,5 мм
     <param name="Гарантійний термін" unit="міс">12</param>
     <param name="Матеріал корпусу біотуалету">Метал</param>
     <param name="Колір">Сірий</param>
-  <param name="Розмір">-</param><article>1120T </article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>1120T </article><stock_quantity>0</stock_quantity></offer>
   <offer id="706785223" available="true">
     <url>https://polineo.in.ua/ua/p706785223-biotualet-1315t.html</url>
-    <price>4940.94</price>
+    <price>5033.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/880516863_biotualet-1315t.jpg</picture>
@@ -32645,7 +32645,7 @@ Tовщина корпусу — 1,5 мм
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>1315T </article><stock_quantity>50</stock_quantity></offer>
   <offer id="706794274" available="true">
     <url>https://polineo.in.ua/ua/p706794274-biotualet-1320t.html</url>
-    <price>6086.75</price>
+    <price>5277.28</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1169956591_biotualet-1320t.jpg</picture>
@@ -32686,7 +32686,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>1320T </article><stock_quantity>50</stock_quantity></offer>
   <offer id="706802640" available="true">
     <url>https://polineo.in.ua/ua/p706802640-biotualet-portativnij.html</url>
-    <price>4466.55</price>
+    <price>4551.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1169969393_biotualet-portativnij-10.jpg</picture>
@@ -32724,7 +32724,7 @@ Tовщина корпусу — 1,5 мм
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3010T</article><stock_quantity>50</stock_quantity></offer>
   <offer id="706804160" available="true">
     <url>https://polineo.in.ua/ua/p706804160-biotualet-portativnij.html</url>
-    <price>5145.50</price>
+    <price>5137.97</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3936555124_biotualet-portativnij-20.jpg</picture>
@@ -32762,7 +32762,7 @@ Tовщина корпусу — 1,5 мм
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3020</article><stock_quantity>50</stock_quantity></offer>
   <offer id="706807808" available="true">
     <url>https://polineo.in.ua/ua/p706807808-biotualet-portativnij.html</url>
-    <price>5853.32</price>
+    <price>5965.02</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1169978059_biotualet-portativnij-21.jpg</picture>
@@ -32801,7 +32801,7 @@ T-подібний змив. Нова конструкція змиву дозв
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>4521</article><stock_quantity>50</stock_quantity></offer>
   <offer id="706813273" available="true">
     <url>https://polineo.in.ua/ua/p706813273-biotualet-portativnij-elektrichnij.html</url>
-    <price>7476.04</price>
+    <price>7616.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1169978059_biotualet-portativnij-elektrichnij.jpg</picture>
@@ -32840,9 +32840,9 @@ T-подібний змив. Нова конструкція змиву дозв
     <param name="Стан">Новий</param>
     <param name="Колір">Сірий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>4521E</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="706828353" available="true">
+  <offer id="706828353" available="false">
     <url>https://polineo.in.ua/ua/p706828353-biotualet-kasetnij.html</url>
-    <price>23919.05</price>
+    <price>24370.85</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3041990602_biotualet-kasetnij.jpg</picture>
@@ -32897,10 +32897,10 @@ T-подібний змив. Нова конструкція змиву дозв
     <param name="Стан">Новий</param>
     <param name="Тип туалету">Хімічний (рідинний)</param>
     <param name="Колір">Сірий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3622E</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3622E</article><stock_quantity>0</stock_quantity></offer>
   <offer id="707524518" available="true">
     <url>https://polineo.in.ua/ua/p707524518-pidstavka-poruchnyami.html</url>
-    <price>4283.32</price>
+    <price>4364.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3042072120_pidstavka-z-poruchnyami.jpg</picture>
@@ -32921,7 +32921,7 @@ T-подібний змив. Нова конструкція змиву дозв
   <param name="Розмір">-</param><article>CHH-610</article><stock_quantity>50</stock_quantity></offer>
   <offer id="707533300" available="true">
     <url>https://polineo.in.ua/ua/p707533300-portativnij-tualet-pot.html</url>
-    <price>1826.03</price>
+    <price>1858.66</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1171741454_portativnij-tualet-e-pot.jpg</picture>
@@ -32959,7 +32959,7 @@ T-подібний змив. Нова конструкція змиву дозв
   <param name="Розмір">-</param><article>CHH-510</article><stock_quantity>50</stock_quantity></offer>
   <offer id="707535788" available="true">
     <url>https://polineo.in.ua/ua/p707535788-portativnij-tualet-pot.html</url>
-    <price>2166.13</price>
+    <price>2206.29</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1171746507_portativnij-tualet-e-pot.jpg</picture>
@@ -33015,7 +33015,7 @@ T-подібний змив. Нова конструкція змиву дозв
   <param name="Розмір">-</param><article>CHH-512</article><stock_quantity>50</stock_quantity></offer>
   <offer id="707611759" available="true">
     <url>https://polineo.in.ua/ua/p707611759-komplekt-dlya-kempingu.html</url>
-    <price>8507.65</price>
+    <price>8667.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1171842479_komplekt-dlya-kempingu.jpg</picture>
@@ -33057,7 +33057,7 @@ T-подібний змив. Нова конструкція змиву дозв
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>1020T+CHH7701</article><stock_quantity>50</stock_quantity></offer>
   <offer id="707621813" available="true">
     <url>https://polineo.in.ua/ua/p707621813-bak-dlya-vodi.html</url>
-    <price>3493.92</price>
+    <price>3559.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1171852984_bak-dlya-vodi.jpg</picture>
@@ -33083,7 +33083,7 @@ T-подібний змив. Нова конструкція змиву дозв
   <param name="Розмір">-</param><article>CHH-564</article><stock_quantity>50</stock_quantity></offer>
   <offer id="707625824" available="true">
     <url>https://polineo.in.ua/ua/p707625824-bak-dlya-vodi.html</url>
-    <price>2147.31</price>
+    <price>2188.72</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1171858082_bak-dlya-vodi.jpg</picture>
@@ -38105,7 +38105,7 @@ CHH20
   <param name="Розмір">-</param><article>11701</article><stock_quantity>50</stock_quantity></offer>
   <offer id="766647930" available="true">
     <url>https://polineo.in.ua/ua/p766647930-shvidkisna-visokoefektivna-susharka.html</url>
-    <price>8501.37</price>
+    <price>9180.33</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/1297946863_shvidkisna-visokoefektivna-susharka.jpg</picture>
@@ -38231,7 +38231,7 @@ CHH20
   <param name="Розмір">-</param><article>ZG-835SAT</article><stock_quantity>0</stock_quantity></offer>
   <offer id="766662795" available="true">
     <url>https://polineo.in.ua/ua/p766662795-shvidkisna-visokoefektivna-susharka.html</url>
-    <price>11652.68</price>
+    <price>12600.20</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/1297967911_shvidkisna-visokoefektivna-susharka.jpg</picture>
@@ -38275,7 +38275,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>918C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="805922389" available="true">
     <url>https://polineo.in.ua/ua/p805922389-aparat-dlya-nadyagannya.html</url>
-    <price>82902.79</price>
+    <price>89649.67</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341987</categoryId>
     <picture>https://images.prom.ua/1390327278_aparat-dlya-nadyagannya.jpg</picture>
@@ -38302,7 +38302,7 @@ CHH20
   <param name="Розмір">-</param><article>XT-46C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="805935014" available="true">
     <url>https://polineo.in.ua/ua/p805935014-plivka-pvh-dlya.html</url>
-    <price>2742.18</price>
+    <price>2965.57</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341987</categoryId>
     <picture>https://images.prom.ua/1390343556_plivka-pvh-dlya.jpg</picture>
@@ -38494,7 +38494,7 @@ CHH20
   <param name="Розмір">-</param><article>811A</article><stock_quantity>0</stock_quantity></offer>
   <offer id="848314005" available="true">
     <url>https://polineo.in.ua/ua/p848314005-elektrosusharka-dlya-ruk.html</url>
-    <price>23865.08</price>
+    <price>25806.57</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/775636258_elektrosusharka-dlya-ruk.jpg</picture>
@@ -42456,7 +42456,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-828S</article><stock_quantity>0</stock_quantity></offer>
   <offer id="865482339" available="true">
     <url>https://polineo.in.ua/ua/p865482339-elektrosusharka-dlya-ruk.html</url>
-    <price>31115.22</price>
+    <price>33647.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/1490056918_elektrosusharka-dlya-ruk.jpg</picture>
@@ -42492,7 +42492,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-829S</article><stock_quantity>50</stock_quantity></offer>
   <offer id="865484322" available="true">
     <url>https://polineo.in.ua/ua/p865484322-dvostoronnya-shvidkisna-elektrosusharka.html</url>
-    <price>27660.20</price>
+    <price>29911.67</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/1529053954_dvostoronnya-shvidkisna-elektrosusharka.jpg</picture>
@@ -42575,7 +42575,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">30 см</param><article>1300</article><stock_quantity>50</stock_quantity></offer>
   <offer id="865610575" available="true">
     <url>https://polineo.in.ua/ua/p865610575-susharka-dlya-volossya.html</url>
-    <price>1745.71</price>
+    <price>1888.78</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341990</categoryId>
     <picture>https://images.prom.ua/1529188737_susharka-dlya-volossya.jpg</picture>
@@ -42616,7 +42616,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-1001</article><stock_quantity>50</stock_quantity></offer>
   <offer id="865620622" available="true">
     <url>https://polineo.in.ua/ua/p865620622-susharka-fen-dlya.html</url>
-    <price>1374.23</price>
+    <price>1485.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341990</categoryId>
     <picture>https://images.prom.ua/3039943707_susharka-fen-dlya.jpg</picture>
@@ -42846,7 +42846,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3132-В</article><stock_quantity>50</stock_quantity></offer>
   <offer id="865828314" available="true">
     <url>https://polineo.in.ua/ua/p865828314-susharka-dlya-volossya.html</url>
-    <price>3939.45</price>
+    <price>4260.73</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341990</categoryId>
     <picture>https://images.prom.ua/1529645945_susharka-dlya-volossya.jpg</picture>
@@ -42884,7 +42884,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-1052</article><stock_quantity>50</stock_quantity></offer>
   <offer id="865839466" available="true">
     <url>https://polineo.in.ua/ua/p865839466-schitka-dlya-unitazu.html</url>
-    <price>131.78</price>
+    <price>136.80</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342000</categoryId>
     <picture>https://images.prom.ua/1529677838_schitka-dlya-unitazu.jpg</picture>
@@ -43060,9 +43060,9 @@ CHH20
     <param name="Колір">Чорний</param>
     <param name="Тип">Кришка</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>120A-9DG</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="866307982" available="true">
+  <offer id="866307982" available="false">
     <url>https://polineo.in.ua/ua/p866307982-biotualet-kasetnij-porshnevij.html</url>
-    <price>16486.94</price>
+    <price>16799.43</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1170189041_biotualet-kasetnij-porshnevij.jpg</picture>
@@ -43099,10 +43099,10 @@ CHH20
     <param name="Система змиву">Поршнева</param>
     <param name="Стан">Новий</param>
     <param name="Колір">Сірий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3924TI</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3924TI</article><stock_quantity>0</stock_quantity></offer>
   <offer id="866316657" available="true">
     <url>https://polineo.in.ua/ua/p866316657-biotualet-delux.html</url>
-    <price>8684.60</price>
+    <price>8492.59</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3042064608_biotualet-delux.jpg</picture>
@@ -43154,7 +43154,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>DeLux</article><stock_quantity>50</stock_quantity></offer>
   <offer id="866318483" available="true">
     <url>https://polineo.in.ua/ua/p866318483-sumka-dlya-transportuvannya.html</url>
-    <price>502.00</price>
+    <price>513.30</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1218642599_sumka-dlya-transportuvannya.jpg</picture>
@@ -43173,7 +43173,7 @@ CHH20
   <param name="Розмір">-</param><article>642-10</article><stock_quantity>50</stock_quantity></offer>
   <offer id="866326527" available="true">
     <url>https://polineo.in.ua/ua/p866326527-krislo-dlya-vanni.html</url>
-    <price>3306.93</price>
+    <price>3368.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342006</categoryId>
     <picture>https://images.prom.ua/1531190859_krislo-dlya-vanni.jpg</picture>
@@ -43196,7 +43196,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CHH-522</article><stock_quantity>50</stock_quantity></offer>
   <offer id="866329810" available="true">
     <url>https://polineo.in.ua/ua/p866329810-opriskuvach-dlya-tualetu.html</url>
-    <price>151.86</price>
+    <price>155.62</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341991</categoryId>
     <picture>https://images.prom.ua/1531197368_opriskuvach-dlya-tualetu.jpg</picture>
@@ -49446,7 +49446,7 @@ pH - 9
   <param name="Розмір">-</param><article>КУ-120</article><stock_quantity>50</stock_quantity></offer>
   <offer id="905160728" available="true">
     <url>https://polineo.in.ua/ua/p905160728-biotualet-1020t.html</url>
-    <price>4758.96</price>
+    <price>4849.32</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1622298883_biotualet-1020t.jpg</picture>
@@ -63001,7 +63001,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>ZG-1766</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1291098297" available="true">
     <url>https://polineo.in.ua/ua/p1291098297-avtomatichna-shvidkisna-susharka.html</url>
-    <price>6167.07</price>
+    <price>6669.07</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/2718566704_avtomatichna-shvidkisna-susharka.jpg</picture>
@@ -63067,9 +63067,9 @@ Tовщина корпусу — 1,5 мм
 </description>
     <param name="Поверхня">Матова</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-914</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1291211611" available="true">
+  <offer id="1291211611" available="false">
     <url>https://polineo.in.ua/ua/p1291211611-ultratonka-shvidkisna-elektrosusharka.html</url>
-    <price>7788.53</price>
+    <price>8422.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/2718882966_ultratonka-shvidkisna-elektrosusharka.jpg</picture>
@@ -63104,7 +63104,7 @@ Tовщина корпусу — 1,5 мм
 </description>
     <param name="Поверхня">Матова</param>
     <param name="Тип управління">Сенсорне</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-S001</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-S001</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1295485406" available="true">
     <url>https://polineo.in.ua/ua/p1295485406-trimach-gubok-schitok.html</url>
     <price>2413.37</price>
@@ -73926,7 +73926,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-2404</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1391017493" available="true">
     <url>https://polineo.in.ua/ua/p1391017493-avtomatichna-shvidkisna-susharka.html</url>
-    <price>6371.64</price>
+    <price>6889.95</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/3039773645_avtomatichna-shvidkisna-susharka.jpg</picture>
@@ -73955,7 +73955,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-820</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1391053970" available="false">
     <url>https://polineo.in.ua/ua/p1391053970-ultratonka-shvidkisna-elektrosusharka.html</url>
-    <price>8213.98</price>
+    <price>8882.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/3039856325_ultratonka-shvidkisna-elektrosusharka.jpg</picture>
@@ -73989,7 +73989,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-S002</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1391066744" available="true">
     <url>https://polineo.in.ua/ua/p1391066744-ultratonka-shvidkisna-elektrosusharka.html</url>
-    <price>5399.01</price>
+    <price>5839.52</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/3818029072_ultratonka-shvidkisna-elektrosusharka.jpg</picture>
@@ -74023,7 +74023,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ZG-i001</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1391823146" available="true">
     <url>https://polineo.in.ua/ua/p1391823146-portativnij-avtonomnij-mobilnij.html</url>
-    <price>7039.30</price>
+    <price>7173.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3042134515_portativnij-avtonomnij-mobilnij.jpg</picture>
@@ -74085,7 +74085,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CHH-7702</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1392031104" available="true">
     <url>https://polineo.in.ua/ua/p1392031104-portativnij-peresuvnij-komplekt.html</url>
-    <price>6777.00</price>
+    <price>6157.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3042932223_portativnij-peresuvnij-komplekt.jpg</picture>
@@ -74128,7 +74128,7 @@ pH - 10,2±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CHH-7701+562</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1392041210" available="true">
     <url>https://polineo.in.ua/ua/p1392041210-bak-dlya-vidhodiv.html</url>
-    <price>4456.51</price>
+    <price>4540.59</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3042942406_bak-dlya-vidhodiv.jpg</picture>
@@ -80402,7 +80402,7 @@ pH - 4
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>AT1420C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1531941061" available="true">
     <url>https://polineo.in.ua/ua/p1531941061-schitka-dlya-unitazu.html</url>
-    <price>308.73</price>
+    <price>392.82</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342000</categoryId>
     <picture>https://images.prom.ua/3501957788_schitka-dlya-unitazu.jpg</picture>
@@ -133747,7 +133747,7 @@ Hozelock — інноваційна компанія, перша у світі, 
   <param name="Розмір">-</param><article>12495</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1651731703" available="true">
     <url>https://polineo.in.ua/ua/p1651731703-zasib-dlya-biotualetiv.html</url>
-    <price>539.65</price>
+    <price>545.93</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3895145684_zasib-dlya-biotualetiv.jpg</picture>
@@ -135720,7 +135720,7 @@ Hozelock — інноваційна компанія, перша у світі, 
   <param name="Розмір">-</param><article>12499</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1665495901" available="true">
     <url>https://polineo.in.ua/ua/p1665495901-portativnij-pereduvnij-umivalnik.html</url>
-    <price>4195.47</price>
+    <price>4274.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1171751290_portativnij-pereduvnij-umivalnik.jpg</picture>
@@ -137397,7 +137397,7 @@ Hozelock — інноваційна компанія, перша у світі, 
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CAMPI RED 2L</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1682659421" available="true">
     <url>https://polineo.in.ua/ua/p1682659421-zasib-dlya-biotualetiv.html</url>
-    <price>1493.45</price>
+    <price>1347.87</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3996593619_zasib-dlya-biotualetiv.jpg</picture>
@@ -137488,9 +137488,9 @@ Hozelock — інноваційна компанія, перша у світі, 
     <param name="Тип витратного матеріалу">Рідина</param>
     <param name="Упаковка">Пластикова банка</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CAMPI GREEN 5L</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1682821824" available="false">
+  <offer id="1682821824" available="true">
     <url>https://polineo.in.ua/ua/p1682821824-kontsentrat-dlya-biotualetiv.html</url>
-    <price>539.65</price>
+    <price>545.93</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3997156109_kontsentrat-dlya-biotualetiv.jpg</picture>
@@ -137530,10 +137530,10 @@ Campi Blue з морським ароматом — це концентрат д
     <param name="Об'єм банки" unit="л">2</param>
     <param name="Тип витратного матеріалу">Рідина</param>
     <param name="Упаковка">Пластикова банка</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CAMPI BLUE 2</article><stock_quantity>0</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CAMPI BLUE 2</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1682827198" available="false">
     <url>https://polineo.in.ua/ua/p1682827198-zasib-dlya-biotualetiv.html</url>
-    <price>1347.87</price>
+    <price>1493.45</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/3997176095_zasib-dlya-biotualetiv.jpg</picture>
@@ -150566,7 +150566,7 @@ pH 7,2±1
   <param name="Розмір">-</param><article>ND12</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1947468725" available="true">
     <url>https://polineo.in.ua/ua/p1947468725-biotualet-diagonalnij-ruchnij.html</url>
-    <price>5849.56</price>
+    <price>5673.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/4866293446_biotualet-diagonalnij-20.jpg</picture>
@@ -150679,7 +150679,7 @@ pH 7,2±1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>6321DS</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1947485001" available="true">
     <url>https://polineo.in.ua/ua/p1947485001-biotualet-diagonalnij-porshnevij.html</url>
-    <price>6660.29</price>
+    <price>6783.28</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/4866362537_biotualet-diagonalnij-22.jpg</picture>
@@ -150887,7 +150887,7 @@ pH 7,2±1
   <param name="Розмір">-</param><article>E935Black</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1956966356" available="false">
     <url>https://polineo.in.ua/ua/p1956966356-portativnij-avtonnij-mobilnij.html</url>
-    <price>7699.43</price>
+    <price>7858.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/4890238834_portativnij-avtonnij-mobilnij.jpg</picture>
@@ -154626,7 +154626,7 @@ pH - 10,7±1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SI/PB</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2060837195" available="true">
     <url>https://polineo.in.ua/ua/p2060837195-biotualet-portativnij-elektrichnij.html</url>
-    <price>3211.55</price>
+    <price>3271.79</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/5259300030_biotualet-portativnij-elektrichnij.jpg</picture>
@@ -167447,9 +167447,9 @@ o   Країна  ТМ "Apex" — Італія
     <param name="Тип білизни">Цветное</param>
     <param name="Вага" unit="г">10000</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>100314-010-033 </article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2469576760" available="true">
+  <offer id="2469576760" available="false">
     <url>https://polineo.in.ua/ua/p2469576760-portativnij-diagonalnij-biotualet.html</url>
-    <price>4492.90</price>
+    <price>4580.75</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/6449246964_portativnij-diagonalnij-biotualet.jpg</picture>
@@ -167513,10 +167513,10 @@ o   Країна  ТМ "Apex" — Італія
 Колір: сірий
 </description>
     <param name="Колір">Сірий</param>
-  <param name="Розмір">-</param><article>5020TDS</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>5020TDS</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2469579117" available="false">
     <url>https://polineo.in.ua/ua/p2469579117-portativnij-diagonalnij-biotualet.html</url>
-    <price>5849.56</price>
+    <price>5956.23</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/6449255663_portativnij-diagonalnij-biotualet.jpg</picture>
@@ -167566,7 +167566,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>6320TDS</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2469581873" available="true">
     <url>https://polineo.in.ua/ua/p2469581873-portativnij-pisuar-kolesah.html</url>
-    <price>6254.92</price>
+    <price>6360.34</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/6449274533_portativnij-pisuar-na.jpg</picture>
@@ -167626,9 +167626,9 @@ o   Країна  ТМ "Apex" — Італія
 
 </description>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CHH-9741</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2470732603" available="true">
+  <offer id="2470732603" available="false">
     <url>https://polineo.in.ua/ua/p2470732603-biotualet-kasetnij-porshnevij.html</url>
-    <price>23260.17</price>
+    <price>23699.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/6450855704_biotualet-kasetnij-porshnevij.jpg</picture>
@@ -167718,7 +167718,7 @@ o   Країна  ТМ "Apex" — Італія
 
 </description>
     <param name="Колір">Сірий</param>
-  <param name="Розмір">-</param><article>5924TI</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>5924TI</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2470747026" available="true">
     <url>https://polineo.in.ua/ua/p2470747026-schitka-dlya-unitaza.html</url>
     <price>1037.89</price>
@@ -180956,9 +180956,9 @@ W3- Протиральні матеріали у коробі з відбірк�
 	
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SQ2</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2870879105" available="true">
+  <offer id="2870879105" available="false">
     <url>https://polineo.in.ua/ua/p2870879105-innovatsijna-visokoshvidkisna-susharka.html</url>
-    <price>8526.47</price>
+    <price>9224.25</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342003</categoryId>
     <picture>https://images.prom.ua/7004423266_innovatsijna-visokoshvidkisna-susharka.jpg</picture>
@@ -181063,7 +181063,7 @@ W3- Протиральні матеріали у коробі з відбірк�
 
 Енергозберігаюча технологія: </description>
     <param name="Колір">Чорний</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>ZG-I006</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>ZG-I006</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2870890563" available="false">
     <url>https://polineo.in.ua/ua/p2870890563-schitka-dlya-unitazu.html</url>
     <price>273.59</price>
@@ -181103,7 +181103,7 @@ W3- Протиральні матеріали у коробі з відбірк�
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>FT628</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2870894824" available="false">
     <url>https://polineo.in.ua/ua/p2870894824-tualet-gravitatsijnim-zmivom.html</url>
-    <price>7788.53</price>
+    <price>7946.66</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/7004466793_tualet-z-gravitatsijnim.jpg</picture>
@@ -181175,7 +181175,7 @@ W3- Протиральні матеріали у коробі з відбірк�
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>CHH-3702T</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2870898023" available="false">
     <url>https://polineo.in.ua/ua/p2870898023-bak-dlya-vodi.html</url>
-    <price>5173.11</price>
+    <price>5272.26</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/7004480029_bak-dlya-vodi.jpg</picture>
@@ -196421,7 +196421,7 @@ IBC-контейнер SCHÜTZ RECONTAINER 1000 л — це надійне та 
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">90 см</param><article>К0209</article><stock_quantity>0</stock_quantity></offer>
   <offer id="3021000560" available="true">
     <url>https://polineo.in.ua/ua/p3021000560-bezshumnij-avtomatichnij-trimach.html</url>
-    <price>962.59</price>
+    <price>1007.77</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341975</categoryId>
     <picture>https://images.prom.ua/7314822255_bezshumnij-avtomatichnij-trimach.jpg</picture>
@@ -204816,7 +204816,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>K9</article><stock_quantity>50</stock_quantity></offer>
 <offer id="3196615911" available="true">
     <url>https://polineo.in.ua/ua/p3196615911-osvizhuvach-reshitka-dlya.html</url>
-    <price>131.78</price>
+    <price>110.44</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341953</categoryId>
     <picture>https://images.prom.ua/7708973099_osvizhuvach-reshitka-dlya-pisuariv.jpg</picture>
@@ -204839,7 +204839,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VS-110F_Blue</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3196616664" available="true">
     <url>https://polineo.in.ua/ua/p3196616664-osvizhuvach-reshitka-dlya.html</url>
-    <price>131.78</price>
+    <price>110.44</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341953</categoryId>
     <picture>https://images.prom.ua/7708977171_osvizhuvach-reshitka-dlya-pisuariv.jpg</picture>
@@ -204862,7 +204862,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VS-110F_Green</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3196617294" available="true">
     <url>https://polineo.in.ua/ua/p3196617294-osvizhuvach-reshitka-dlya.html</url>
-    <price>131.78</price>
+    <price>110.44</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341953</categoryId>
     <picture>https://images.prom.ua/7708980948_osvizhuvach-reshitka-dlya-pisuariv.jpg</picture>
@@ -204885,7 +204885,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VS-110F_Orange</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3196618273" available="true">
     <url>https://polineo.in.ua/ua/p3196618273-osvizhuvach-reshitka-dlya.html</url>
-    <price>131.78</price>
+    <price>110.44</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341953</categoryId>
     <picture>https://images.prom.ua/7708985460_osvizhuvach-reshitka-dlya-pisuariv.jpg</picture>
@@ -204909,7 +204909,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VS-110F_Purple</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3196619230" available="true">
     <url>https://polineo.in.ua/ua/p3196619230-osvizhuvach-reshitka-dlya.html</url>
-    <price>131.78</price>
+    <price>110.44</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341953</categoryId>
     <picture>https://images.prom.ua/7708993451_osvizhuvach-reshitka-dlya-pisuariv.jpg</picture>
@@ -204955,7 +204955,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VS-110F_Yellow</article><stock_quantity>0</stock_quantity></offer>
   <offer id="3196620893" available="true">
     <url>https://polineo.in.ua/ua/p3196620893-biotualet-kasetnij-porshnevij.html</url>
-    <price>22454.46</price>
+    <price>22994.11</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341954</categoryId>
     <picture>https://images.prom.ua/7709005984_biotualet-kasetnij-porshnevij.jpg</picture>
