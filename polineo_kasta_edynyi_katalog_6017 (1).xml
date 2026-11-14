@@ -52600,7 +52600,7 @@ FROSCH видаляє природним способом відкладення
     <vendorCode>Frosch</vendorCode>
     <description>Frosch Baby Бальзам для миття дитячого посуду.  FROSCH — серія екологічно чистих і безпечних засобів із рослинними поверхнево-активними речовинами.  Властивості: Ніжний і ефективний бальзам спеціально розроблені для видалення залишків їжі з дитячих речей, наприклад, дитячих пляшечок, сосок, прорізувачів для зубів або іграшок, миються.  Бальзам гіпоалергічний, без барвників і ароматизаторів.  Його ніжна формула рН — нейтральні для шкіри та повісті змивається водою.  Схвалено дерматологами.</description>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Frosch</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="927177006" available="true">
+  <offer id="927177006" available="false">
     <url>https://polineo.in.ua/ua/p927177006-zasib-dlya-aromatizatsiyi.html</url>
     <price>272.34</price>
     <currencyId>UAH</currencyId>
@@ -52612,7 +52612,7 @@ FROSCH видаляє природним способом відкладення
     <vendor>Somat</vendor>
     <vendorCode>Somat</vendorCode>
     <description>Потрійна дія: забезпечує лимонний аромат, надає тривалої свіжості та усуває неприємний запах.  Позбавтеся неприємних запахів і надайте посудомийній машині тривалої свіжості</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Somat</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Somat</article><stock_quantity>0</stock_quantity></offer>
   <offer id="927179988" available="true">
     <url>https://polineo.in.ua/ua/p927179988-somat-opoliskuvach-750ml.html</url>
     <price>330.07</price>
