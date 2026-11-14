@@ -200533,7 +200533,7 @@ VITON - фторвуглецевий каучук / фторований
 Призначена  для місць із низьким рівнем відвідування: кухні приватних апартаментів, стоматологічні кабінети, масажні салони, процедурні.</description>
     <param name="Тип">Кришка</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CW2084</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="3098226724" available="true">
+  <offer id="3098226724" available="false">
     <url>https://polineo.in.ua/ua/p3098226724-trimach-paketiv-dlya.html</url>
     <price>553.46</price>
     <currencyId>UAH</currencyId>
@@ -200548,7 +200548,7 @@ VITON - фторвуглецевий каучук / фторований
 Призначена  для місць із низьким рівнем відвідування: кухні приватних апартаментів, стоматологічні кабінети, масажні салони, процедурні.</description>
     <param name="Матеріал">Метал</param>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>E501White</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>E501White</article><stock_quantity>0</stock_quantity></offer>
   <offer id="3098228616" available="false">
     <url>https://polineo.in.ua/ua/p3098228616-urna-dlya-smittya.html</url>
     <price>798.18</price>
