@@ -21608,7 +21608,7 @@ pH - 2,7 ± 1
     <param name="Дополнительные характеристики" unit="">основа с блокировкой</param>
     <param name="Материал корпуса" unit="">АВС пластик</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>0868Y</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533723924" available="true">
+  <offer id="533723924" available="false">
     <url>https://polineo.in.ua/ua/p533723924-zasib-miyuchij-dlya.html</url>
     <price>811.99</price>
     <currencyId>UAH</currencyId>
@@ -21638,7 +21638,7 @@ pH - 10 ± 1
     <param name="Особливість засобу">Органічне</param>
     <param name="Тип засобу">Рідина</param>
     <param name="Об`єм" unit="мл">5000</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.N.P.1000/M 5</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.N.P.1000/M 5</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723925" available="true">
     <url>https://polineo.in.ua/ua/p533723925-trimach-gigiyenichnih-paketiv.html</url>
     <price>3744.92</price>
