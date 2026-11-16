@@ -143068,7 +143068,7 @@ Ecolabel - Європейське екологічне маркування Euro
     <param name="Страна происхождения" unit="">Италия</param>
     <param name="Цвет / Покрытие" unit="">Сатин (матовое)</param>
   <param name="Розмір">-</param><article>A91001</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1839998929" available="false">
+  <offer id="1839998929" available="true">
     <url>https://polineo.in.ua/ua/p1839998929-tualetnij-papir-ruloni.html</url>
     <price>461.84</price>
     <currencyId>UAH</currencyId>
@@ -143139,7 +143139,7 @@ steel-to-rubber/ є
 
  </description>
     <param name="Колір">Білий</param>
-  <param name="Розмір">-</param><article>B921</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Розмір">-</param><article>B921</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1848273876" available="true">
     <url>https://polineo.in.ua/ua/p1848273876-sensornij-dispenser-dlya.html</url>
     <price>35140.00</price>
