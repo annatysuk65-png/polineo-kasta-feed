@@ -1435,7 +1435,7 @@
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>8261</article><stock_quantity>50</stock_quantity></offer>
   <offer id="530510408" available="true">
     <url>https://polineo.in.ua/ua/p530510408-trimach-plastikovij-shubkoyu.html</url>
-    <price>1320.26</price>
+    <price>1261.28</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/6834966856_trimach-plastikovij-z.jpg</picture>
@@ -1452,7 +1452,7 @@
   <vendor>No Brand</vendor><param name="Розмір">35см</param><article>8281YL</article><stock_quantity>50</stock_quantity></offer>
   <offer id="530514106" available="true">
     <url>https://polineo.in.ua/ua/p530514106-trimach-35sm-plastmasovij.html</url>
-    <price>425.45</price>
+    <price>454.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/4894138043_trimach-35sm-plastmasovij.jpg</picture>
@@ -1476,7 +1476,7 @@
   <vendor>No Brand</vendor><param name="Розмір">35см</param><article>8391YL</article><stock_quantity>50</stock_quantity></offer>
   <offer id="530793873" available="false">
     <url>https://polineo.in.ua/ua/p530793873-ganchirka-zminna-dlya.html</url>
-    <price>591.11</price>
+    <price>631.27</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/3938312499_ganchirka-zminna-dlya.jpg</picture>
@@ -1497,7 +1497,7 @@
 Країна-виробник - Італія</description>
     <param name="Колір корпусу">Білий</param>
   <param name="Колір">Білий</param><param name="Розмір">35см</param><article>8411</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="530794835" available="true">
+  <offer id="530794835" available="false">
     <url>https://polineo.in.ua/ua/p530794835-ganchirka-zminna-abrazivom.html</url>
     <price>790.65</price>
     <currencyId>UAH</currencyId>
@@ -1519,7 +1519,7 @@
     <param name="Матеріал">Мікрофібра</param>
     <param name="Тип">Ганчірка</param>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">35см</param><article>8431</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">35см</param><article>8431</article><stock_quantity>0</stock_quantity></offer>
   <offer id="530795369" available="true">
     <url>https://polineo.in.ua/ua/p530795369-skrebok-best-ruchkoyu.html</url>
     <price>1185.98</price>
@@ -1548,7 +1548,7 @@
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8555</article><stock_quantity>50</stock_quantity></offer>
   <offer id="530803136" available="true">
     <url>https://polineo.in.ua/ua/p530803136-skrebok-handley-metalevij.html</url>
-    <price>489.45</price>
+    <price>522.08</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/782140216_skrebok-handley-metalevij.jpg</picture>
@@ -1628,7 +1628,7 @@
   <param name="Розмір">-</param><article>8700</article><stock_quantity>50</stock_quantity></offer>
   <offer id="530938383" available="true">
     <url>https://polineo.in.ua/ua/p530938383-trimach-padinnya-terfir.html</url>
-    <price>1549.93</price>
+    <price>1744.45</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/782278174_trimach-padinnya-terfir.jpg</picture>
@@ -9694,7 +9694,7 @@ pH - 9,0 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>584SAT</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533721714" available="true">
     <url>https://polineo.in.ua/ua/p533721714-osnova-mopa-dlya.html</url>
-    <price>1091.85</price>
+    <price>1165.90</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/7719592260_osnova-mopa-dlya.jpg</picture>
@@ -13693,7 +13693,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5541</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722815" available="true">
     <url>https://polineo.in.ua/ua/p533722815-pad-abrazivnij-korichnevij.html</url>
-    <price>466.86</price>
+    <price>445.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/788587067_pad-abrazivnij-korichnevij.jpg</picture>
@@ -17514,9 +17514,9 @@ EAN код: 8020090027093
     <param name="Особливість засобу">Органічне</param>
     <param name="Об`єм" unit="мл">10000</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.N.P.1000/M</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723482" available="true">
+  <offer id="533723482" available="false">
     <url>https://polineo.in.ua/ua/p533723482-skrebok-dlya-zgonu.html</url>
-    <price>1757.00</price>
+    <price>1876.23</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788571225_skrebok-dlya-zgonu.jpg</picture>
@@ -17536,7 +17536,7 @@ EAN код: 8020090027093
 
  </description>
     <param name="Довжина ручки" unit="см">75</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">75см</param><article>8613</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">75см</param><article>8613</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723490" available="true">
     <url>https://polineo.in.ua/ua/p533723490-trimach-tualetnogo-paperu.html</url>
     <price>2039.38</price>
@@ -22377,7 +22377,7 @@ pH - 8,4 ± 1
   <param name="Розмір">-</param><article>590</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724038" available="true">
     <url>https://polineo.in.ua/ua/p533724038-mop-petelnij-knopkami.html</url>
-    <price>658.88</price>
+    <price>626.25</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/788600392_mop-petelnij-iz.jpg</picture>
@@ -22615,7 +22615,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>2000А2</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724057" available="false">
     <url>https://polineo.in.ua/ua/p533724057-vidro-dlya-perevezennya.html</url>
-    <price>3091.07</price>
+    <price>3304.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788600668_vidro-dlya-perevezennya.jpg</picture>
@@ -34666,7 +34666,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">100см</param><article>401</article><stock_quantity>50</stock_quantity></offer>
   <offer id="749127440" available="true">
     <url>https://polineo.in.ua/ua/p749127440-mop-eco-velcro.html</url>
-    <price>627.50</price>
+    <price>667.66</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1260967291_mop-eco-velcro.jpg</picture>
@@ -35161,7 +35161,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">40см</param><article>C110W</article><stock_quantity>50</stock_quantity></offer>
   <offer id="749379067" available="true">
     <url>https://polineo.in.ua/ua/p749379067-mop-tri-wet.html</url>
-    <price>909.88</price>
+    <price>976.39</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1261580049_mop-tri-wet-mikrofibra.jpg</picture>
@@ -35748,7 +35748,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">2м</param><article>1055</article><stock_quantity>50</stock_quantity></offer>
   <offer id="751839863" available="true">
     <url>https://polineo.in.ua/ua/p751839863-shubka-zminna-poliestr.html</url>
-    <price>524.59</price>
+    <price>559.73</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/782131139_shubka-zminna-poliestr.jpg</picture>
@@ -40587,7 +40587,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>6410</article><stock_quantity>0</stock_quantity></offer>
   <offer id="863375905" available="true">
     <url>https://polineo.in.ua/ua/p863375905-ganchirka-zminna-abrazivom.html</url>
-    <price>786.89</price>
+    <price>839.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/3938315036_ganchirka-zminna-z.jpg</picture>
@@ -44445,7 +44445,7 @@ pH - 1
   <vendor>No Brand</vendor><param name="Розмір">40см</param><article>0B000705</article><stock_quantity>0</stock_quantity></offer>
   <offer id="869303647" available="true">
     <url>https://polineo.in.ua/ua/p869303647-0b001044-ruchka-alyuminiyeva.html</url>
-    <price>1498.47</price>
+    <price>1603.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/1537821115_0b001044-ruchka-alyuminiyeva.jpg</picture>
@@ -44516,7 +44516,7 @@ pH - 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>0R001044</article><stock_quantity>50</stock_quantity></offer>
   <offer id="869416707" available="true">
     <url>https://polineo.in.ua/ua/p869416707-0bb00745mb-microriccio-velcro.html</url>
-    <price>965.10</price>
+    <price>1031.61</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1537929258_0bb00745mb-microriccio-velcro.jpg</picture>
@@ -69462,7 +69462,7 @@ pH - 7,8±1
 </description>
     <param name="Колір">Білий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>B917</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1361559515" available="true">
+  <offer id="1361559515" available="false">
     <url>https://polineo.in.ua/ua/p1361559515-tualetnij-papir-ruloni.html</url>
     <price>530.87</price>
     <currencyId>UAH</currencyId>
@@ -69492,7 +69492,7 @@ pH - 7,8±1
 Країна-виробник - Україна
 </description>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B923</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B923</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1361563582" available="true">
     <url>https://polineo.in.ua/ua/p1361563582-tualetnij-papir-ruloni.html</url>
     <price>1039.14</price>
@@ -70440,9 +70440,9 @@ pH - 7,8±1
     <param name="Матеріал" unit="">Микрофибра</param>
     <param name="Тип" unit="">Тряпка</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>A510V</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1365093162" available="true">
+  <offer id="1365093162" available="false">
     <url>https://polineo.in.ua/ua/p1365093162-mop-soft-striat.html</url>
-    <price>533.38</price>
+    <price>486.94</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/2958163772_mop-soft-striat.jpg</picture>
@@ -70464,7 +70464,7 @@ pH - 7,8±1
 </description>
     <param name="Колір">Синій</param>
     <param name="Матеріал" unit="">Микрофибра</param>
-  <vendor>No Brand</vendor><param name="Розмір">40см</param><article>0000E410B</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">40см</param><article>0000E410B</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1365097409" available="true">
     <url>https://polineo.in.ua/ua/p1365097409-mop-ultrasafe-uni.html</url>
     <price>1108.42</price>
@@ -78002,7 +78002,7 @@ pH 4
   <param name="Колір">Комбінований</param><param name="Розмір">40см</param><article>0693</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1427550960" available="true">
     <url>https://polineo.in.ua/ua/p1427550960-shubka-zminna-mikrofibra.html</url>
-    <price>562.24</price>
+    <price>599.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/3160001561_shubka-zminna-mikrofibra.jpg</picture>
@@ -138688,7 +138688,7 @@ Ultra Air Pocket
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SDA1629</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1727978515" available="true">
     <url>https://polineo.in.ua/ua/p1727978515-mop-soft-striat.html</url>
-    <price>512.04</price>
+    <price>547.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/4139490552_mop-50-sm.jpg</picture>
@@ -140507,7 +140507,7 @@ steel-to-rubber/ є
   <vendor>No Brand</vendor><param name="Розмір">60 см</param><article>У60.11К</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1805407066" available="true">
     <url>https://polineo.in.ua/ua/p1805407066-zyednuvach-lampo-dlya.html</url>
-    <price>417.92</price>
+    <price>445.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/4384809504_zyednuvach-lampo-dlya.jpg</picture>
@@ -140529,7 +140529,7 @@ steel-to-rubber/ є
   <param name="Колір">Комбінований</param><param name="Розмір">23 мм</param><article>8546</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1805407869" available="true">
     <url>https://polineo.in.ua/ua/p1805407869-zyednuvach-lampo-dlya.html</url>
-    <price>417.92</price>
+    <price>445.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/4384809504_zyednuvach-lampo-dlya.jpg</picture>
@@ -142751,9 +142751,9 @@ steel-to-rubber/ є
     <param name="Матеріал" unit="">Хлопок</param>
     <param name="Тип мопа" unit="">Веревочный</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>00001550</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1838992362" available="true">
+  <offer id="1838992362" available="false">
     <url>https://polineo.in.ua/ua/p1838992362-mop-ecolabel-motuzkova.html</url>
-    <price>356.42</price>
+    <price>429.21</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/4499474664_mop-ecolabel-motuzkova.jpg</picture>
@@ -142796,7 +142796,7 @@ Ecolabel - Європейське екологічне маркування Euro
     <param name="Вес (кг)" unit="">0,500</param>
     <param name="Тип мопа" unit="">Веревочный</param>
     <param name="Матеріал" unit="">Хлопок</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>000L1200</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>000L1200</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1839083080" available="true">
     <url>https://polineo.in.ua/ua/p1839083080-urna-dlya-musora.html</url>
     <price>10849.48</price>
@@ -148594,7 +148594,7 @@ W1 — протиркові матеріали в рулонах для підл
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">25 см</param><article>10518</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1900444607" available="true">
     <url>https://polineo.in.ua/ua/p1900444607-mop-soft-band.html</url>
-    <price>618.72</price>
+    <price>661.39</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/4712120856_mop-soft-band.jpg</picture>
@@ -157524,7 +157524,7 @@ Urinex не можна використовувати для чищення кр
   <param name="Розмір">140 см</param><article>1023Y</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2276638093" available="false">
     <url>https://polineo.in.ua/ua/p2276638093-mop-40sm-soft.html</url>
-    <price>598.64</price>
+    <price>640.05</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/6057238071_mop-40sm-soft.jpg</picture>
@@ -158466,7 +158466,7 @@ Urinex не можна використовувати для чищення кр
   <param name="Колір">Білий</param><param name="Розмір">-</param><article>822278</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2367649539" available="true">
     <url>https://polineo.in.ua/ua/p2367649539-trimach-alyuminiyevij-sharniri.html</url>
-    <price>888.54</price>
+    <price>948.78</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/6294980687_trimach-45-sm.jpg</picture>
@@ -168008,7 +168008,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">50 см</param><article>0000A120B</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2472918561" available="true">
     <url>https://polineo.in.ua/ua/p2472918561-mop-soft-band.html</url>
-    <price>608.68</price>
+    <price>579.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/6454381783_mop-soft-band.jpg</picture>
@@ -171850,7 +171850,7 @@ o   Країна  ТМ "Apex" — Італія
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>M21300</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2758713529" available="false">
     <url>https://polineo.in.ua/ua/p2758713529-skrebok-aries-ruchkoyu.html</url>
-    <price>1246.22</price>
+    <price>1287.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/6834980430_skrebok-aries-z.jpg</picture>
@@ -172683,7 +172683,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Розмір">45см</param><article>00008262YL</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2787115632" available="true">
     <url>https://polineo.in.ua/ua/p2787115632-trimach-35sm-alyuminiyevij.html</url>
-    <price>695.27</price>
+    <price>864.70</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/6876183092_trimach-35sm-alyuminiyevij.jpg</picture>
@@ -172781,7 +172781,7 @@ o   Країна  ТМ "Apex" — Італія
   <vendor>No Brand</vendor><param name="Розмір">45см</param><article>000008417</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2789485779" available="false">
     <url>https://polineo.in.ua/ua/p2789485779-rukoyatka-alyuminiyeva-teleskopichna.html</url>
-    <price>2857.64</price>
+    <price>3057.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/6855266822_rukoyatka-4m-alyuminiyeva.jpg</picture>
@@ -178702,7 +178702,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40см</param><article>0868 U</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2857317537" available="true">
     <url>https://polineo.in.ua/ua/p2857317537-mop-soft-fast.html</url>
-    <price>455.57</price>
+    <price>486.94</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/6982333125_mop-40-sm.jpg</picture>
@@ -179538,7 +179538,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <vendor>No Brand</vendor><param name="Розмір">75 см</param><article>1058Y</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2862436196" available="false">
     <url>https://polineo.in.ua/ua/p2862436196-rukoyatka-45m-alyuminiyeva.html</url>
-    <price>3766.26</price>
+    <price>4008.47</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/6990633638_rukoyatka-45m-alyuminiyeva.jpg</picture>
