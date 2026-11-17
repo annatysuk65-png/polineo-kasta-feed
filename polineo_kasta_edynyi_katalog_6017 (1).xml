@@ -21243,7 +21243,7 @@ pH - 6,9±1
   <param name="Розмір">-</param><article>ZG-912C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723887" available="false">
     <url>https://polineo.in.ua/ua/p533723887-mop-dlya-suhogo.html</url>
-    <price>872.23</price>
+    <price>899.84</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/788580208_mop-dlya-suhogo.jpg</picture>
@@ -35281,7 +35281,7 @@ CHH20
   <param name="Розмір">-</param><article>1601CS</article><stock_quantity>50</stock_quantity></offer>
   <offer id="749977005" available="true">
     <url>https://polineo.in.ua/ua/p749977005-mop-tris-blik.html</url>
-    <price>947.53</price>
+    <price>1012.79</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1262917397_mop-tris-blik.jpg</picture>
@@ -35302,7 +35302,7 @@ CHH20
     <param name="Длина, см" unit="">40</param>
     <param name="Матеріал" unit="">Микрофибра</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">50 см</param><article>0470</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="749979565" available="true">
+  <offer id="749979565" available="false">
     <url>https://polineo.in.ua/ua/p749979565-mop-blik-bavovna.html</url>
     <price>661.39</price>
     <currencyId>UAH</currencyId>
@@ -35324,7 +35324,7 @@ CHH20
     <param name="Длина, см" unit="">40</param>
     <param name="Матеріал" unit="">Хлопок</param>
     <param name="Ширина" unit="">13 см</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">50 см</param><article>0496</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">50 см</param><article>0496</article><stock_quantity>0</stock_quantity></offer>
   <offer id="749996646" available="true">
     <url>https://polineo.in.ua/ua/p749996646-sumka-dlya-prannya.html</url>
     <price>1014.04</price>
@@ -35641,7 +35641,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S030091</article><stock_quantity>50</stock_quantity></offer>
   <offer id="751605001" available="true">
     <url>https://polineo.in.ua/ua/p751605001-knopka-chervona-dlya.html</url>
-    <price>66.52</price>
+    <price>69.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/1267041932_knopka-chervona-dlya.jpg</picture>
@@ -35850,7 +35850,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">85 см</param><article>L070522</article><stock_quantity>50</stock_quantity></offer>
   <offer id="751910918" available="true">
     <url>https://polineo.in.ua/ua/p751910918-ruchka-dlya-trimacha.html</url>
-    <price>332.58</price>
+    <price>350.15</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/1267647223_ruchka-dlya-trimacha.jpg</picture>
@@ -37558,7 +37558,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>L660661</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755449970" available="true">
     <url>https://polineo.in.ua/ua/p755449970-l670361-stijka-metaleva.html</url>
-    <price>5760.45</price>
+    <price>5947.45</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1276362902_l670361-stijka-metaleva.jpg</picture>
@@ -37588,7 +37588,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>L670361</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755454183" available="true">
     <url>https://polineo.in.ua/ua/p755454183-rozdilnik-dlya-derzhatelya.html</url>
-    <price>1680.45</price>
+    <price>1797.16</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1276376587_rozdilnik-dlya-derzhatelya.jpg</picture>
@@ -37607,7 +37607,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>R590719</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755467865" available="true">
     <url>https://polineo.in.ua/ua/p755467865-rozdilnik-viddilu-dlya.html</url>
-    <price>1537.38</price>
+    <price>1639.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1276387932_rozdilnik-na-4.jpg</picture>
@@ -37625,7 +37625,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>R590844</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755472154" available="true">
     <url>https://polineo.in.ua/ua/p755472154-gachok-podvijnij.html</url>
-    <price>181.98</price>
+    <price>189.51</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1276392281_gachok-podvijnij.jpg</picture>
@@ -37666,7 +37666,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Червоний</param><param name="Розмір">80 мм</param><article>S040211</article><stock_quantity>0</stock_quantity></offer>
   <offer id="755512532" available="true">
     <url>https://polineo.in.ua/ua/p755512532-plastikova-nasadka-dlya.html</url>
-    <price>922.43</price>
+    <price>985.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1276476137_plastikova-nasadka-dlya.jpg</picture>
@@ -37691,7 +37691,7 @@ CHH20
   <param name="Колір">Червоний</param><param name="Розмір">-</param><article>S040255</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755522355" available="true">
     <url>https://polineo.in.ua/ua/p755522355-plastikove-kriplennya-dlya.html</url>
-    <price>232.18</price>
+    <price>247.24</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1276511974_plastikove-kriplennya-dlya.jpg</picture>
@@ -37709,7 +37709,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>S070090</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755540672" available="true">
     <url>https://polineo.in.ua/ua/p755540672-trimach-mishka-50l.html</url>
-    <price>1827.28</price>
+    <price>1955.29</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/2975565696_trimach-mishka-50l.jpg</picture>
@@ -37749,7 +37749,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>S070120</article><stock_quantity>0</stock_quantity></offer>
   <offer id="755549002" available="true">
     <url>https://polineo.in.ua/ua/p755549002-nasadka-kriplennya-podibnu.html</url>
-    <price>564.75</price>
+    <price>603.66</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1276564446_nasadka-kriplennya-na-u-podibnu.jpg</picture>
@@ -37768,7 +37768,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>S070130</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755555140" available="true">
     <url>https://polineo.in.ua/ua/p755555140-pidtrimka-ruchki-dlya.html</url>
-    <price>2251.47</price>
+    <price>2404.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1276576352_pidtrimka-ruchki-dlya.jpg</picture>
@@ -37786,7 +37786,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>S070140</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755558931" available="true">
     <url>https://polineo.in.ua/ua/p755558931-krishka-dlya-trimacha.html</url>
-    <price>2122.21</price>
+    <price>2264.02</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1276581867_krishka-dlya-trimacha.jpg</picture>
@@ -37805,7 +37805,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Белый</param><param name="Розмір">-</param><article>S070142</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755565383" available="true">
     <url>https://polineo.in.ua/ua/p755565383-plastmasovij-piddon-dlya.html</url>
-    <price>1731.90</price>
+    <price>1849.87</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1276591256_plastmasovij-piddon-dlya.jpg</picture>
@@ -37825,7 +37825,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>S070143</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755571672" available="true">
     <url>https://polineo.in.ua/ua/p755571672-trimach-mishkiv.html</url>
-    <price>942.51</price>
+    <price>1006.51</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1276598264_trimach-mishkiv.jpg</picture>
@@ -44138,7 +44138,7 @@ pH - 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>100157-001-028</article><stock_quantity>50</stock_quantity></offer>
   <offer id="868538773" available="true">
     <url>https://polineo.in.ua/ua/p868538773-vizok-mini-magic.html</url>
-    <price>15354.93</price>
+    <price>16404.11</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1536015453_vizok-mini-magic.jpg</picture>
@@ -49829,7 +49829,7 @@ pH - 9
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>02.20.CH</article><stock_quantity>50</stock_quantity></offer>
   <offer id="908070672" available="true">
     <url>https://polineo.in.ua/ua/p908070672-gachok-podibnu-rukoyatku.html</url>
-    <price>259.79</price>
+    <price>276.10</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1629176144_gachok-na-u-podibnu.jpg</picture>
@@ -180161,7 +180161,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0R003215</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2862861711" available="true">
     <url>https://polineo.in.ua/ua/p2862861711-vizok-mini-magic.html</url>
-    <price>29537.68</price>
+    <price>31558.23</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/6991353880_vizok-mini-magic.jpg</picture>
@@ -180185,7 +180185,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>MM160B7T0000</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2862862564" available="true">
     <url>https://polineo.in.ua/ua/p2862862564-vizok-magic-line.html</url>
-    <price>20839.28</price>
+    <price>22254.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/6991355500_vizok-magic-line.jpg</picture>
@@ -180352,9 +180352,9 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
     <vendorCode>T59070412</vendorCode>
     <description>Велика сіра пропіленова база для візків Magic Hotel з 4-ма гумовими колесами діаметром 125мм для використання поза приміщеннями. Розмір - 91*52см.</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>T59070412</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2862932918" available="true">
+  <offer id="2862932918" available="false">
     <url>https://polineo.in.ua/ua/p2862932918-vizok-gotelnij-magicart.html</url>
-    <price>88835.18</price>
+    <price>94222.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/6991397891_vizok-gotelnij-magicart.jpg</picture>
@@ -180365,7 +180365,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
     <description>Візок готельний MagicArt ANTHEA 210R-02 можна придбати за попереднім замовленням. Пропонується для обслуговування 8/10 готельних номерів. Графічний малюнок- ANTHEA. Всі дверцята замикаються на ключі. Мешок в комплект не входить
 
  </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>M210R02N01000</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>M210R02N01000</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2862936701" available="true">
     <url>https://polineo.in.ua/ua/p2862936701-koleso-galmom-dlya.html</url>
     <price>4121.42</price>
@@ -201498,7 +201498,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>03395E</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3108935410" available="true">
     <url>https://polineo.in.ua/ua/p3108935410-trimach-rukoyatki.html</url>
-    <price>519.57</price>
+    <price>188.25</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/7523087970_trimach-rukoyatki.jpg</picture>
@@ -201550,7 +201550,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S070220</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3108940208" available="true">
     <url>https://polineo.in.ua/ua/p3108940208-trimach-lotka-dlya.html</url>
-    <price>474.39</price>
+    <price>505.77</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341949</categoryId>
     <picture>https://images.prom.ua/7523106006_trimach-lotka-dlya.jpg</picture>
@@ -201562,7 +201562,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S070150</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3108941202" available="true">
     <url>https://polineo.in.ua/ua/p3108941202-trimach-lotka-dlya.html</url>
-    <price>313.75</price>
+    <price>333.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341949</categoryId>
     <picture>https://images.prom.ua/7523110927_trimach-lotka-dlya.jpg</picture>
@@ -201603,7 +201603,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>03315E</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3109022733" available="true">
     <url>https://polineo.in.ua/ua/p3109022733-bichnij-lotok-dlya.html</url>
-    <price>1405.60</price>
+    <price>1497.22</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341949</categoryId>
     <picture>https://images.prom.ua/7523269768_bichnij-lotok-dlya.jpg</picture>
@@ -201683,7 +201683,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S070340</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3109042334" available="true">
     <url>https://polineo.in.ua/ua/p3109042334-tsentralnij-lotok-dlya.html</url>
-    <price>1975.37</price>
+    <price>2105.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341949</categoryId>
     <picture>https://images.prom.ua/7523300676_tsentralnij-lotok-dlya.jpg</picture>
@@ -201838,7 +201838,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>T096312</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3109102542" available="true">
     <url>https://polineo.in.ua/ua/p3109102542-trimach-lotka-dlya.html</url>
-    <price>3118.68</price>
+    <price>3215.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/7523419629_trimach-lotka-dlya.jpg</picture>
