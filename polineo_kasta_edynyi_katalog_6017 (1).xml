@@ -965,7 +965,7 @@
   <param name="Колір">Червоний</param><param name="Розмір">-</param><article>2011</article><stock_quantity>0</stock_quantity></offer>
   <offer id="528322943" available="false">
     <url>https://polineo.in.ua/ua/p528322943-otzhim-tes.html</url>
-    <price>6061.65</price>
+    <price>6254.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/776907499_otzhim-tes.jpg</picture>
@@ -1049,7 +1049,7 @@
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>6072</article><stock_quantity>0</stock_quantity></offer>
   <offer id="528352074" available="false">
     <url>https://polineo.in.ua/ua/p528352074-vizok-dlya-pribirannya.html</url>
-    <price>13309.28</price>
+    <price>13734.72</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/776933862_vizok-dlya-pribirannya.jpg</picture>
@@ -2612,7 +2612,7 @@
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S-7991</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720061" available="true">
     <url>https://polineo.in.ua/ua/p533720061-nabir-dlya-pribirannya.html</url>
-    <price>3983.37</price>
+    <price>4255.71</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788565368_nabir-dlya-pribirannya.jpg</picture>
@@ -4751,7 +4751,7 @@ Airwick апарат +
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Airwick</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720757" available="true">
     <url>https://polineo.in.ua/ua/p533720757-vidro-navisne.html</url>
-    <price>908.62</price>
+    <price>971.37</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/788569734_vidro-navisne-3l.jpg</picture>
@@ -4903,7 +4903,7 @@ CE, UL, СВ, RoHS.</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>JVD DR 40</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720764" available="true">
     <url>https://polineo.in.ua/ua/p533720764-sovok-dlya-smittya.html</url>
-    <price>1891.29</price>
+    <price>1955.29</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788569817_sovok-dlya-smittya.jpg</picture>
@@ -6429,9 +6429,9 @@ pH - 10,5 ± 1
     <param name="Об`єм" unit="">1500</param>
     <param name="Тип встановлення" unit="">Настенный</param>
   <param name="Розмір">-</param><article>DJ0040B</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720857" available="false">
+  <offer id="533720857" available="true">
     <url>https://polineo.in.ua/ua/p533720857-mitla-dlya-pidmitannya.html</url>
-    <price>621.23</price>
+    <price>663.90</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788571789_mitla-dlya-pidmitannya.jpg</picture>
@@ -6451,7 +6451,7 @@ pH - 10,5 ± 1
     <param name="Тип">Мітла</param>
     <param name="Призначення">Універсальне</param>
     <param name="Колір">Чорний</param>
-  <param name="Розмір">-</param><article>5562</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Розмір">-</param><article>5562</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720858" available="true">
     <url>https://polineo.in.ua/ua/p533720858-schitka-dlya-unitazu.html</url>
     <price>1329.05</price>
@@ -6504,7 +6504,7 @@ pH - 10,5 ± 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>G3502</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720866" available="false">
     <url>https://polineo.in.ua/ua/p533720866-sovok-clip-chornij.html</url>
-    <price>1974.12</price>
+    <price>2105.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788571974_sovok-clip-chornij.jpg</picture>
@@ -11690,9 +11690,9 @@ Tовщина корпусу — 3 мм пластик
 Країна-виробник — Італія</description>
     <param name="Вага" unit="г">18</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TCH803000</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533722172" available="true">
+  <offer id="533722172" available="false">
     <url>https://polineo.in.ua/ua/p533722172-mishok-sirij-120.html</url>
-    <price>3783.83</price>
+    <price>4043.61</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/973485002_mishok-sirij-120.jpg</picture>
@@ -11714,7 +11714,7 @@ Tовщина корпусу — 3 мм пластик
 </description>
     <param name="Колір">Сірий</param>
     <param name="Колір корпусу" unit="">Белый</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3650</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3650</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722178" available="true">
     <url>https://polineo.in.ua/ua/p533722178-dlya-pozbavlennya-vid.html</url>
     <price>465.61</price>
@@ -14366,7 +14366,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>99984</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722923" available="true">
     <url>https://polineo.in.ua/ua/p533722923-kontejner-dlya-smittya.html</url>
-    <price>18056.94</price>
+    <price>18998.19</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/788588037_kontejner-dlya-smittya.jpg</picture>
@@ -16479,7 +16479,7 @@ pH - 8,0 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3688</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723163" available="true">
     <url>https://polineo.in.ua/ua/p533723163-mishok-120.html</url>
-    <price>3861.64</price>
+    <price>4122.68</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/973492799_mishok-120-l.jpg</picture>
@@ -18878,7 +18878,7 @@ pH - 11,1 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3225</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723589" available="true">
     <url>https://polineo.in.ua/ua/p533723589-sovok-ruchkoyu.html</url>
-    <price>484.43</price>
+    <price>518.32</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/2969146430_sovok-iz-ruchkoyu.jpg</picture>
@@ -19397,7 +19397,7 @@ pH - 11,1 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>AC0967C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723628" available="true">
     <url>https://polineo.in.ua/ua/p533723628-kontejner-dlya-smittya.html</url>
-    <price>18031.84</price>
+    <price>18998.19</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/2930137817_kontejner-dlya-smittya.jpg</picture>
@@ -20138,7 +20138,7 @@ pH - 2,8 ± 1
   <param name="Колір">Комбінований</param><article>500112</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723801" available="true">
     <url>https://polineo.in.ua/ua/p533723801-mitla-susy-derevyanoyu.html</url>
-    <price>1408.11</price>
+    <price>1506.00</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/2969108566_mitla-susy-z.jpg</picture>
@@ -23057,7 +23057,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FTDP72226</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724091" available="true">
     <url>https://polineo.in.ua/ua/p533724091-osnova-trilogy-blokuvannyam.html</url>
-    <price>3826.50</price>
+    <price>4087.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/788601558_osnova-trilogy-z.jpg</picture>
@@ -24503,7 +24503,7 @@ pH - 9,9 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>0135</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724245" available="false">
     <url>https://polineo.in.ua/ua/p533724245-gumova-nasadka-dlya.html</url>
-    <price>355.17</price>
+    <price>379.01</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/781231551_gumova-nasadka-dlya.jpg</picture>
@@ -30306,7 +30306,7 @@ Tовщина корпусу — 1,5 мм
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>KT1134</article><stock_quantity>50</stock_quantity></offer>
   <offer id="676111017" available="true">
     <url>https://polineo.in.ua/ua/p676111017-urna-dlya-smittya.html</url>
-    <price>1197.27</price>
+    <price>1488.43</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/1107235019_urna-dlya-smittya.jpg</picture>
@@ -36859,7 +36859,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Синій</param><param name="Розмір">-</param><article>3648U</article><stock_quantity>0</stock_quantity></offer>
   <offer id="754153136" available="true">
     <url>https://polineo.in.ua/ua/p754153136-shtorka-perednya-dlya.html</url>
-    <price>14192.80</price>
+    <price>15161.66</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273294214_shtorka-perednya-dlya.jpg</picture>
@@ -36877,7 +36877,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>3653</article><stock_quantity>50</stock_quantity></offer>
   <offer id="754165480" available="true">
     <url>https://polineo.in.ua/ua/p754165480-shtorka-perednya-dlya.html</url>
-    <price>14192.80</price>
+    <price>15161.66</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273294214_shtorka-perednya-dlya.jpg</picture>
@@ -36895,7 +36895,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>3654</article><stock_quantity>50</stock_quantity></offer>
   <offer id="754167248" available="true">
     <url>https://polineo.in.ua/ua/p754167248-shtorka-dlya-vizkiv.html</url>
-    <price>16539.65</price>
+    <price>17672.91</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273310674_shtorka-dlya-vizkiv.jpg</picture>
@@ -36936,7 +36936,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>3657</article><stock_quantity>0</stock_quantity></offer>
   <offer id="754170080" available="true">
     <url>https://polineo.in.ua/ua/p754170080-mishok-bliskavkoyu-70l.html</url>
-    <price>3393.52</price>
+    <price>3629.46</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273315009_mishok-z-bliskavkoyu.jpg</picture>
@@ -36969,7 +36969,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>3663</article><stock_quantity>50</stock_quantity></offer>
   <offer id="754180985" available="true">
     <url>https://polineo.in.ua/ua/p754180985-mishok-200l.html</url>
-    <price>6927.60</price>
+    <price>7400.74</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273316823_mishok-200l.jpg</picture>
@@ -36986,7 +36986,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3664</article><stock_quantity>50</stock_quantity></offer>
   <offer id="754182453" available="true">
     <url>https://polineo.in.ua/ua/p754182453-trimach-rushnikiv-kishenyami.html</url>
-    <price>20972.31</price>
+    <price>22404.26</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273329118_trimach-rushnikiv-z.jpg</picture>
@@ -37008,7 +37008,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Белый</param><param name="Розмір">-</param><article>3669</article><stock_quantity>50</stock_quantity></offer>
   <offer id="754185096" available="true">
     <url>https://polineo.in.ua/ua/p754185096-panel-bichna-dlya.html</url>
-    <price>6468.27</price>
+    <price>6907.52</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273330864_panel-bichna-dlya.jpg</picture>
@@ -37031,7 +37031,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3670</article><stock_quantity>50</stock_quantity></offer>
   <offer id="754189902" available="true">
     <url>https://polineo.in.ua/ua/p754189902-panel-bichna-kishenyami.html</url>
-    <price>9550.55</price>
+    <price>10201.90</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273333714_panel-bichna-z.jpg</picture>
@@ -37077,7 +37077,7 @@ CHH20
   <param name="Розмір">-</param><article>3674</article><stock_quantity>0</stock_quantity></offer>
   <offer id="754269850" available="true">
     <url>https://polineo.in.ua/ua/p754269850-yaschik-derevyanij-zamkom.html</url>
-    <price>14295.71</price>
+    <price>15277.12</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273400295_yaschik-derevyanij-iz.jpg</picture>
@@ -37099,7 +37099,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>3675</article><stock_quantity>50</stock_quantity></offer>
   <offer id="754276320" available="true">
     <url>https://polineo.in.ua/ua/p754276320-lotok-dodatkovij-dlya.html</url>
-    <price>10511.88</price>
+    <price>11233.51</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273411993_lotok-dodatkovij-dlya.jpg</picture>
@@ -37150,7 +37150,7 @@ CHH20
   <param name="Колір">Білий</param><param name="Розмір">-</param><article>3677U</article><stock_quantity>0</stock_quantity></offer>
   <offer id="754286800" available="true">
     <url>https://polineo.in.ua/ua/p754286800-lotok-dodatkovij-dlya.html</url>
-    <price>9204.17</price>
+    <price>9831.67</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273411993_lotok-dodatkovij-dlya.jpg</picture>
@@ -37219,7 +37219,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>3679U</article><stock_quantity>0</stock_quantity></offer>
   <offer id="754308853" available="true">
     <url>https://polineo.in.ua/ua/p754308853-mishok-bliskavkoyu-70l.html</url>
-    <price>3455.02</price>
+    <price>3690.96</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273471343_mishok-z-bliskavkoyu.jpg</picture>
@@ -37236,7 +37236,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3680</article><stock_quantity>50</stock_quantity></offer>
   <offer id="754311885" available="true">
     <url>https://polineo.in.ua/ua/p754311885-3681-mishok-bliskavkoyu.html</url>
-    <price>4732.61</price>
+    <price>3690.96</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273479172_3681-mishok-z.jpg</picture>
@@ -37264,7 +37264,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Белый</param><param name="Розмір">-</param><article>3681</article><stock_quantity>50</stock_quantity></offer>
   <offer id="754325436" available="true">
     <url>https://polineo.in.ua/ua/p754325436-zyednuvach-plastmasovij.html</url>
-    <price>449.29</price>
+    <price>463.10</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/1273507250_zyednuvach-plastmasovij.jpg</picture>
@@ -37321,7 +37321,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3724</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755339070" available="true">
     <url>https://polineo.in.ua/ua/p755339070-znak-stop.html</url>
-    <price>3670.88</price>
+    <price>3920.62</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/1276188288_znak-stop.jpg</picture>
@@ -49846,7 +49846,7 @@ pH - 9
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S070050</article><stock_quantity>50</stock_quantity></offer>
   <offer id="908776611" available="true">
     <url>https://polineo.in.ua/ua/p908776611-3629-mishok-bliskavkoyu.html</url>
-    <price>4138.99</price>
+    <price>4422.62</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341956</categoryId>
     <picture>https://images.prom.ua/788594976_3629-mishok-z.jpg</picture>
@@ -63248,7 +63248,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Розмір">-</param><article>5204</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1295618272" available="true">
     <url>https://polineo.in.ua/ua/p1295618272-urna-dlya-smittya.html</url>
-    <price>1393.05</price>
+    <price>1488.43</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/2732829359_urna-dlya-smittya.jpg</picture>
@@ -70178,7 +70178,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>8102</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1363198191" available="true">
     <url>https://polineo.in.ua/ua/p1363198191-trimach-skrebka-metalevij.html</url>
-    <price>626.25</price>
+    <price>699.04</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342001</categoryId>
     <picture>https://images.prom.ua/2951450340_trimach-skrebka-metalevij.jpg</picture>
@@ -70199,7 +70199,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8191</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1363217966" available="true">
     <url>https://polineo.in.ua/ua/p1363217966-trimach-plastikovij-shubkoyu.html</url>
-    <price>1194.76</price>
+    <price>1275.08</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342001</categoryId>
     <picture>https://images.prom.ua/2951548622_trimach-plastikovij-z.jpg</picture>
@@ -71152,7 +71152,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Розмір">145см</param><article>1081B</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1365314980" available="true">
     <url>https://polineo.in.ua/ua/p1365314980-poyas-belty.html</url>
-    <price>3887.99</price>
+    <price>4149.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>36486133</categoryId>
     <picture>https://images.prom.ua/2958805498_poyas-belty.jpg</picture>
@@ -71171,7 +71171,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3691</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1365318162" available="true">
     <url>https://polineo.in.ua/ua/p1365318162-sumka-dlya-plyashok.html</url>
-    <price>1947.76</price>
+    <price>2079.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>36486133</categoryId>
     <picture>https://images.prom.ua/2958826089_sumka-dlya-plyashok.jpg</picture>
@@ -71190,7 +71190,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3695</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1365320226" available="true">
     <url>https://polineo.in.ua/ua/p1365320226-sumka-dlya-chistih.html</url>
-    <price>2640.52</price>
+    <price>2818.73</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/2958839629_sumka-dlya-chistih.jpg</picture>
@@ -71229,7 +71229,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3697</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1365328218" available="false">
     <url>https://polineo.in.ua/ua/p1365328218-komplekt-uni-junior.html</url>
-    <price>3835.28</price>
+    <price>4096.32</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/2958878818_komplekt-uni-junior.jpg</picture>
@@ -71408,7 +71408,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0870EY</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1365906830" available="true">
     <url>https://polineo.in.ua/ua/p1365906830-odnorazovi-servetki-dlya.html</url>
-    <price>997.73</price>
+    <price>1071.77</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341979</categoryId>
     <picture>https://images.prom.ua/2960764968_odnorazovi-servetki-dlya.jpg</picture>
@@ -76882,7 +76882,7 @@ Lampo - це система швидкого з'єднання-роз'єднан
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8880</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1422300442" available="false">
     <url>https://polineo.in.ua/ua/p1422300442-schitka-dlya-znyattya.html</url>
-    <price>692.76</price>
+    <price>740.45</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341964</categoryId>
     <picture>https://images.prom.ua/3143121430_schitka-dlya-znyattya.jpg</picture>
@@ -77058,7 +77058,7 @@ Lampo - це система швидкого з'єднання-роз'єднан
   <param name="Розмір">-</param><article>5534</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1422367072" available="true">
     <url>https://polineo.in.ua/ua/p1422367072-schitka-pbt-flat.html</url>
-    <price>1654.09</price>
+    <price>1770.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/3143332011_schitka-pbt-flat.jpg</picture>
@@ -77464,7 +77464,7 @@ Lampo - це система швидкого з'єднання-роз'єднан
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0G006415</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1422918730" available="true">
     <url>https://polineo.in.ua/ua/p1422918730-schitka-dlya-znyattya.html</url>
-    <price>721.63</price>
+    <price>740.45</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341964</categoryId>
     <picture>https://images.prom.ua/3145048395_schitka-dlya-znyattya.jpg</picture>
@@ -77905,7 +77905,7 @@ pH 4
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>100012-001-054</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1427113611" available="false">
     <url>https://polineo.in.ua/ua/p1427113611-plastikovij-sovok-alyuminiyevoyu.html</url>
-    <price>1826.03</price>
+    <price>1952.78</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/3158699823_plastikovij-sovok-z.jpg</picture>
@@ -145277,7 +145277,7 @@ steel-to-rubber/ є
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>00005892WR</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1857642492" available="true">
     <url>https://polineo.in.ua/ua/p1857642492-urna-dlya-smittya.html</url>
-    <price>3047.14</price>
+    <price>3259.24</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/4559309448_urna-dlya-smittya.jpg</picture>
@@ -145318,7 +145318,7 @@ steel-to-rubber/ є
   <param name="Розмір">-</param><article>00005880G_N</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1857657311" available="true">
     <url>https://polineo.in.ua/ua/p1857657311-urna-dlya-smittya.html</url>
-    <price>3047.14</price>
+    <price>3259.24</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341992</categoryId>
     <picture>https://images.prom.ua/4559319977_urna-dlya-smittya.jpg</picture>
@@ -199587,7 +199587,7 @@ VITON - фторвуглецевий каучук / фторований
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>А 5043</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3098105510" available="true">
     <url>https://polineo.in.ua/ua/p3098105510-vidro-fox-vidzhimom.html</url>
-    <price>1834.81</price>
+    <price>1964.08</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/7500047750_vidro-fox-z.jpg</picture>
