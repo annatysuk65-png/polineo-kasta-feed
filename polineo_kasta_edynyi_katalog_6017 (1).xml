@@ -133774,7 +133774,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <param name="Тип витратного матеріалу">Рідина</param>
     <param name="Упаковка">Пластикова банка</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Campi Inblue</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1658434222" available="true">
+  <offer id="1658434222" available="false">
     <url>https://polineo.in.ua/ua/p1658434222-emkist-100-vertikalna.html</url>
     <price>3407.33</price>
     <currencyId>UAH</currencyId>
@@ -133840,7 +133840,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <param name="Ширина" unit="мм">400</param>
     <param name="Матеріал ємності" unit="">Пластик</param>
     <param name="Об`єм" unit="">100</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>12428</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>12428</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1658434223" available="true">
     <url>https://polineo.in.ua/ua/p1658434223-yemkist-200-vertikalna.html</url>
     <price>4699.98</price>
