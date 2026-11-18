@@ -6233,7 +6233,7 @@ pH - 10,5 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>E601C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720839" available="true">
     <url>https://polineo.in.ua/ua/p533720839-vidzhim-dlya-vidra.html</url>
-    <price>834.58</price>
+    <price>892.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788571497_vidzhim-dlya-vidra.jpg</picture>
@@ -9122,7 +9122,7 @@ pH - 9,0 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>662VE</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533721643" available="true">
     <url>https://polineo.in.ua/ua/p533721643-krishka-dlya-vider.html</url>
-    <price>455.57</price>
+    <price>486.94</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788578126_krishka-dlya-vider.jpg</picture>
@@ -9345,7 +9345,7 @@ pH - 9,0 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TD-8314C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533721661" available="true">
     <url>https://polineo.in.ua/ua/p533721661-krishka-dlya-vider.html</url>
-    <price>749.24</price>
+    <price>799.44</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788578423_krishka-dlya-vider.jpg</picture>
@@ -11883,9 +11883,9 @@ Tовщина корпусу — 3 мм пластик
     <param name="Цвет / Покрытие" unit="">Хром</param>
     <param name="Ширина" unit="">126</param>
   <param name="Розмір">-</param><article>563S</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533722189" available="false">
+  <offer id="533722189" available="true">
     <url>https://polineo.in.ua/ua/p533722189-fiksator-dlya-dverej.html</url>
-    <price>470.63</price>
+    <price>529.61</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788583951_fiksator-dlya-dverej.jpg</picture>
@@ -11910,7 +11910,7 @@ Tовщина корпусу — 3 мм пластик
 Вага — 0,055 кг
 Країна-виробник — Італія</description>
     <param name="Стан">Новий</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1065V</article><stock_quantity>0</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1065V</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722191" available="false">
     <url>https://polineo.in.ua/ua/p533722191-vidro-ruchkoyu.html</url>
     <price>209.59</price>
@@ -13138,7 +13138,7 @@ pH - 8,4 ± 1
   <param name="Розмір">-</param><article>P098</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722346" available="false">
     <url>https://polineo.in.ua/ua/p533722346-mop-motuzkovij-rizblennyam.html</url>
-    <price>376.50</price>
+    <price>402.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/2958747052_mop-motuzkovij-z.jpg</picture>
@@ -18586,7 +18586,7 @@ pH - 11,1 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">300 мм</param><article>MB-0230-S</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723567" available="false">
     <url>https://polineo.in.ua/ua/p533723567-vidro-plastikove-sinye.html</url>
-    <price>741.71</price>
+    <price>764.30</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788594221_vidro-plastikove-sinye.jpg</picture>
@@ -22323,7 +22323,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>R3502</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724036" available="false">
     <url>https://polineo.in.ua/ua/p533724036-ruchka-alyuminiyeva-140.html</url>
-    <price>780.61</price>
+    <price>808.22</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/2958575637_ruchka-alyuminiyeva-140.jpg</picture>
@@ -23680,9 +23680,9 @@ pH - 9,8 ± 1
     <param name="Состав" unit="">&lt; 5%: н-ПАВ, а-ПАВ, комплексообразователи; 5-15%: органические растворители, регулятор кислотности. Дополнительные компоненты: стабилизаторы, консерванты, красители. Не содержит соединений фосфора.</param>
     <param name="Уровень pH" unit="">9,8±1</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.D.1002</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533724159" available="true">
+  <offer id="533724159" available="false">
     <url>https://polineo.in.ua/ua/p533724159-zazhim-dlya-mopiv.html</url>
-    <price>345.13</price>
+    <price>368.97</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/2958780742_zazhim-dlya-mopiv.jpg</picture>
@@ -23700,7 +23700,7 @@ pH - 9,8 ± 1
     <param name="Колір">Синій</param>
     <param name="Артикул" unit="">1905</param>
     <param name="Материал корпуса" unit="">Пластик</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>1905</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>1905</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724164" available="true">
     <url>https://polineo.in.ua/ua/p533724164-universalne-obezzhiryuyucha-zasib.html</url>
     <price>272.34</price>
@@ -24911,7 +24911,7 @@ pH - 9,9 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>AIRWAVE</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724271" available="true">
     <url>https://polineo.in.ua/ua/p533724271-vidzhim-dlya-vidra.html</url>
-    <price>1426.94</price>
+    <price>1523.57</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788604646_vidzhim-dlya-vidra.jpg</picture>
@@ -26098,7 +26098,7 @@ pH - 2,3 ± 1
   <param name="Розмір">40 см</param><article>NY021</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724409" available="true">
     <url>https://polineo.in.ua/ua/p533724409-zatiskach-dlya-mopiv.html</url>
-    <price>385.29</price>
+    <price>368.97</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/788606396_zatiskach-dlya-mopiv.jpg</picture>
@@ -27009,7 +27009,7 @@ pH - 12,1 ± 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>8882</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724487" available="true">
     <url>https://polineo.in.ua/ua/p533724487-mop-spesial-moppino.html</url>
-    <price>278.61</price>
+    <price>297.44</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/788607602_mop-spesial-moppino.jpg</picture>
@@ -34580,7 +34580,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1050</article><stock_quantity>0</stock_quantity></offer>
   <offer id="749031431" available="true">
     <url>https://polineo.in.ua/ua/p749031431-rukoyatka-dlya-podibnoyi.html</url>
-    <price>3207.78</price>
+    <price>3444.98</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/1260875757_rukoyatka-dlya-v-podibnoyi.jpg</picture>
@@ -34867,7 +34867,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">60см</param><article>0961</article><stock_quantity>0</stock_quantity></offer>
   <offer id="749326144" available="true">
     <url>https://polineo.in.ua/ua/p749326144-mop-spetsialnij-strichkoyu.html</url>
-    <price>405.37</price>
+    <price>432.98</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1261448312_mop-spetsialnij-zi.jpg</picture>
@@ -34898,7 +34898,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1774</article><stock_quantity>50</stock_quantity></offer>
   <offer id="749338383" available="false">
     <url>https://polineo.in.ua/ua/p749338383-sumka-dlya-prannya.html</url>
-    <price>834.58</price>
+    <price>892.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1625392720_sumka-dlya-prannya.jpg</picture>
@@ -35327,7 +35327,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">50 см</param><article>0496</article><stock_quantity>0</stock_quantity></offer>
   <offer id="749996646" available="true">
     <url>https://polineo.in.ua/ua/p749996646-sumka-dlya-prannya.html</url>
-    <price>1014.04</price>
+    <price>1083.07</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1625392720_sumka-dlya-prannya.jpg</picture>
@@ -35373,7 +35373,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1868</article><stock_quantity>50</stock_quantity></offer>
   <offer id="750053936" available="true">
     <url>https://polineo.in.ua/ua/p750053936-zazhim-dlya-mopiv.html</url>
-    <price>345.13</price>
+    <price>368.97</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/1263153183_zazhim-dlya-mopiv.jpg</picture>
@@ -35394,7 +35394,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>1906</article><stock_quantity>50</stock_quantity></offer>
   <offer id="750057492" available="true">
     <url>https://polineo.in.ua/ua/p750057492-zazhim-dlya-mopiv.html</url>
-    <price>385.29</price>
+    <price>368.97</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/1263159487_zazhim-dlya-mopiv.jpg</picture>
@@ -35728,7 +35728,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>S030584</article><stock_quantity>50</stock_quantity></offer>
   <offer id="751744364" available="true">
     <url>https://polineo.in.ua/ua/p751744364-ruchka-teleskopichna-plastik.html</url>
-    <price>832.07</price>
+    <price>991.45</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/2951326599_ruchka-teleskopichna-plastik.jpg</picture>
@@ -35984,7 +35984,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>0V006415</article><stock_quantity>0</stock_quantity></offer>
   <offer id="752391360" available="true">
     <url>https://polineo.in.ua/ua/p752391360-krishka-dlya-vider.html</url>
-    <price>1445.76</price>
+    <price>1542.40</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/1268841179_krishka-dlya-vider.jpg</picture>
@@ -36003,7 +36003,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3214</article><stock_quantity>50</stock_quantity></offer>
   <offer id="752394367" available="false">
     <url>https://polineo.in.ua/ua/p752394367-krishka-dlya-vidra.html</url>
-    <price>970.12</price>
+    <price>1204.80</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/1268844716_krishka-dlya-vidra.jpg</picture>
@@ -36239,7 +36239,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Зелений</param><param name="Розмір">-</param><article>66072</article><stock_quantity>0</stock_quantity></offer>
   <offer id="753570027" available="true">
     <url>https://polineo.in.ua/ua/p753570027-ruchka-plastmasova-vizka.html</url>
-    <price>1273.83</price>
+    <price>1361.68</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1271860511_ruchka-plastmasova-do.jpg</picture>
@@ -36260,7 +36260,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3300</article><stock_quantity>50</stock_quantity></offer>
   <offer id="753570503" available="true">
     <url>https://polineo.in.ua/ua/p753570503-ruchka-plastmasova-vizka.html</url>
-    <price>1273.83</price>
+    <price>1361.68</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1271865170_ruchka-plastmasova-do.jpg</picture>
@@ -36347,7 +36347,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3320</article><stock_quantity>0</stock_quantity></offer>
   <offer id="753583552" available="true">
     <url>https://polineo.in.ua/ua/p753583552-trimach-ruchki-diametr.html</url>
-    <price>151.86</price>
+    <price>161.90</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1271884748_trimach-ruchki-diametr.jpg</picture>
@@ -36369,7 +36369,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">22 мм</param><article>3325</article><stock_quantity>50</stock_quantity></offer>
   <offer id="753587439" available="true">
     <url>https://polineo.in.ua/ua/p753587439-trimach-ruchki-diametr.html</url>
-    <price>165.66</price>
+    <price>178.21</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1271884748_trimach-ruchki-diametr.jpg</picture>
@@ -71113,7 +71113,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <vendor>No Brand</vendor><param name="Розмір">184 см</param><article>1044</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1365260485" available="true">
     <url>https://polineo.in.ua/ua/p1365260485-rukoyatka-alyuminiyeva-teleskopichna.html</url>
-    <price>2562.71</price>
+    <price>2739.67</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/2958620434_rukoyatka-alyuminiyeva-teleskopichna.jpg</picture>
@@ -71733,7 +71733,7 @@ pH - 9,5
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3319V</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1367755603" available="true">
     <url>https://polineo.in.ua/ua/p1367755603-gachok-vizka-nickita.html</url>
-    <price>202.06</price>
+    <price>215.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/2966744337_gachok-do-vizka.jpg</picture>
@@ -180021,7 +180021,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>00003665</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2862853455" available="true">
     <url>https://polineo.in.ua/ua/p2862853455-vidro-vidzhimom-eroy.html</url>
-    <price>7189.90</price>
+    <price>8933.09</price>
     <currencyId>UAH</currencyId>
     <categoryId>108513434</categoryId>
     <picture>https://images.prom.ua/6991321834_vidro-z-vidzhimom.jpg</picture>
@@ -199756,7 +199756,7 @@ VITON - фторвуглецевий каучук / фторований
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">50см</param><article>1084</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3098114779" available="true">
     <url>https://polineo.in.ua/ua/p3098114779-trimach-inventaryu-50sm.html</url>
-    <price>2589.07</price>
+    <price>2766.02</price>
     <currencyId>UAH</currencyId>
     <categoryId>103725104</categoryId>
     <picture>https://images.prom.ua/7500124906_trimach-inventaryu-32.jpg</picture>
