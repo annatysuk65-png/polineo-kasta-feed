@@ -33871,7 +33871,7 @@ pH - 8
   <param name="Розмір">-</param><article>B-Fresh Blue</article><stock_quantity>50</stock_quantity></offer>
   <offer id="728864029" available="true">
     <url>https://polineo.in.ua/ua/p728864029-zasib-dlya-biotualetiv.html</url>
-    <price>589.85</price>
+    <price>778.10</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341996</categoryId>
     <picture>https://images.prom.ua/1218631452_zasib-dlya-biotualetiv.jpg</picture>
@@ -165514,7 +165514,7 @@ o   Країна  ТМ "Apex" — Італія
     <param name="Матеріал основи">Целюлоза</param>
     <param name="Колір">Білий</param>
   <param name="Розмір">-</param><article>P411</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2416255572" available="true">
+  <offer id="2416255572" available="false">
     <url>https://polineo.in.ua/ua/p2416255572-zapaska-dlya-shvabri.html</url>
     <price>601.15</price>
     <currencyId>UAH</currencyId>
@@ -165573,8 +165573,8 @@ o   Країна  ТМ "Apex" — Італія
 
 
 </description>
-  <param name="Колір">Комбінований</param><param name="Розмір">45х15 см</param><article>Д AH09920New/4</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2416272591" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">45х15 см</param><article>Д AH09920New/4</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="2416272591" available="false">
     <url>https://polineo.in.ua/ua/p2416272591-zapaska-dlya-shvabri.html</url>
     <price>184.49</price>
     <currencyId>UAH</currencyId>
@@ -165637,7 +165637,7 @@ o   Країна  ТМ "Apex" — Італія
 
 
 </description>
-  <param name="Колір">Чорний</param><param name="Розмір">42х15 см</param><article>Д 09920BLACK</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Чорний</param><param name="Розмір">42х15 см</param><article>Д 09920BLACK</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2416291605" available="true">
     <url>https://polineo.in.ua/ua/p2416291605-zapaska-dlya-shvabri.html</url>
     <price>420.43</price>
@@ -169921,7 +169921,7 @@ o   Країна  ТМ "Apex" — Італія
 
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>11652</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2579421787" available="true">
+  <offer id="2579421787" available="false">
     <url>https://polineo.in.ua/ua/p2579421787-zapaska-dlya-shvabri.html</url>
     <price>141.82</price>
     <currencyId>UAH</currencyId>
@@ -169980,7 +169980,7 @@ o   Країна  ТМ "Apex" — Італія
 
 
 </description>
-  <param name="Колір">Комбінований</param><param name="Розмір">45х15 см</param><article>Д 09920</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">45х15 см</param><article>Д 09920</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2591183139" available="false">
     <url>https://polineo.in.ua/ua/p2591183139-dozator-ridkogo-mila.html</url>
     <price>2061.97</price>
