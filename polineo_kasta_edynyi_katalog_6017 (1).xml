@@ -22115,7 +22115,7 @@ pH - 8,4 ± 1
     <param name="Тип">Фен</param>
     <param name="Холодний обдув">Ні</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8221070</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723961" available="true">
+  <offer id="533723961" available="false">
     <url>https://polineo.in.ua/ua/p533723961-ganchirka-dpidlogi-freken.html</url>
     <price>128.01</price>
     <currencyId>UAH</currencyId>
@@ -22134,7 +22134,7 @@ pH - 8,4 ± 1
     <param name="Тип">Ганчірка</param>
     <param name="Матеріал">Віскоза</param>
     <param name="Колір" unit="">синее, красное, желтое, зелёное</param>
-  <param name="Розмір">-</param><article>ФРЕКЕН БОК "Твіст"</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>ФРЕКЕН БОК "Твіст"</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723963" available="true">
     <url>https://polineo.in.ua/ua/p533723963-calfetki-margo-asortimenti.html</url>
     <price>53.97</price>
@@ -34515,7 +34515,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TCH101010</article><stock_quantity>0</stock_quantity></offer>
   <offer id="749025098" available="true">
     <url>https://polineo.in.ua/ua/p749025098-0v000694mv-mop-microriccio.html</url>
-    <price>942.51</price>
+    <price>1139.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1260864271_0v000694mv-mop-microriccio.jpg</picture>
@@ -39061,7 +39061,7 @@ CHH20
   <param name="Колір">Білий</param><param name="Розмір">-</param><article> MINI 900 WHITE ABS</article><stock_quantity>50</stock_quantity></offer>
   <offer id="860876565" available="false">
     <url>https://polineo.in.ua/ua/p860876565-mop-soft-striat.html</url>
-    <price>467276.66</price>
+    <price>445.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1518095366_mop-soft-striat.jpg</picture>
@@ -44313,7 +44313,7 @@ pH - 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>0862</article><stock_quantity>0</stock_quantity></offer>
   <offer id="869244003" available="false">
     <url>https://polineo.in.ua/ua/p869244003-0b000694mb-microriccio-wet.html</url>
-    <price>942.51</price>
+    <price>1139.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1537747349_0b000694mb-microriccio-wet.jpg</picture>
@@ -44335,7 +44335,7 @@ pH - 1
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>0B000694MB</article><stock_quantity>0</stock_quantity></offer>
   <offer id="869247344" available="true">
     <url>https://polineo.in.ua/ua/p869247344-0g000694mg-microriccio-wet.html</url>
-    <price>942.51</price>
+    <price>1139.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1537749890_0g000694mg-microriccio-wet.jpg</picture>
@@ -44357,7 +44357,7 @@ pH - 1
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>0G000694MG</article><stock_quantity>50</stock_quantity></offer>
   <offer id="869248688" available="true">
     <url>https://polineo.in.ua/ua/p869248688-0r000694mr-microriccio-wet.html</url>
-    <price>942.51</price>
+    <price>1139.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/1537752474_0r000694mr-microriccio-wet.jpg</picture>
@@ -70442,7 +70442,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>A510V</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1365093162" available="false">
     <url>https://polineo.in.ua/ua/p1365093162-mop-soft-striat.html</url>
-    <price>486.94</price>
+    <price>488.20</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/2958163772_mop-soft-striat.jpg</picture>
@@ -70467,7 +70467,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Розмір">40см</param><article>0000E410B</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1365097409" available="true">
     <url>https://polineo.in.ua/ua/p1365097409-mop-ultrasafe-uni.html</url>
-    <price>1108.42</price>
+    <price>1185.98</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/2958172511_mop-ultrasafe-uni.jpg</picture>
@@ -77924,7 +77924,7 @@ pH 4
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5611</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1427127598" available="false">
     <url>https://polineo.in.ua/ua/p1427127598-mop-ultrasafe-wet.html</url>
-    <price>1189.74</price>
+    <price>1150.84</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/3158729382_mop-40-sm.jpg</picture>
@@ -81185,7 +81185,7 @@ pH - 4
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>UA9917</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1553350518" available="false">
     <url>https://polineo.in.ua/ua/p1553350518-mop-zapaska-dlya.html</url>
-    <price>533.38</price>
+    <price>445.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/3573347318_mop-zapaska-dlya.jpg</picture>
@@ -81208,7 +81208,7 @@ pH - 4
   <vendor>No Brand</vendor><param name="Розмір">60 см</param><article>UA9918</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1553353114" available="false">
     <url>https://polineo.in.ua/ua/p1553353114-mop-zapaska-dlya.html</url>
-    <price>555.97</price>
+    <price>520.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/3573347318_mop-zapaska-dlya.jpg</picture>
@@ -81231,7 +81231,7 @@ pH - 4
   <vendor>No Brand</vendor><param name="Розмір">80 см</param><article>UA9919</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1553356647" available="false">
     <url>https://polineo.in.ua/ua/p1553356647-mop-zapaska-dlya.html</url>
-    <price>712.84</price>
+    <price>618.72</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/3573347318_mop-zapaska-dlya.jpg</picture>
@@ -81254,7 +81254,7 @@ pH - 4
   <vendor>No Brand</vendor><param name="Розмір">100 см</param><article>UA9920</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1553363988" available="true">
     <url>https://polineo.in.ua/ua/p1553363988-mop-trio-wet.html</url>
-    <price>429.21</price>
+    <price>372.74</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/3573555117_mop-40-sm.jpg</picture>
@@ -81269,7 +81269,7 @@ pH - 4
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>UA9905</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1553938038" available="false">
     <url>https://polineo.in.ua/ua/p1553938038-mop-wet-system.html</url>
-    <price>382.78</price>
+    <price>331.32</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/3575645403_mop-40-sm.jpg</picture>
@@ -152415,7 +152415,7 @@ CHH-7704. Портативний (автономний) мобільний ст�
   <param name="Розмір">90х125 см</param><article>162020300</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2006330481" available="false">
     <url>https://polineo.in.ua/ua/p2006330481-mop-wet-system.html</url>
-    <price>313.75</price>
+    <price>315.01</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/5058106545_mop-40-sm.jpg</picture>
@@ -157524,7 +157524,7 @@ Urinex не можна використовувати для чищення кр
   <param name="Розмір">140 см</param><article>1023Y</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2276638093" available="false">
     <url>https://polineo.in.ua/ua/p2276638093-mop-40sm-soft.html</url>
-    <price>640.05</price>
+    <price>641.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/6057238071_mop-40sm-soft.jpg</picture>
@@ -158397,7 +158397,7 @@ Urinex не можна використовувати для чищення кр
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>1019RM</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2361699270" available="true">
     <url>https://polineo.in.ua/ua/p2361699270-osnova-dlya-suhogo.html</url>
-    <price>823.28</price>
+    <price>879.76</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/6286275309_osnova-dlya-suhogo.jpg</picture>
@@ -178653,7 +178653,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>РСР516/А</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2857307692" available="false">
     <url>https://polineo.in.ua/ua/p2857307692-mop-40sm-wet.html</url>
-    <price>350.15</price>
+    <price>351.40</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/6982308566_mop-40sm-wet.jpg</picture>
@@ -179328,7 +179328,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>00001143E</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2862202966" available="true">
     <url>https://polineo.in.ua/ua/p2862202966-mop-zapaska-60sm.html</url>
-    <price>429.21</price>
+    <price>430.47</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/6990299734_mop-zapaska-60sm.jpg</picture>
@@ -179431,7 +179431,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">50см</param><article>000C120W</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2862329654" available="true">
     <url>https://polineo.in.ua/ua/p2862329654-mop-zapaska-40sm.html</url>
-    <price>397.84</price>
+    <price>399.09</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342015</categoryId>
     <picture>https://images.prom.ua/6990299734_mop-zapaska-40sm.jpg</picture>
