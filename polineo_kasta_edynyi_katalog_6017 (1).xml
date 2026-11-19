@@ -2714,7 +2714,7 @@
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FRA-11708</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720070" available="false">
     <url>https://polineo.in.ua/ua/p533720070-vidro-dlya-perevezennya.html</url>
-    <price>2508.75</price>
+    <price>2917.88</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788565591_vidro-dlya-perevezennya.jpg</picture>
@@ -18853,9 +18853,9 @@ pH - 11,1 ± 1
     <param name="Тип дозатора" unit="">Кнопочный, наливной</param>
     <param name="Цвет / Покрытие" unit="">Глянцевый</param>
   <param name="Колір">Нержавіюча сталь</param><param name="Розмір">-</param><article>542С</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723586" available="true">
+  <offer id="533723586" available="false">
     <url>https://polineo.in.ua/ua/p533723586-vidro-budivelne-dlya.html</url>
-    <price>2508.75</price>
+    <price>2917.88</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788594507_vidro-budivelne-dlya.jpg</picture>
@@ -18875,7 +18875,7 @@ pH - 11,1 ± 1
 Країна-виробник - Італія</description>
     <param name="Стан">Новий</param>
     <param name="Форма відра">Прямокутна</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3225</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3225</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723589" available="true">
     <url>https://polineo.in.ua/ua/p533723589-sovok-ruchkoyu.html</url>
     <price>518.32</price>
@@ -25708,9 +25708,9 @@ pH - 2,3 ± 1
 </description>
     <param name="Довжина ручки" unit="см">75</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8678</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533724366" available="true">
+  <offer id="533724366" available="false">
     <url>https://polineo.in.ua/ua/p533724366-vidro-dlya-perevezennya.html</url>
-    <price>2508.75</price>
+    <price>2917.88</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788605809_vidro-dlya-perevezennya.jpg</picture>
@@ -25727,7 +25727,7 @@ pH - 2,3 ± 1
 Вага - 1,35 кг
 Країна-виробник - Італія
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3225</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3225</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724371" available="true">
     <url>https://polineo.in.ua/ua/p533724371-pilosos-dlya-suhogo.html</url>
     <price>10692.60</price>
@@ -75735,9 +75735,9 @@ EU, OC стандарти безпеки
     <param name="Матеріал">Пластик</param>
     <param name="Тип">Кришка</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>T-5</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1401082943" available="true">
+  <offer id="1401082943" available="false">
     <url>https://polineo.in.ua/ua/p1401082943-vidro-plastikove-ruchkoyu.html</url>
-    <price>125.50</price>
+    <price>181.98</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/3072401631_vidro-plastikove-z.jpg</picture>
@@ -75759,7 +75759,7 @@ EU, OC стандарти безпеки
 </description>
     <param name="Тип">Кришка</param>
     <param name="Матеріал">Пластик</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TK-5</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TK-5</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1401087277" available="true">
     <url>https://polineo.in.ua/ua/p1401087277-vidzhimnoyi-mehanizm-vidra.html</url>
     <price>56.48</price>
@@ -180091,7 +180091,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
     <vendorCode>00005043</vendorCode>
     <description>Просте поліпропіленове відро об'ємом 14 л з віджимом та ручкою. Добре використовувати зі швабрами з мотузковим мопом. Для віджимання досить провернути швабру у віджимі.</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>00005043</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2862857118" available="true">
+  <offer id="2862857118" available="false">
     <url>https://polineo.in.ua/ua/p2862857118-vidro-hermetic-dlya.html</url>
     <price>2299.16</price>
     <currencyId>UAH</currencyId>
@@ -180103,7 +180103,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
     <vendorCode>0R003255</vendorCode>
     <description>Це відро повністю виготовлене з пластику, об`ємом 8л. До комлекту входить пластикова ручка та герметична кришка. Відро призначене для одностадійного прання у мийному засобі і перенесення мопів. Поміщається до 10 мопів шириною 40 см. Всередині відра є шкала поділок у галонах та літрах.</description>
     <param name="Тип">Кришка</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0R003255</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0R003255</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2862857855" available="true">
     <url>https://polineo.in.ua/ua/p2862857855-vidro-ruchkoyu.html</url>
     <price>1054.20</price>
