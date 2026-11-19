@@ -3082,9 +3082,9 @@ pH - 10,2 ± 1
     <param name="Тип" unit="">Ведро без крышки</param>
     <param name="Установка урны" unit="">Переносная</param>
   <param name="Розмір">-</param><article>309M</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720107" available="false">
+  <offer id="533720107" available="true">
     <url>https://polineo.in.ua/ua/p533720107-paperovi-rushniki-3200.html</url>
-    <price>1645.31</price>
+    <price>1896.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/2945903432_paperovi-rushniki-3200.jpg</picture>
@@ -3114,7 +3114,7 @@ pH - 10,2 ± 1
     <param name="Матеріал основи">Целюлоза</param>
     <param name="Тип складання">V (Z-Z)-укладання</param>
     <param name="Колір">Білий</param>
-  <param name="Розмір">-</param><article>P123</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Розмір">-</param><article>P123</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720108" available="true">
     <url>https://polineo.in.ua/ua/p533720108-trimach-gigenicheskih-paketiv.html</url>
     <price>923.68</price>
