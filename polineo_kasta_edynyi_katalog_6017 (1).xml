@@ -5084,9 +5084,9 @@ CE, UL, СВ, RoHS.</description>
     <param name="Длина, см" unit="">35</param>
     <param name="Матеріал" unit="">Пластик АВС</param>
   <param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>CPA246</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720780" available="true">
+  <offer id="533720780" available="false">
     <url>https://polineo.in.ua/ua/p533720780-rushniki-paperovi-zeleni.html</url>
-    <price>1303.95</price>
+    <price>1393.05</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/788570211_rushniki-paperovi-zeleni.jpg</picture>
@@ -5127,7 +5127,7 @@ CE, UL, СВ, RoHS.</description>
     <param name="Размер,см" unit="">22,5x22,5</param>
     <param name="Количество листов" unit="">200</param>
     <param name="Матеріал" unit="">Макулатура</param>
-  <param name="Розмір">-</param><article>P102</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>P102</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720781" available="true">
     <url>https://polineo.in.ua/ua/p533720781-osnova-dlya-mopa.html</url>
     <price>2004.24</price>
@@ -7132,9 +7132,9 @@ pH - 6,8 ± 1
 Країна-виробник - Італія</description>
     <param name="Особливість засобу">Органічне</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>TCH102020</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720930" available="true">
+  <offer id="533720930" available="false">
     <url>https://polineo.in.ua/ua/p533720930-rushniki-paperovi-siri.html</url>
-    <price>1415.64</price>
+    <price>1393.05</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/2945291871_rushniki-paperovi-siri.jpg</picture>
@@ -7171,7 +7171,7 @@ pH - 6,8 ± 1
     <param name="Размер,см" unit="">22,5x22,5</param>
     <param name="Количество листов" unit="">200</param>
     <param name="Матеріал" unit="">Макулатура</param>
-  <param name="Розмір">-</param><article>P101</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>P101</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720932" available="false">
     <url>https://polineo.in.ua/ua/p533720932-schitka-dlya-pidlogi.html</url>
     <price>2230.14</price>
@@ -8832,7 +8832,7 @@ pH - 9,0 ± 1
   <param name="Розмір">-</param><article>16-00біл.</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533721626" available="false">
     <url>https://polineo.in.ua/ua/p533721626-rushniki-paperovi-pach160.html</url>
-    <price>1735.67</price>
+    <price>1867.44</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/2945912240_rushniki-paperovi-20.jpg</picture>
@@ -9715,7 +9715,7 @@ pH - 9,0 ± 1
     <param name="Артикул" unit="">8702</param>
     <param name="Матеріал" unit="">АВС Пластик</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>8702</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533721715" available="true">
+  <offer id="533721715" available="false">
     <url>https://polineo.in.ua/ua/p533721715-rushniki-paperovi-skladka.html</url>
     <price>1682.96</price>
     <currencyId>UAH</currencyId>
@@ -9754,7 +9754,7 @@ pH - 9,0 ± 1
     <param name="Тип паперових рушників">Листові</param>
     <param name="Тип складання">V (Z-Z)-укладання</param>
     <param name="Колір">Білий</param>
-  <param name="Розмір">-</param><article>P100</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>P100</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533721718" available="false">
     <url>https://polineo.in.ua/ua/p533721718-teza-milo-krem.html</url>
     <price>451.80</price>
@@ -13102,7 +13102,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>MULTI ORANGE</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722335" available="false">
     <url>https://polineo.in.ua/ua/p533722335-rushniki-paperovi-basic.html</url>
-    <price>1495.96</price>
+    <price>1611.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/788585912_rushniki-paperovi-basic.jpg</picture>
@@ -18247,7 +18247,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Колір">Комбінований</param><article>500110</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723541" available="false">
     <url>https://polineo.in.ua/ua/p533723541-rushniki-paperovi-basic.html</url>
-    <price>1445.76</price>
+    <price>1541.14</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/788585912_rushniki-paperovi-basic.jpg</picture>
@@ -69553,7 +69553,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>В301</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1361572481" available="false">
     <url>https://polineo.in.ua/ua/p1361572481-rushniki-paperovi-basic.html</url>
-    <price>1236.18</price>
+    <price>1270.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/2945256096_rushniki-paperovi-basic.jpg</picture>
@@ -165306,7 +165306,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">43х13 см</param><article>Д 09919New</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2414858679" available="false">
     <url>https://polineo.in.ua/ua/p2414858679-rushniki-paperovi-eco.html</url>
-    <price>1415.64</price>
+    <price>1523.57</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/6367560283_rushniki-paperovi-eco.jpg</picture>
@@ -165370,7 +165370,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Розмір">-</param><article>P120</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2414861729" available="false">
     <url>https://polineo.in.ua/ua/p2414861729-rushniki-paperovi-eco.html</url>
-    <price>1572.52</price>
+    <price>1690.49</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/6367584479_rushniki-paperovi-eco.jpg</picture>
@@ -165440,7 +165440,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Розмір">-</param><article>P129</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2414872198" available="false">
     <url>https://polineo.in.ua/ua/p2414872198-rushniki-paperovi-eco.html</url>
-    <price>1509.77</price>
+    <price>1620.21</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/6367603478_rushniki-paperovi-eco.jpg</picture>
@@ -173212,7 +173212,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Розмір">-</param><article>A99949CRT</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2792366650" available="false">
     <url>https://polineo.in.ua/ua/p2792366650-rushniki-paperovi-skladka.html</url>
-    <price>2168.64</price>
+    <price>2334.30</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/6884115236_rushniki-paperovi-z-skladka.jpg</picture>
@@ -195819,7 +195819,7 @@ IBC-контейнер SCHÜTZ RECONTAINER 1000 л — це надійне та 
   <param name="Колір">Блакитний</param><param name="Розмір">-</param><article>20183</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2991580315" available="false">
     <url>https://polineo.in.ua/ua/p2991580315-rushniki-paperovi-skladka.html</url>
-    <price>1627.74</price>
+    <price>1734.41</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/7242428171_rushniki-paperovi-z-skladka.jpg</picture>
