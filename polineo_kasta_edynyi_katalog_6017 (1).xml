@@ -8680,9 +8680,9 @@ pH - 9,0 ± 1
 Країна-виробник - Італія</description>
     <param name="Колір">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>0H003950</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533721592" available="true">
+  <offer id="533721592" available="false">
     <url>https://polineo.in.ua/ua/p533721592-paperovi-rulonni-rushniki.html</url>
-    <price>1227.39</price>
+    <price>1317.75</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/2947607620_paperovi-rulonni-rushniki.jpg</picture>
@@ -8723,7 +8723,7 @@ pH - 9,0 ± 1
     <param name="Материал корпуса" unit="">Целюлоза</param>
     <param name="Тип используемых полотенец" unit="">Рулонные</param>
     <param name="Страна происхождения" unit="">Украина</param>
-  <param name="Розмір">-</param><article>144000</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>144000</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533721597" available="true">
     <url>https://polineo.in.ua/ua/p533721597-zginka-dlya-skla.html</url>
     <price>464.35</price>
@@ -9818,9 +9818,9 @@ pH - 9,0 ± 1
     <param name="Тип дозатора" unit="">Кнопочный, наливной</param>
     <param name="Цвет / Покрытие" unit="">Белый</param>
   <param name="Розмір">-</param><article>562WIN</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533721723" available="true">
+  <offer id="533721723" available="false">
     <url>https://polineo.in.ua/ua/p533721723-rushniki-ruloni-midi.html</url>
-    <price>1350.38</price>
+    <price>1602.64</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/788579771_rushniki-v-ruloni.jpg</picture>
@@ -9854,7 +9854,7 @@ pH - 9,0 ± 1
     <param name="Колір">Білий</param>
     <param name="Кількість метрів в рулоні" unit="м">119</param>
     <param name="Кількість в упаковці" unit="шт.">6</param>
-  <param name="Розмір">-</param><article>Р154</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>Р154</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533721724" available="false">
     <url>https://polineo.in.ua/ua/p533721724-trimach-lateksnih-rukavichok.html</url>
     <price>686.49</price>
@@ -10114,7 +10114,7 @@ pH - 9,0 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FRA-50169</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533721743" available="false">
     <url>https://polineo.in.ua/ua/p533721743-153-rushniki-rulonni.html</url>
-    <price>1687.98</price>
+    <price>1805.95</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/788580212_p-153-rushniki-rulonni.jpg</picture>
@@ -18433,9 +18433,9 @@ pH - 11,1 ± 1
     <param name="Основне призначення засобу">Универсальное</param>
     <param name="Об`єм" unit="мл">10000</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.M.</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723559" available="false">
+  <offer id="533723559" available="true">
     <url>https://polineo.in.ua/ua/p533723559-prostiradlo-kuhonne-mediprost.html</url>
-    <price>320.40</price>
+    <price>384.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>92136466</categoryId>
     <picture>https://images.prom.ua/2948321084_prostiradlo-kuhonne-mediprost.jpg</picture>
@@ -18472,7 +18472,7 @@ pH - 11,1 ± 1
     <param name="Диаметр гильзы" unit="мм">45</param>
     <param name="Вес рулона/пачки" unit="г">1.2</param>
     <param name="Кількість в упаковці" unit="">9</param>
-  <param name="Розмір">-</param><article>P173</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Розмір">-</param><article>P173</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723560" available="true">
     <url>https://polineo.in.ua/ua/p533723560-vidro-nerzhaviyuchoyi-stali.html</url>
     <price>601.15</price>
@@ -33754,7 +33754,7 @@ pH - 8
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>11692</article><stock_quantity>50</stock_quantity></offer>
   <offer id="728121241" available="false">
     <url>https://polineo.in.ua/ua/p728121241-rushniki-ruloni-midi.html</url>
-    <price>2927.92</price>
+    <price>3145.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/1216853793_rushniki-v-ruloni.jpg</picture>
@@ -49880,7 +49880,7 @@ pH - 9
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>M050R02N10220</article><stock_quantity>0</stock_quantity></offer>
   <offer id="908922527" available="false">
     <url>https://polineo.in.ua/ua/p908922527-rushniki-rulonni-midi.html</url>
-    <price>1351.64</price>
+    <price>14002.04</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/2947801055_rushniki-rulonni-midi.jpg</picture>
@@ -49957,9 +49957,9 @@ Primary packing - 250х530х120 mm / 0,41 kg, Secondary packing - 1050х330х250
     <param name="Колір">Білий</param>
     <param name="Вид серветок">Столові</param>
   <param name="Розмір">-</param><article>C51</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="909069682" available="true">
+  <offer id="909069682" available="false">
     <url>https://polineo.in.ua/ua/p909069682-402-rushniki-paperovi.html</url>
-    <price>1549.93</price>
+    <price>1656.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/1632119767_r-402-rushniki.jpg</picture>
@@ -49990,7 +49990,7 @@ Primary packing - 250х530х120 mm / 0,41 kg, Secondary packing - 1050х330х250
 
 </description>
     <param name="Колір">Зелений</param>
-  <param name="Розмір">-</param><article>P402</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>P402</article><stock_quantity>0</stock_quantity></offer>
   <offer id="912495713" available="false">
     <url>https://polineo.in.ua/ua/p912495713-gelepodibnij-mijnij-zasib.html</url>
     <price>296.18</price>
@@ -52355,9 +52355,9 @@ Persil Expert має найкращу формулу у своїй історі�
     <param name="Вага" unit="г">8100</param>
     <param name="Тип">Порошок</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Persil</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="924817162" available="true">
+  <offer id="924817162" available="false">
     <url>https://polineo.in.ua/ua/p924817162-tualetnij-papir-dzhambo.html</url>
-    <price>883.52</price>
+    <price>943.76</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/788570454_tualetnij-papir-dzhambo.jpg</picture>
@@ -52388,7 +52388,7 @@ Persil Expert має найкращу формулу у своїй історі�
 Країна-виробник - Україна
 
  </description>
-  <param name="Колір">Комбінований</param><param name="Розмір">96 м</param><article>203020</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">96 м</param><article>203020</article><stock_quantity>0</stock_quantity></offer>
   <offer id="924897188" available="true">
     <url>https://polineo.in.ua/ua/p924897188-zasib-fairy-chajne.html</url>
     <price>140.56</price>
@@ -55650,9 +55650,9 @@ Tовщина корпусу — 1,5 мм
     <param name="Тип складання">V (Z-Z)-укладання</param>
     <param name="Колір">Білий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>Point</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1073259114" available="true">
+  <offer id="1073259114" available="false">
     <url>https://polineo.in.ua/ua/p1073259114-tualetnij-papir-pachtsi.html</url>
-    <price>2359.40</price>
+    <price>2704.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/2060186162_tualetnij-papir-v.jpg</picture>
@@ -55680,10 +55680,10 @@ Tовщина корпусу — 1,5 мм
     <param name="Матеріал основи">Целюлоза</param>
     <param name="Тип туалетного паперу">Листова</param>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>В305</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1073261877" available="true">
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>В305</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="1073261877" available="false">
     <url>https://polineo.in.ua/ua/p1073261877-tualetnij-papir-pachtsi.html</url>
-    <price>1714.33</price>
+    <price>1832.30</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/7032860720_tualetnij-papir-v.jpg</picture>
@@ -55717,7 +55717,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Матеріал основи">Целюлоза</param>
     <param name="Тип туалетного паперу">Листова</param>
     <param name="Колір">Білий</param>
-  <param name="Розмір">-</param><article>В308</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>В308</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1073414109" available="true">
     <url>https://polineo.in.ua/ua/p1073414109-rushniki-paperovi-skladka.html</url>
     <price>1464.59</price>
@@ -69338,7 +69338,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>203030</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1361515569" available="false">
     <url>https://polineo.in.ua/ua/p1361515569-tualetnij-papir-ruloni.html</url>
-    <price>672.68</price>
+    <price>721.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/2945007150_tualetnij-papir-v.jpg</picture>
@@ -69370,9 +69370,9 @@ pH - 7,8±1
 
  </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B105</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1361530556" available="true">
+  <offer id="1361530556" available="false">
     <url>https://polineo.in.ua/ua/p1361530556-tualetnij-papir-ruloni.html</url>
-    <price>842.11</price>
+    <price>898.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/2945007150_tualetnij-papir-v.jpg</picture>
@@ -69399,7 +69399,7 @@ pH - 7,8±1
 Відпускна одиниця - пакунок
 Країна-виробник - Україна
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B202</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B202</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1361549207" available="true">
     <url>https://polineo.in.ua/ua/p1361549207-tualetnij-papir-ruloni.html</url>
     <price>642.56</price>
@@ -69431,9 +69431,9 @@ pH - 7,8±1
 </description>
     <param name="Колір">Сірий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>B902</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1361555536" available="true">
+  <offer id="1361555536" available="false">
     <url>https://polineo.in.ua/ua/p1361555536-tualetnij-papir-ruloni.html</url>
-    <price>791.91</price>
+    <price>1222.37</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/2945158851_tualetnij-papir-v.jpg</picture>
@@ -69461,7 +69461,7 @@ pH - 7,8±1
 Країна-виробник - Україна
 </description>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B917</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B917</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1361559515" available="false">
     <url>https://polineo.in.ua/ua/p1361559515-tualetnij-papir-ruloni.html</url>
     <price>530.87</price>
@@ -69526,7 +69526,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>B945</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1361565900" available="false">
     <url>https://polineo.in.ua/ua/p1361565900-tualetnij-papir-pachtsi.html</url>
-    <price>1688.60</price>
+    <price>1805.95</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/2945219813_tualetnij-papir-u.jpg</picture>
@@ -69749,9 +69749,9 @@ pH - 7,8±1
 Вага - 0,25 кг
 Країна-виробник - Італія</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>50910</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1362252582" available="true">
+  <offer id="1362252582" available="false">
     <url>https://polineo.in.ua/ua/p1362252582-rushnik-ruloni-kuhonnij.html</url>
-    <price>181.98</price>
+    <price>178.84</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/2947540478_rushnik-v-ruloni.jpg</picture>
@@ -69778,10 +69778,10 @@ pH - 7,8±1
 Країна-виробник - Україна
 </description>
     <param name="Тип">Рушник</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>140010</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>140010</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1362286417" available="false">
     <url>https://polineo.in.ua/ua/p1362286417-rushniki-ruloni-basic.html</url>
-    <price>1888.78</price>
+    <price>2025.57</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/2947626914_rushniki-v-ruloni.jpg</picture>
@@ -69808,7 +69808,7 @@ pH - 7,8±1
 Країна-виробник - Україна
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>144300</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1362290968" available="true">
+  <offer id="1362290968" available="false">
     <url>https://polineo.in.ua/ua/p1362290968-rushnik-ruloni-kuhonnij.html</url>
     <price>254.77</price>
     <currencyId>UAH</currencyId>
@@ -69837,10 +69837,10 @@ pH - 7,8±1
 Країна-виробник Україна
 </description>
     <param name="Тип">Рушник</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>150010</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1362322671" available="true">
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>150010</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="1362322671" available="false">
     <url>https://polineo.in.ua/ua/p1362322671-rushniki-ruloni-basic.html</url>
-    <price>1726.88</price>
+    <price>1869.95</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/5005800139_rushniki-v-ruloni.jpg</picture>
@@ -69867,7 +69867,7 @@ pH - 7,8±1
 Країна-виробник - Україна
 
  </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>P1433</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>P1433</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1362345019" available="true">
     <url>https://polineo.in.ua/ua/p1362345019-rushniki-ruloni-basic.html</url>
     <price>1542.40</price>
@@ -69898,9 +69898,9 @@ pH - 7,8±1
 </description>
     <param name="Колір">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>P1522</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1362360921" available="true">
+  <offer id="1362360921" available="false">
     <url>https://polineo.in.ua/ua/p1362360921-rushniki-ruloni-premium.html</url>
-    <price>2060.71</price>
+    <price>2202.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/2947626914_rushniki-v-ruloni.jpg</picture>
@@ -69923,10 +69923,10 @@ pH - 7,8±1
 Країна-виробник - Україна
 </description>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>P185</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>P185</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1362365974" available="false">
     <url>https://polineo.in.ua/ua/p1362365974-rushniki-ruloni-premium.html</url>
-    <price>1636.52</price>
+    <price>1762.02</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/2947626914_rushniki-v-ruloni.jpg</picture>
@@ -80091,7 +80091,7 @@ pH - 4
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>MM010P0A000</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1474114629" available="false">
     <url>https://polineo.in.ua/ua/p1474114629-tualetnij-papir-pachtsi.html</url>
-    <price>1380.50</price>
+    <price>1479.65</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/3316503363_tualetnij-papir-v.jpg</picture>
@@ -139927,9 +139927,9 @@ IP23
 
 ЗА КВІТАМ ТОВАР НЕ ВІДБІРАЄТЬСЯ!</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">130 см</param><article>ALV292</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1781098908" available="true">
+  <offer id="1781098908" available="false">
     <url>https://polineo.in.ua/ua/p1781098908-tualetnij-papir-pachtsi.html</url>
-    <price>2511.26</price>
+    <price>1681.70</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/4307051658_tualetnij-papir-u.jpg</picture>
@@ -139983,7 +139983,7 @@ V-складка
 
 Країна-виробник
 Україна</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B305</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B305</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1781109819" available="true">
     <url>https://polineo.in.ua/ua/p1781109819-tualetnij-papir-ruloni.html</url>
     <price>775.59</price>
@@ -140055,7 +140055,7 @@ Edge embosing (поворотне тиснення)/ є
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>203000</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1781112418" available="false">
     <url>https://polineo.in.ua/ua/p1781112418-tualetnij-papir-ruloni.html</url>
-    <price>1310.22</price>
+    <price>1408.11</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/4307161492_tualetnij-papir-u.jpg</picture>
@@ -140124,7 +140124,7 @@ Edge embossing/ є
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>203029</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1781120844" available="false">
     <url>https://polineo.in.ua/ua/p1781120844-tualetnij-papir-ruloni.html</url>
-    <price>973.88</price>
+    <price>1045.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/4307183458_tualetnij-papir-u.jpg</picture>
@@ -143068,9 +143068,9 @@ Ecolabel - Європейське екологічне маркування Euro
     <param name="Страна происхождения" unit="">Италия</param>
     <param name="Цвет / Покрытие" unit="">Сатин (матовое)</param>
   <param name="Розмір">-</param><article>A91001</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1839998929" available="true">
+  <offer id="1839998929" available="false">
     <url>https://polineo.in.ua/ua/p1839998929-tualetnij-papir-ruloni.html</url>
-    <price>461.84</price>
+    <price>495.73</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/4502808708_tualetnij-papir-u.jpg</picture>
@@ -143139,7 +143139,7 @@ steel-to-rubber/ є
 
  </description>
     <param name="Колір">Білий</param>
-  <param name="Розмір">-</param><article>B921</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>B921</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1848273876" available="true">
     <url>https://polineo.in.ua/ua/p1848273876-sensornij-dispenser-dlya.html</url>
     <price>35140.00</price>
@@ -148619,7 +148619,7 @@ W1 — протиркові матеріали в рулонах для підл
   <vendor>No Brand</vendor><param name="Розмір">40 см</param><article>0000A410B</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1904966911" available="false">
     <url>https://polineo.in.ua/ua/p1904966911-tualetnij-papir-ruloni.html</url>
-    <price>730.41</price>
+    <price>784.38</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/4726167139_tualetnij-papir-u.jpg</picture>
@@ -148675,7 +148675,7 @@ W1 — протиркові матеріали в рулонах для підл
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B201L</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1904971725" available="false">
     <url>https://polineo.in.ua/ua/p1904971725-tualetnij-papir-ruloni.html</url>
-    <price>751.75</price>
+    <price>794.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/4726182520_tualetnij-papir-u.jpg</picture>
@@ -148731,7 +148731,7 @@ W1 — протиркові матеріали в рулонах для підл
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B201M</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1904971849" available="false">
     <url>https://polineo.in.ua/ua/p1904971849-tualetnij-papir-ruloni.html</url>
-    <price>877.25</price>
+    <price>942.51</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341983</categoryId>
     <picture>https://images.prom.ua/4726195950_tualetnij-papir-u.jpg</picture>
@@ -173148,7 +173148,7 @@ o   Країна  ТМ "Apex" — Італія
 </description>
     <param name="Матеріал основи" unit="">Целлюлоза</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CN0020_1</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2792313428" available="true">
+  <offer id="2792313428" available="false">
     <url>https://polineo.in.ua/ua/p2792313428-rushniki-paperovi-vuzki.html</url>
     <price>4405.05</price>
     <currencyId>UAH</currencyId>
@@ -173209,7 +173209,7 @@ o   Країна  ТМ "Apex" — Італія
 </description>
     <param name="Кількість шарів">Двошарові</param>
     <param name="Колір">Білий</param>
-  <param name="Розмір">-</param><article>A99949CRT</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>A99949CRT</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2792366650" available="false">
     <url>https://polineo.in.ua/ua/p2792366650-rushniki-paperovi-skladka.html</url>
     <price>2334.30</price>
@@ -173276,7 +173276,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Розмір">-</param><article>P400</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2793233301" available="false">
     <url>https://polineo.in.ua/ua/p2793233301-rushniki-paperovi-eco.html</url>
-    <price>1537.38</price>
+    <price>1656.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341982</categoryId>
     <picture>https://images.prom.ua/6885261967_rushniki-paperovi-eco.jpg</picture>
@@ -173345,7 +173345,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Розмір">-</param><article>P412</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2793233642" available="false">
     <url>https://polineo.in.ua/ua/p2793233642-rushniki-ruloni-eco.html</url>
-    <price>1300.18</price>
+    <price>1398.07</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/6885262828_rushniki-v-ruloni.jpg</picture>
@@ -173417,9 +173417,9 @@ o   Країна  ТМ "Apex" — Італія
 
  </description>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>P155</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2793237318" available="true">
+  <offer id="2793237318" available="false">
     <url>https://polineo.in.ua/ua/p2793237318-rushniki-ruloni-basic.html</url>
-    <price>1204.49</price>
+    <price>1293.91</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/6885268989_rushniki-v-ruloni.jpg</picture>
@@ -173497,8 +173497,8 @@ o   Країна  ТМ "Apex" — Італія
 </description>
     <param name="Вага" unit="г">475</param>
     <param name="Колір">Сірий</param>
-  <param name="Розмір">-</param><article>P1411</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2793256441" available="true">
+  <param name="Розмір">-</param><article>P1411</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="2793256441" available="false">
     <url>https://polineo.in.ua/ua/p2793256441-rushniki-ruloni-basic.html</url>
     <price>1295.16</price>
     <currencyId>UAH</currencyId>
@@ -173577,10 +173577,10 @@ o   Країна  ТМ "Apex" — Італія
 
 </description>
     <param name="Колір">Зелений</param>
-  <param name="Розмір">-</param><article>P1422</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>P1422</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2793266400" available="false">
     <url>https://polineo.in.ua/ua/p2793266400-rushniki-ruloni-basic.html</url>
-    <price>1148.33</price>
+    <price>1233.67</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/6885283830_rushniki-v-ruloni.jpg</picture>
