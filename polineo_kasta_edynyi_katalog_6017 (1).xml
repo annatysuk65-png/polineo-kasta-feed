@@ -2194,7 +2194,7 @@
     <param name="Вес (кг)" unit="">1,5</param>
     <param name="Материал корпуса" unit="">Металл, покрытый серой краской</param>
   <param name="Розмір">-</param><article>M812G</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720024" available="false">
+  <offer id="533720024" available="true">
     <url>https://polineo.in.ua/ua/p533720024-nakladki-unitaz-maxi.html</url>
     <price>308.73</price>
     <currencyId>UAH</currencyId>
@@ -2222,7 +2222,7 @@
     <param name="Кількість в упаковці" unit="шт.">250</param>
     <param name="Складка">1/2</param>
     <param name="Колір">Білий</param>
-  <param name="Розмір">-</param><article>ТС 250</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Розмір">-</param><article>ТС 250</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720026" available="true">
     <url>https://polineo.in.ua/ua/p533720026-dozator-mila-ridkogo.html</url>
     <price>2360.66</price>
