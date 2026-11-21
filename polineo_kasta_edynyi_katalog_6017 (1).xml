@@ -1319,7 +1319,7 @@
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">25см</param><article>20655</article><stock_quantity>50</stock_quantity></offer>
   <offer id="530381233" available="true">
     <url>https://polineo.in.ua/ua/p530381233-skrebok-dlya-vikon.html</url>
-    <price>1090.60</price>
+    <price>1068.01</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/781067067_skrebok-dlya-vikon.jpg</picture>
@@ -1341,7 +1341,7 @@
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>8072</article><stock_quantity>50</stock_quantity></offer>
   <offer id="530384478" available="false">
     <url>https://polineo.in.ua/ua/p530384478-skrebok-dlya-vikon.html</url>
-    <price>1162.13</price>
+    <price>1273.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/781067067_skrebok-dlya-vikon.jpg</picture>
@@ -1499,7 +1499,7 @@
   <param name="Колір">Білий</param><param name="Розмір">35см</param><article>8411</article><stock_quantity>0</stock_quantity></offer>
   <offer id="530794835" available="false">
     <url>https://polineo.in.ua/ua/p530794835-ganchirka-zminna-abrazivom.html</url>
-    <price>790.65</price>
+    <price>756.77</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/1155537370_ganchirka-zminna-z.jpg</picture>
@@ -4901,9 +4901,9 @@ CE, UL, СВ, RoHS.</description>
     <param name="Тип бару">міні-бар</param>
     <param name="Фасади">скло</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>JVD DR 40</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720764" available="true">
+  <offer id="533720764" available="false">
     <url>https://polineo.in.ua/ua/p533720764-sovok-dlya-smittya.html</url>
-    <price>1955.29</price>
+    <price>1956.55</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788569817_sovok-dlya-smittya.jpg</picture>
@@ -4923,7 +4923,7 @@ CE, UL, СВ, RoHS.</description>
     <param name="Призначення">Універсальне</param>
     <param name="Тип">Совок</param>
     <param name="Колір">Чорний</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>5616</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>5616</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720766" available="true">
     <url>https://polineo.in.ua/ua/p533720766-kontejner-dlya-musora.html</url>
     <price>405.37</price>
@@ -6504,7 +6504,7 @@ pH - 10,5 ± 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>G3502</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720866" available="false">
     <url>https://polineo.in.ua/ua/p533720866-sovok-clip-chornij.html</url>
-    <price>2105.89</price>
+    <price>2104.64</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788571974_sovok-clip-chornij.jpg</picture>
@@ -8508,7 +8508,7 @@ Tовщина корпусу — 3 мм пластик
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S780</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533721543" available="false">
     <url>https://polineo.in.ua/ua/p533721543-profesijnij-sovok-dlya.html</url>
-    <price>3265.51</price>
+    <price>2905.33</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788576533_profesijnij-sovok-dlya.jpg</picture>
@@ -10801,7 +10801,7 @@ pH - 9,0 ± 1
     <param name="Материал корпуса" unit="">Нержавеющая сталь глянцевая</param>
     <param name="Размеры, мм" unit="">230х290х50 мм</param>
   <param name="Розмір">-</param><article>D224C</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533722102" available="true">
+  <offer id="533722102" available="false">
     <url>https://polineo.in.ua/ua/p533722102-fiksator-dlya-dverej.html</url>
     <price>2079.54</price>
     <currencyId>UAH</currencyId>
@@ -10828,7 +10828,7 @@ pH - 9,0 ± 1
 Країна-виробник — Італія
  </description>
     <param name="Стан">Новий</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1060V</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1060V</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722109" available="true">
     <url>https://polineo.in.ua/ua/p533722109-dozator-mila-pini.html</url>
     <price>3313.20</price>
@@ -21485,7 +21485,7 @@ pH - 2,7 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.A.I.2019/S</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723907" available="false">
     <url>https://polineo.in.ua/ua/p533723907-shnur-vityazhnij-dlya.html</url>
-    <price>1933.96</price>
+    <price>2079.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>36486589</categoryId>
     <picture>https://images.prom.ua/788598242_shnur-vityazhnij-dlya.jpg</picture>
@@ -23079,7 +23079,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Розмір">10,5х40 см</param><article>7700E</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724092" available="false">
     <url>https://polineo.in.ua/ua/p533724092-nabir-dlya-pribirannya.html</url>
-    <price>256.02</price>
+    <price>257.28</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/1152381545_nabir-dlya-pribirannya.jpg</picture>
@@ -32535,7 +32535,7 @@ Tовщина корпусу — 1,5 мм
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>12.00825.0006.01.071</article><stock_quantity>50</stock_quantity></offer>
   <offer id="696010529" available="false">
     <url>https://polineo.in.ua/ua/p696010529-nabir-dlya-pribirannya.html</url>
-    <price>799.44</price>
+    <price>800.69</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/1147775317_nabir-dlya-pribirannya.jpg</picture>
@@ -35768,9 +35768,9 @@ CHH20
 </description>
     <param name="Колір корпусу" unit="">Белый</param>
   <vendor>No Brand</vendor><param name="Колір">Белый</param><param name="Розмір">25см</param><article>8410</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="751841113" available="true">
+  <offer id="751841113" available="false">
     <url>https://polineo.in.ua/ua/p751841113-shubka-zminna-poliestr.html</url>
-    <price>673.94</price>
+    <price>721.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/782131139_shubka-zminna-poliestr.jpg</picture>
@@ -35789,7 +35789,7 @@ CHH20
 Температура прання - 60 ° С
 Країна-виробник - Італія</description>
     <param name="Колір корпусу">Білий</param>
-  <param name="Колір">Білий</param><param name="Розмір">45см</param><article>8412</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Білий</param><param name="Розмір">45см</param><article>8412</article><stock_quantity>0</stock_quantity></offer>
   <offer id="751868153" available="false">
     <url>https://polineo.in.ua/ua/p751868153-nakonechnik-dlya-teleskopichnih.html</url>
     <price>342.62</price>
@@ -38081,9 +38081,9 @@ CHH20
 Вага — 1,35 кг
 Країна-виробник — Італія</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>11523</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="758542945" available="true">
+  <offer id="758542945" available="false">
     <url>https://polineo.in.ua/ua/p758542945-nabir-dlya-pribirannya.html</url>
-    <price>184.49</price>
+    <price>185.74</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/1282686875_nabir-dlya-pribirannya.jpg</picture>
@@ -38102,7 +38102,7 @@ CHH20
 Країна-виробник - Італія</description>
     <param name="Застосування">Універсальне</param>
     <param name="Колір">Синій</param>
-  <param name="Розмір">-</param><article>11701</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>11701</article><stock_quantity>0</stock_quantity></offer>
   <offer id="766647930" available="true">
     <url>https://polineo.in.ua/ua/p766647930-shvidkisna-visokoefektivna-susharka.html</url>
     <price>9180.33</price>
@@ -77905,7 +77905,7 @@ pH 4
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>100012-001-054</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1427113611" available="false">
     <url>https://polineo.in.ua/ua/p1427113611-plastikovij-sovok-alyuminiyevoyu.html</url>
-    <price>1952.78</price>
+    <price>1956.55</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/3158699823_plastikovij-sovok-z.jpg</picture>
@@ -149318,7 +149318,7 @@ pH 7,2±1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>218</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1921619785" available="false">
     <url>https://polineo.in.ua/ua/p1921619785-skrebok-dlya-vikon.html</url>
-    <price>1189.74</price>
+    <price>1229.90</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/4779258491_skrebok-dlya-vikon.jpg</picture>
@@ -157312,7 +157312,7 @@ Urinex не можна використовувати для чищення кр
   <param name="Розмір">130 см</param><article>1035Y</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2275804581" available="false">
     <url>https://polineo.in.ua/ua/p2275804581-ruchka-alyuminiyeva-rizzyu.html</url>
-    <price>963.84</price>
+    <price>990.20</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/6054426049_ruchka-alyuminiyeva-z.jpg</picture>
@@ -157365,7 +157365,7 @@ Urinex не можна використовувати для чищення кр
   <param name="Розмір">140 см</param><article>1023G</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2275808208" available="false">
     <url>https://polineo.in.ua/ua/p2275808208-ruchka-alyuminiyeva-rizzyu.html</url>
-    <price>963.84</price>
+    <price>990.20</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/6054429084_ruchka-alyuminiyeva-z.jpg</picture>
@@ -157471,7 +157471,7 @@ Urinex не можна використовувати для чищення кр
   <param name="Розмір">140 см</param><article>1023R</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2275817095" available="false">
     <url>https://polineo.in.ua/ua/p2275817095-ruchka-alyuminiyeva-rizzyu.html</url>
-    <price>963.84</price>
+    <price>990.20</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/6054501990_ruchka-alyuminiyeva-z.jpg</picture>
@@ -161338,9 +161338,9 @@ PEVA — абсолютно нетоксичний полімерний мате
     <param name="Цвет корпуса" unit="">Голубой</param>
     <param name="Матеріал" unit="">Пластик</param>
   <param name="Розмір">-</param><article>1083R</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2391201723" available="true">
+  <offer id="2391201723" available="false">
     <url>https://polineo.in.ua/ua/p2391201723-nabir-dlya-pribirannya.html</url>
-    <price>4836.77</price>
+    <price>4838.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/6332130281_nabir-dlya-pribirannya.jpg</picture>
@@ -161390,7 +161390,7 @@ PEVA — абсолютно нетоксичний полімерний мате
     <param name="Колір">Жовтий</param>
     <param name="Цвет корпуса" unit="">Голубой</param>
     <param name="Матеріал" unit="">Пластик</param>
-  <param name="Розмір">-</param><article>1083Y</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>1083Y</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2394763878" available="true">
     <url>https://polineo.in.ua/ua/p2394763878-schitka-dlya-pidlogi.html</url>
     <price>129.27</price>
@@ -171900,7 +171900,7 @@ o   Країна  ТМ "Apex" — Італія
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>611</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2771122479" available="false">
     <url>https://polineo.in.ua/ua/p2771122479-rukoyatka-alyuminiyeva-teleskopichna.html</url>
-    <price>4612.13</price>
+    <price>4765.24</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/6855237302_rukoyatka-6m-alyuminiyeva.jpg</picture>
@@ -171994,7 +171994,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">3м</param><article>8921YM</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2771130526" available="false">
     <url>https://polineo.in.ua/ua/p2771130526-nabir-dlya-pribirannya.html</url>
-    <price>1185.98</price>
+    <price>1066.75</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/6855430600_nabir-dlya-pribirannya.jpg</picture>
@@ -172326,9 +172326,9 @@ o   Країна  ТМ "Apex" — Італія
     <param name="Артикул" unit="">F060</param>
     <param name="Объем, л" unit="">14</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>F060</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2781042413" available="true">
+  <offer id="2781042413" available="false">
     <url>https://polineo.in.ua/ua/p2781042413-skrebok-geminus-35sm.html</url>
-    <price>2232.65</price>
+    <price>2291.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/6867253788_skrebok-geminus-35sm.jpg</picture>
@@ -172396,7 +172396,7 @@ o   Країна  ТМ "Apex" — Італія
 </description>
     <param name="Тип">Скребок</param>
     <param name="Призначення">Для миття вікон</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>8331YL</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>8331YL</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2781044401" available="false">
     <url>https://polineo.in.ua/ua/p2781044401-zyednuvach-dlya-teleskopichnih.html</url>
     <price>844.62</price>
