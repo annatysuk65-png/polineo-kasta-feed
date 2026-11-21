@@ -2714,7 +2714,7 @@
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>FRA-11708</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720070" available="false">
     <url>https://polineo.in.ua/ua/p533720070-vidro-dlya-perevezennya.html</url>
-    <price>2917.88</price>
+    <price>3119.93</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788565591_vidro-dlya-perevezennya.jpg</picture>
@@ -4689,9 +4689,9 @@ pH - 9,0 ± 1
     <param name="Материал корпуса" unit="">Нержавеющая сталь полированная</param>
     <param name="Наличие ключа" unit="">Есть</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>736</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720751" available="true">
+  <offer id="533720751" available="false">
     <url>https://polineo.in.ua/ua/p533720751-vidro-plastikove-zelene.html</url>
-    <price>884.78</price>
+    <price>888.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788569659_vidro-plastikove-zelene.jpg</picture>
@@ -4711,7 +4711,7 @@ pH - 9,0 ± 1
     <param name="Колір">Зелений</param>
     <param name="Артикул" unit="">3508</param>
     <param name="Объем, л" unit="">6</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3508</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3508</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720753" available="true">
     <url>https://polineo.in.ua/ua/p533720753-airwick-aparat-osvizhuvach.html</url>
     <price>775.59</price>
@@ -5808,7 +5808,7 @@ pH - 10,5 ± 1
   <param name="Розмір">-</param><article>K1</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720816" available="false">
     <url>https://polineo.in.ua/ua/p533720816-vidro-plastikove-chervone.html</url>
-    <price>744.22</price>
+    <price>765.55</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788571019_vidro-plastikove-chervone.jpg</picture>
@@ -6024,7 +6024,7 @@ pH - 10,5 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">M</param><article>500111</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720825" available="false">
     <url>https://polineo.in.ua/ua/p533720825-vidro-witty-vidtiskachem.html</url>
-    <price>16006.27</price>
+    <price>16528.35</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788571131_vidro-witty-z.jpg</picture>
@@ -6481,7 +6481,7 @@ pH - 10,5 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3100V</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720865" available="false">
     <url>https://polineo.in.ua/ua/p533720865-vidro-dlya-pribirannya.html</url>
-    <price>1005.26</price>
+    <price>1075.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/2949177091_vidro-dlya-pribirannya.jpg</picture>
@@ -10169,7 +10169,7 @@ pH - 9,0 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">60см</param><article>0252</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533721745" available="false">
     <url>https://polineo.in.ua/ua/p533721745-v3502-vidro-plastik.html</url>
-    <price>1005.26</price>
+    <price>1075.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/2943110733_v3502-vidro-plastik.jpg</picture>
@@ -12167,7 +12167,7 @@ Tовщина корпусу — 3 мм пластик
   <param name="Розмір">-</param><article>IMB-401975</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722214" available="false">
     <url>https://polineo.in.ua/ua/p533722214-koshik-sirogo-koloru.html</url>
-    <price>1386.78</price>
+    <price>1430.70</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341993</categoryId>
     <picture>https://images.prom.ua/788584509_koshik-sirogo-koloru.jpg</picture>
@@ -13674,7 +13674,7 @@ pH - 8,4 ± 1
   <param name="Розмір">-</param><article>Диво</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722808" available="false">
     <url>https://polineo.in.ua/ua/p533722808-mitla-mery-bez.html</url>
-    <price>1583.81</price>
+    <price>1630.25</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/1147869161_mitla-mery-2.jpg</picture>
@@ -14214,9 +14214,9 @@ pH - 8,4 ± 1
     <param name="Длина, см" unit="">60 см</param>
     <param name="Матеріал" unit="">Пластик</param>
   <param name="Колір">Комбінований</param><param name="Розмір">60 см</param><article>NT182</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533722899" available="true">
+  <offer id="533722899" available="false">
     <url>https://polineo.in.ua/ua/p533722899-3363-vidro-plastikove.html</url>
-    <price>741.71</price>
+    <price>765.55</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788571858_3363-vidro-plastikove.jpg</picture>
@@ -14235,7 +14235,7 @@ pH - 8,4 ± 1
     <param name="Колір">Зелений</param>
     <param name="Артикул" unit="">3363</param>
     <param name="Объем, л" unit="">4</param>
-  <param name="Розмір">-</param><article>3363</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>3363</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722902" available="true">
     <url>https://polineo.in.ua/ua/p533722902-schitka-dlya-unitazu.html</url>
     <price>1506.00</price>
@@ -15220,9 +15220,9 @@ pH - 8,4 ± 1
 </description>
     <param name="Колір" unit="">Білий</param>
   <param name="Розмір">-</param><article>143000</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533723033" available="true">
+  <offer id="533723033" available="false">
     <url>https://polineo.in.ua/ua/p533723033-vidro-easy-vidzhimom.html</url>
-    <price>1167.15</price>
+    <price>1206.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788589131_vidro-easy-z.jpg</picture>
@@ -15242,7 +15242,7 @@ pH - 8,4 ± 1
     <param name="Артикул" unit="">5041</param>
     <param name="Объем, л" unit="">14</param>
     <param name="Дополнительные характеристики" unit="">с отжимом</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>5041</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>5041</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723046" available="false">
     <url>https://polineo.in.ua/ua/p533723046-zasib-nejtralne-dlya.html</url>
     <price>1255.00</price>
@@ -16698,9 +16698,9 @@ pH - 8,0 ± 1
     <param name="Страна происхождения" unit="">Украина</param>
     <param name="Ширина" unit="">40</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>U.02</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723402" available="true">
+  <offer id="533723402" available="false">
     <url>https://polineo.in.ua/ua/p533723402-vidro-plastikove-25l.html</url>
-    <price>1443.25</price>
+    <price>1489.69</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788591578_vidro-plastikove-na.jpg</picture>
@@ -16720,7 +16720,7 @@ pH - 8,0 ± 1
     <param name="Колір">Синій</param>
     <param name="Артикул" unit="">B3500</param>
     <param name="Объем, л" unit="">25</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B3500</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B3500</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723410" available="false">
     <url>https://polineo.in.ua/ua/p533723410-dozator-ridkogo-mila.html</url>
     <price>6109.34</price>
@@ -17814,7 +17814,7 @@ EAN код: 8020090027093
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SC0040</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723510" available="false">
     <url>https://polineo.in.ua/ua/p533723510-vidro-slim-podvijne.html</url>
-    <price>1772.06</price>
+    <price>2000.47</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/972163088_vidro-slim-podvijne.jpg</picture>
@@ -18321,7 +18321,7 @@ Tовщина корпусу — 1,5 мм
   <article>Фрекен Бок</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723550" available="false">
     <url>https://polineo.in.ua/ua/p533723550-vidro-plastikove-25l.html</url>
-    <price>1443.25</price>
+    <price>1489.69</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788593919_vidro-plastikove-na.jpg</picture>
@@ -18764,7 +18764,7 @@ pH - 11,1 ± 1
   <param name="Розмір">-</param><article>081-120</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723583" available="false">
     <url>https://polineo.in.ua/ua/p533723583-vidro-plastik-sinye.html</url>
-    <price>1390.54</price>
+    <price>1489.69</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788594047_vidro-plastik-sinye.jpg</picture>
@@ -20136,7 +20136,7 @@ pH - 2,8 ± 1
     <param name="Матеріал">Поліетилен</param>
     <param name="Тип">Одноразові</param>
   <param name="Колір">Комбінований</param><article>500112</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723801" available="true">
+  <offer id="533723801" available="false">
     <url>https://polineo.in.ua/ua/p533723801-mitla-susy-derevyanoyu.html</url>
     <price>1506.00</price>
     <currencyId>UAH</currencyId>
@@ -20157,7 +20157,7 @@ pH - 2,8 ± 1
 Країна-виробник - Італія
  </description>
     <param name="Вага" unit="г">2500</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5555</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5555</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723803" available="true">
     <url>https://polineo.in.ua/ua/p533723803-mop-vuhokishenya-dlya.html</url>
     <price>512.04</price>
@@ -22299,7 +22299,7 @@ pH - 8,4 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>16-00чорн.</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724034" available="false">
     <url>https://polineo.in.ua/ua/p533724034-vidro-plastik-chervone.html</url>
-    <price>1005.26</price>
+    <price>1075.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788600282_vidro-plastik-chervone.jpg</picture>
@@ -22615,7 +22615,7 @@ pH - 8,4 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>2000А2</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724057" available="false">
     <url>https://polineo.in.ua/ua/p533724057-vidro-dlya-perevezennya.html</url>
-    <price>3304.42</price>
+    <price>3252.96</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788600668_vidro-dlya-perevezennya.jpg</picture>
@@ -24715,9 +24715,9 @@ pH - 9,9 ± 1
 Мийне приладдя ФЕЯ 4 для ополіскування порцелянового, фаянсового, металевого посуду, скла, кухонного приладдя в посудомийних машинах усіх типів.</description>
     <param name="Особливість засобу">Органічне</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Фея-4</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533724256" available="true">
+  <offer id="533724256" available="false">
     <url>https://polineo.in.ua/ua/p533724256-schitka-dlya-znyattya.html</url>
-    <price>574.79</price>
+    <price>617.46</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341964</categoryId>
     <picture>https://images.prom.ua/2951337947_schitka-dlya-znyattya.jpg</picture>
@@ -24734,7 +24734,7 @@ pH - 9,9 ± 1
 Температура прання - 60 ° С
 Країна-виробник - Італія</description>
     <param name="Тип">Щітка</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5020</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5020</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724257" available="false">
     <url>https://polineo.in.ua/ua/p533724257-pad-abrazivnij-zelenij.html</url>
     <price>448.04</price>
@@ -24947,9 +24947,9 @@ pH - 9,9 ± 1
     <param name="Количество в упаковке, шт" unit="">4</param>
     <param name="Кількість шарів" unit="">2</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Сніжна Панда</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533724306" available="true">
+  <offer id="533724306" available="false">
     <url>https://polineo.in.ua/ua/p533724306-vidro-plastikove-chervone.html</url>
-    <price>828.30</price>
+    <price>888.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788604767_vidro-plastikove-chervone.jpg</picture>
@@ -24967,7 +24967,7 @@ pH - 9,9 ± 1
     <param name="Колір">Червоний</param>
     <param name="Артикул" unit="">3505</param>
     <param name="Объем, л" unit="">6</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3505</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3505</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724308" available="true">
     <url>https://polineo.in.ua/ua/p533724308-mop-vuhokishenya-dlya.html</url>
     <price>864.70</price>
@@ -25710,7 +25710,7 @@ pH - 2,3 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8678</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724366" available="false">
     <url>https://polineo.in.ua/ua/p533724366-vidro-dlya-perevezennya.html</url>
-    <price>2917.88</price>
+    <price>3119.93</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788605809_vidro-dlya-perevezennya.jpg</picture>
@@ -26399,7 +26399,7 @@ pH - 12,1 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Selpak</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724439" available="false">
     <url>https://polineo.in.ua/ua/p533724439-vidro-plastik-sinye.html</url>
-    <price>1005.26</price>
+    <price>1075.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788606877_vidro-plastik-sinye.jpg</picture>
@@ -26608,7 +26608,7 @@ pH - 12,1 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">80 см</param><article>NP194</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724454" available="false">
     <url>https://polineo.in.ua/ua/p533724454-vidro-duble-bucket.html</url>
-    <price>7624.13</price>
+    <price>7876.38</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788607113_vidro-duble-bucket.jpg</picture>
@@ -26652,7 +26652,7 @@ pH - 12,1 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>5500</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724458" available="true">
     <url>https://polineo.in.ua/ua/p533724458-lotok-dlya-plyashok.html</url>
-    <price>1581.30</price>
+    <price>1630.25</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/788607112_lotok-dlya-plyashok.jpg</picture>
@@ -35867,9 +35867,9 @@ CHH20
     <param name="Колір">Зелений</param>
     <param name="Матеріал ручки" unit="">алюминий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>S030186</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="751914567" available="true">
+  <offer id="751914567" available="false">
     <url>https://polineo.in.ua/ua/p751914567-0b003213-sinye-vidro.html</url>
-    <price>1670.41</price>
+    <price>1789.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/788604307_0b003213-sinye-vidro.jpg</picture>
@@ -35887,10 +35887,10 @@ CHH20
 Виробник – Італія</description>
     <param name="Форма">Прямокутна</param>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>0B003213</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>0B003213</article><stock_quantity>0</stock_quantity></offer>
   <offer id="751920055" available="false">
     <url>https://polineo.in.ua/ua/p751920055-0b006415-vidro-dlya.html</url>
-    <price>8141.19</price>
+    <price>8397.21</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/1267666403_0b006415-vidro-dlya.jpg</picture>
@@ -35982,7 +35982,7 @@ CHH20
     <param name="Артикул" unit="">0B006410</param>
     <param name="Объем, л" unit="">15</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>0V006415</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="752391360" available="true">
+  <offer id="752391360" available="false">
     <url>https://polineo.in.ua/ua/p752391360-krishka-dlya-vider.html</url>
     <price>1542.40</price>
     <currencyId>UAH</currencyId>
@@ -36000,10 +36000,10 @@ CHH20
 Країна-виробник - Італія</description>
     <param name="Колір">Жовтий</param>
     <param name="Тип">Кришка</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3214</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3214</article><stock_quantity>0</stock_quantity></offer>
   <offer id="752394367" available="false">
     <url>https://polineo.in.ua/ua/p752394367-krishka-dlya-vidra.html</url>
-    <price>1204.80</price>
+    <price>1206.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/1268844716_krishka-dlya-vidra.jpg</picture>
@@ -36041,9 +36041,9 @@ CHH20
 Країна-виробник - Італія</description>
     <param name="Колір">Жовтий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3355E</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="752415076" available="true">
+  <offer id="752415076" available="false">
     <url>https://polineo.in.ua/ua/p752415076-vidro-dlya-pribirannya.html</url>
-    <price>715.35</price>
+    <price>765.55</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/1268880617_vidro-dlya-pribirannya.jpg</picture>
@@ -36060,10 +36060,10 @@ CHH20
 Вага - 0,312 кг
 Країна-виробник - Італія</description>
     <param name="Колір">Жовтий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3360</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>3360</article><stock_quantity>0</stock_quantity></offer>
   <offer id="752451330" available="false">
     <url>https://polineo.in.ua/ua/p752451330-vidro-easy-vidzhimom.html</url>
-    <price>1167.15</price>
+    <price>1206.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/1268970457_vidro-easy-z.jpg</picture>
@@ -36084,7 +36084,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>5040</article><stock_quantity>0</stock_quantity></offer>
   <offer id="752454849" available="false">
     <url>https://polineo.in.ua/ua/p752454849-vidro-easy-vidzhimom.html</url>
-    <price>1167.15</price>
+    <price>1206.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/1268978121_vidro-easy-z.jpg</picture>
@@ -36301,7 +36301,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3311</article><stock_quantity>0</stock_quantity></offer>
   <offer id="753575226" available="true">
     <url>https://polineo.in.ua/ua/p753575226-3315-komplekt-dlya.html</url>
-    <price>588.60</price>
+    <price>731.67</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1271873051_3315-komplekt-dlya.jpg</picture>
@@ -36522,7 +36522,7 @@ CHH20
   <param name="Колір">Червоний</param><param name="Розмір">95 мм</param><article>3486</article><stock_quantity>50</stock_quantity></offer>
   <offer id="753627340" available="false">
     <url>https://polineo.in.ua/ua/p753627340-koleso-plastikove-dlya.html</url>
-    <price>736.69</price>
+    <price>886.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1271980963_koleso-plastikove-dlya.jpg</picture>
@@ -37644,7 +37644,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S030175</article><stock_quantity>50</stock_quantity></offer>
   <offer id="755503385" available="false">
     <url>https://polineo.in.ua/ua/p755503385-koleso-dlya-vider.html</url>
-    <price>318.77</price>
+    <price>332.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1276456511_koleso-dlya-vider.jpg</picture>
@@ -39832,7 +39832,7 @@ CHH20
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0125</article><stock_quantity>0</stock_quantity></offer>
   <offer id="862231545" available="false">
     <url>https://polineo.in.ua/ua/p862231545-vidro-pile.html</url>
-    <price>10830.65</price>
+    <price>11180.80</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/1521415471_vidro-pile-30.jpg</picture>
@@ -44274,7 +44274,7 @@ pH - 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>MS710S0C0A00</article><stock_quantity>0</stock_quantity></offer>
   <offer id="868595461" available="true">
     <url>https://polineo.in.ua/ua/p868595461-lotok-dlya-plyashok.html</url>
-    <price>1581.30</price>
+    <price>1630.25</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/1536154288_lotok-dlya-plyashok.jpg</picture>
@@ -69078,9 +69078,9 @@ pH - 7,8±1
 </description>
     <param name="Колір">Синій</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3213</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1360971247" available="true">
+  <offer id="1360971247" available="false">
     <url>https://polineo.in.ua/ua/p1360971247-vidro-dlya-perevezennya.html</url>
-    <price>2230.14</price>
+    <price>2300.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/2943171625_vidro-dlya-perevezennya.jpg</picture>
@@ -69099,10 +69099,10 @@ pH - 7,8±1
 </description>
     <param name="Тип">Кришка</param>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B003255</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B003255</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1360974926" available="false">
     <url>https://polineo.in.ua/ua/p1360974926-vidro-dlya-pribirannya.html</url>
-    <price>6768.22</price>
+    <price>8397.21</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/2943187373_vidro-dlya-pribirannya.jpg</picture>
@@ -69122,7 +69122,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>6415</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1360983289" available="false">
     <url>https://polineo.in.ua/ua/p1360983289-vidro-dlya-perevezennya.html</url>
-    <price>1853.64</price>
+    <price>2300.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/2943233378_vidro-dlya-perevezennya.jpg</picture>
@@ -69144,7 +69144,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>0E003255</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1361045342" available="false">
     <url>https://polineo.in.ua/ua/p1361045342-vidro-dlya-pribirannya.html</url>
-    <price>6768.22</price>
+    <price>8397.21</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/2943452502_vidro-dlya-pribirannya.jpg</picture>
@@ -70139,7 +70139,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>C200</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1362700368" available="false">
     <url>https://polineo.in.ua/ua/p1362700368-vidro-germetichnoyu-krishkoj.html</url>
-    <price>1947.76</price>
+    <price>2009.26</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/2948975790_vidro-z-germetichnoyu.jpg</picture>
@@ -71229,7 +71229,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3697</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1365328218" available="false">
     <url>https://polineo.in.ua/ua/p1365328218-komplekt-uni-junior.html</url>
-    <price>4096.32</price>
+    <price>4097.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/2958878818_komplekt-uni-junior.jpg</picture>
@@ -76857,7 +76857,7 @@ EU, OC стандарти безпеки
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B030450</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1422294746" available="false">
     <url>https://polineo.in.ua/ua/p1422294746-vinik-dlya-pilu.html</url>
-    <price>1128.68</price>
+    <price>1207.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/3143097556_vinik-dlya-pilu.jpg</picture>
@@ -77178,7 +77178,7 @@ Lampo - це система швидкого з'єднання-роз'єднан
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TCH104020</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1422392448" available="false">
     <url>https://polineo.in.ua/ua/p1422392448-komplekt-uni-junior.html</url>
-    <price>3835.28</price>
+    <price>4097.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/3143404227_komplekt-uni-junior.jpg</picture>
@@ -77207,7 +77207,7 @@ Lampo - це система швидкого з'єднання-роз'єднан
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5075RK01</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1422405749" available="false">
     <url>https://polineo.in.ua/ua/p1422405749-komplekt-uni-junior.html</url>
-    <price>3835.28</price>
+    <price>4097.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/3143438769_komplekt-uni-junior.jpg</picture>
@@ -77236,7 +77236,7 @@ Lampo - це система швидкого з'єднання-роз'єднан
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5075GK01</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1422408677" available="false">
     <url>https://polineo.in.ua/ua/p1422408677-komplekt-uni-junior.html</url>
-    <price>3835.28</price>
+    <price>4097.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341959</categoryId>
     <picture>https://images.prom.ua/3143447074_komplekt-uni-junior.jpg</picture>
@@ -180093,7 +180093,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>00005043</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2862857118" available="false">
     <url>https://polineo.in.ua/ua/p2862857118-vidro-hermetic-dlya.html</url>
-    <price>2299.16</price>
+    <price>2300.42</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/6991338741_vidro-8l-hermetic.jpg</picture>
@@ -180104,9 +180104,9 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
     <description>Це відро повністю виготовлене з пластику, об`ємом 8л. До комлекту входить пластикова ручка та герметична кришка. Відро призначене для одностадійного прання у мийному засобі і перенесення мопів. Поміщається до 10 мопів шириною 40 см. Всередині відра є шкала поділок у галонах та літрах.</description>
     <param name="Тип">Кришка</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0R003255</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2862857855" available="true">
+  <offer id="2862857855" available="false">
     <url>https://polineo.in.ua/ua/p2862857855-vidro-ruchkoyu.html</url>
-    <price>1054.20</price>
+    <price>1090.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/6991342790_vidro-8l-z.jpg</picture>
@@ -180117,7 +180117,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
     <description>Прямокутне відро, призначене для використання з плоскими швабрами 30 см
 
 Ідеально підходить для традиційного використання</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0B003252</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>0B003252</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2862858155" available="true">
     <url>https://polineo.in.ua/ua/p2862858155-vidro-ruchkoyu.html</url>
     <price>1054.20</price>
@@ -180146,7 +180146,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">50мм</param><article>3484C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2862859396" available="false">
     <url>https://polineo.in.ua/ua/p2862859396-vidro-20l-hermetic.html</url>
-    <price>2664.37</price>
+    <price>3252.96</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/6991349811_vidro-20l-hermetic.jpg</picture>
@@ -199560,9 +199560,9 @@ VITON - фторвуглецевий каучук / фторований
     <param name="Матеріал">Поліпропілен</param>
     <param name="Колір">Сірий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>А 10375</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="3098105321" available="true">
+  <offer id="3098105321" available="false">
     <url>https://polineo.in.ua/ua/p3098105321-vidro-easy-vidzhimom.html</url>
-    <price>1167.15</price>
+    <price>1206.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341961</categoryId>
     <picture>https://images.prom.ua/7500045152_vidro-easy-z.jpg</picture>
@@ -199584,7 +199584,7 @@ VITON - фторвуглецевий каучук / фторований
 	Країна-виробник Італія
 </description>
     <param name="Колір">Жовтий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>А 5043</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>А 5043</article><stock_quantity>0</stock_quantity></offer>
   <offer id="3098105510" available="true">
     <url>https://polineo.in.ua/ua/p3098105510-vidro-fox-vidzhimom.html</url>
     <price>1964.08</price>
@@ -200641,7 +200641,7 @@ VITON - фторвуглецевий каучук / фторований
 Місця застосування: підприємства харчової промисловості</description>
     <param name="Тип">Щітка</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">60см</param><article>1014</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="3098727446" available="true">
+  <offer id="3098727446" available="false">
     <url>https://polineo.in.ua/ua/p3098727446-schitka-34sm-industrial.html</url>
     <price>1085.58</price>
     <currencyId>UAH</currencyId>
@@ -200666,7 +200666,7 @@ VITON - фторвуглецевий каучук / фторований
 Місця застосування: підприємства харчової промисловості</description>
     <param name="Призначення">Універсальне</param>
     <param name="Тип">Щітка</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">34см</param><article>134_C</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">34см</param><article>134_C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="3098728309" available="true">
     <url>https://polineo.in.ua/ua/p3098728309-schitka-pet-soft.html</url>
     <price>633.78</price>
