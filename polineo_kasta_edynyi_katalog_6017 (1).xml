@@ -16552,7 +16552,7 @@ pH - 8,0 ± 1
 </description>
     <param name="Антибактеріальне покриття">Так</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D-222C</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533723393" available="true">
+  <offer id="533723393" available="false">
     <url>https://polineo.in.ua/ua/p533723393-skrebok-dlya-zgonu.html</url>
     <price>533.38</price>
     <currencyId>UAH</currencyId>
@@ -16575,7 +16575,7 @@ pH - 8,0 ± 1
     <param name="Количество в упаковке, шт" unit="">12</param>
     <param name="Материал корпуса" unit="">Нержавеющая сталь</param>
     <param name="Страна происхождения" unit="">Италия</param>
-  <vendor>No Brand</vendor><param name="Розмір">55 см</param><article>11203</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">55 см</param><article>11203</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723395" available="true">
     <url>https://polineo.in.ua/ua/p533723395-shvabra-div.html</url>
     <price>1908.86</price>
