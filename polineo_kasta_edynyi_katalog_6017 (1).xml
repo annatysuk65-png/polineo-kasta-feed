@@ -1385,7 +1385,7 @@
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">25 см</param><article>8100</article><stock_quantity>50</stock_quantity></offer>
   <offer id="530474490" available="false">
     <url>https://polineo.in.ua/ua/p530474490-gumova-nasadka-dlya.html</url>
-    <price>473.14</price>
+    <price>508.28</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/781231551_gumova-nasadka-dlya.jpg</picture>
@@ -1520,9 +1520,9 @@
     <param name="Тип">Ганчірка</param>
     <param name="Колір">Білий</param>
   <vendor>No Brand</vendor><param name="Розмір">35см</param><article>8431</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="530795369" available="true">
+  <offer id="530795369" available="false">
     <url>https://polineo.in.ua/ua/p530795369-skrebok-best-ruchkoyu.html</url>
-    <price>1185.98</price>
+    <price>1268.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/6834964559_skrebok-best-z.jpg</picture>
@@ -1545,7 +1545,7 @@
     <param name="Призначення">Для миття вікон</param>
     <param name="Тип">Скребок</param>
     <param name="Тип ручки">цілісна</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8555</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8555</article><stock_quantity>0</stock_quantity></offer>
   <offer id="530803136" available="true">
     <url>https://polineo.in.ua/ua/p530803136-skrebok-handley-metalevij.html</url>
     <price>522.08</price>
@@ -1584,7 +1584,7 @@
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8585</article><stock_quantity>0</stock_quantity></offer>
   <offer id="530917375" available="false">
     <url>https://polineo.in.ua/ua/p530917375-trimach-padinnya-terfir.html</url>
-    <price>1504.75</price>
+    <price>1622.72</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/7719585753_trimach-padinnya-terfir.jpg</picture>
@@ -1602,9 +1602,9 @@
 Країна-виробник — Італія</description>
     <param name="Матеріал">Пластик</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8700Y</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="530918967" available="true">
+  <offer id="530918967" available="false">
     <url>https://polineo.in.ua/ua/p530918967-trimach-pada-terfir.html</url>
-    <price>1380.50</price>
+    <price>1622.72</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/7719584974_trimach-pada-terfir.jpg</picture>
@@ -1625,7 +1625,7 @@
 </description>
     <param name="Матеріал">Пластик</param>
     <param name="Колір">Зелений</param>
-  <param name="Розмір">-</param><article>8700</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>8700</article><stock_quantity>0</stock_quantity></offer>
   <offer id="530938383" available="true">
     <url>https://polineo.in.ua/ua/p530938383-trimach-padinnya-terfir.html</url>
     <price>1744.45</price>
@@ -2111,9 +2111,9 @@
     <param name="Призначення" unit="">сгонка для пола</param>
     <param name="Размер,см" unit="">75</param>
   <param name="Колір">Комбінований</param><param name="Розмір">75 см</param><article>MYS503</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720015" available="true">
+  <offer id="533720015" available="false">
     <url>https://polineo.in.ua/ua/p533720015-pad-abrazivnyj-chornij.html</url>
-    <price>466.86</price>
+    <price>448.04</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/788564158_pad-abrazivnyj-chornij.jpg</picture>
@@ -2130,7 +2130,7 @@
 Вага — 0,112 кг
 Країна-виробник — Італія</description>
     <param name="Сидіння для оператора">Ні</param>
-  <vendor>No Brand</vendor><param name="Колір">Чорний</param><param name="Розмір">-</param><article>8713</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Чорний</param><param name="Розмір">-</param><article>8713</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720021" available="true">
     <url>https://polineo.in.ua/ua/p533720021-trimach-paperovih-rushnikiv.html</url>
     <price>1081.81</price>
@@ -4201,7 +4201,7 @@ pH - 10,4 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Восход-М</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720192" available="false">
     <url>https://polineo.in.ua/ua/p533720192-skrebok-aries-rukoyatkoyu.html</url>
-    <price>1734.41</price>
+    <price>1789.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/6528744847_skrebok-aries-z.jpg</picture>
@@ -4560,7 +4560,7 @@ pH - 9,0 ± 1
   <param name="Розмір">-</param><article>744SAT</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720221" available="false">
     <url>https://polineo.in.ua/ua/p533720221-zgin-dlya-vodi.html</url>
-    <price>301.20</price>
+    <price>312.50</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788569454_zgin-dlya-vodi.jpg</picture>
@@ -5504,7 +5504,7 @@ pH - 10,5 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">135 м</param><article>B 101</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720799" available="false">
     <url>https://polineo.in.ua/ua/p533720799-shkrebok-dlya-zgonu.html</url>
-    <price>922.43</price>
+    <price>986.43</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788568877_shkrebok-dlya-zgonu.jpg</picture>
@@ -6051,7 +6051,7 @@ pH - 10,5 ± 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>66450</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720827" available="true">
     <url>https://polineo.in.ua/ua/p533720827-shkrebok-dlya-zgonu.html</url>
-    <price>1071.77</price>
+    <price>1145.82</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788571225_shkrebok-dlya-zgonu.jpg</picture>
@@ -7367,7 +7367,7 @@ pH - 6,8 ± 1
   <param name="Розмір">-</param><article>S4</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533720959" available="false">
     <url>https://polineo.in.ua/ua/p533720959-skrebok-dlya-zgonu.html</url>
-    <price>1099.38</price>
+    <price>1134.52</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788574516_skrebok-dlya-zgonu.jpg</picture>
@@ -9692,9 +9692,9 @@ pH - 9,0 ± 1
     <param name="Цвет / Покрытие" unit="">Матовое</param>
     <param name="Размеры, мм" unit="">95x32x135 мм</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>584SAT</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533721714" available="true">
+  <offer id="533721714" available="false">
     <url>https://polineo.in.ua/ua/p533721714-osnova-mopa-dlya.html</url>
-    <price>1165.90</price>
+    <price>1168.41</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/7719592260_osnova-mopa-dlya.jpg</picture>
@@ -9714,7 +9714,7 @@ pH - 9,0 ± 1
     <param name="Колір">Сірий</param>
     <param name="Артикул" unit="">8702</param>
     <param name="Матеріал" unit="">АВС Пластик</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>8702</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>8702</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533721715" available="false">
     <url>https://polineo.in.ua/ua/p533721715-rushniki-paperovi-skladka.html</url>
     <price>1682.96</price>
@@ -10803,7 +10803,7 @@ pH - 9,0 ± 1
   <param name="Розмір">-</param><article>D224C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533722102" available="true">
     <url>https://polineo.in.ua/ua/p533722102-fiksator-dlya-dverej.html</url>
-    <price>1950.27</price>
+    <price>2079.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788581884_fiksator-dlya-dverej.jpg</picture>
@@ -11299,7 +11299,7 @@ pH - 9,0 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">120 см</param><article>11527</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722147" available="false">
     <url>https://polineo.in.ua/ua/p533722147-shkrebok-dlya-zgonu.html</url>
-    <price>1246.22</price>
+    <price>1331.56</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788571225_shkrebok-dlya-zgonu.jpg</picture>
@@ -12612,9 +12612,9 @@ Tовщина корпусу — 3 мм пластик
 Вага — 5,26 кг
 Країна-виробник — Італія</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3580</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533722263" available="true">
+  <offer id="533722263" available="false">
     <url>https://polineo.in.ua/ua/p533722263-pad-abrazivnij-bilij.html</url>
-    <price>466.86</price>
+    <price>448.04</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/788585025_pad-abrazivnij-bilij.jpg</picture>
@@ -12631,7 +12631,7 @@ Tовщина корпусу — 3 мм пластик
 Вага - 0,120 кг
 Країна-виробник - Італія</description>
     <param name="Сидіння для оператора">Ні</param>
-  <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>8710</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Білий</param><param name="Розмір">-</param><article>8710</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722269" available="true">
     <url>https://polineo.in.ua/ua/p533722269-rushniki-selpak-bili3.html</url>
     <price>576.05</price>
@@ -13470,9 +13470,9 @@ pH - 8,4 ± 1
     <param name="Материал корпуса" unit="">Пластик белый</param>
     <param name="Размеры, мм" unit="">375x137x280 мм</param>
   <param name="Розмір">-</param><article>592</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533722396" available="true">
+  <offer id="533722396" available="false">
     <url>https://polineo.in.ua/ua/p533722396-skrebok-dlya-zgonu.html</url>
-    <price>1099.38</price>
+    <price>1134.52</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788568877_skrebok-dlya-zgonu.jpg</picture>
@@ -13491,7 +13491,7 @@ pH - 8,4 ± 1
 Країна-виробник — Італія
  </description>
     <param name="Колір">Зелений</param>
-  <vendor>No Brand</vendor><param name="Розмір">75 см</param><article>8633</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">75 см</param><article>8633</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722399" available="false">
     <url>https://polineo.in.ua/ua/p533722399-mop-dlya-suhogo.html</url>
     <price>1214.84</price>
@@ -13691,9 +13691,9 @@ pH - 8,4 ± 1
 Країна-виробник — Італія</description>
     <param name="Вага" unit="г">600</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5541</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533722815" available="true">
+  <offer id="533722815" available="false">
     <url>https://polineo.in.ua/ua/p533722815-pad-abrazivnij-korichnevij.html</url>
-    <price>445.53</price>
+    <price>448.04</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/788587067_pad-abrazivnij-korichnevij.jpg</picture>
@@ -13710,7 +13710,7 @@ pH - 8,4 ± 1
 Вага — 0,120 кг
 Країна-виробник — Італія
  </description>
-  <vendor>No Brand</vendor><param name="Колір">Коричневий</param><param name="Розмір">-</param><article>8711</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Коричневий</param><param name="Розмір">-</param><article>8711</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722819" available="false">
     <url>https://polineo.in.ua/ua/p533722819-866377-bezdrotovij-elektrochajnik.html</url>
     <price>2635.50</price>
@@ -16554,7 +16554,7 @@ pH - 8,0 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D-222C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723393" available="true">
     <url>https://polineo.in.ua/ua/p533723393-skrebok-dlya-zgonu.html</url>
-    <price>533.38</price>
+    <price>534.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/6942819368_skrebok-dlya-zgonu.jpg</picture>
@@ -17353,7 +17353,7 @@ pH - 8,0 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>PR0783CS</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723460" available="false">
     <url>https://polineo.in.ua/ua/p533723460-skrebok-dlya-zgonu.html</url>
-    <price>874.74</price>
+    <price>904.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788568877_skrebok-dlya-zgonu.jpg</picture>
@@ -17516,7 +17516,7 @@ EAN код: 8020090027093
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.N.P.1000/M</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723482" available="false">
     <url>https://polineo.in.ua/ua/p533723482-skrebok-dlya-zgonu.html</url>
-    <price>1876.23</price>
+    <price>1877.48</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788571225_skrebok-dlya-zgonu.jpg</picture>
@@ -18934,7 +18934,7 @@ pH - 11,1 ± 1
   <param name="Розмір">-</param><article>622w-tr</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723592" available="false">
     <url>https://polineo.in.ua/ua/p533723592-skrebok-dlya-zgonu.html</url>
-    <price>960.08</price>
+    <price>986.43</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788574516_skrebok-dlya-zgonu.jpg</picture>
@@ -21327,7 +21327,7 @@ pH - 6,9±1
   <param name="Розмір">-</param><article>756MA</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533723896" available="false">
     <url>https://polineo.in.ua/ua/p533723896-skrebok-dlya-zgonu.html</url>
-    <price>960.08</price>
+    <price>986.43</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788597972_skrebok-dlya-zgonu.jpg</picture>
@@ -24503,7 +24503,7 @@ pH - 9,9 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40 см</param><article>0135</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724245" available="false">
     <url>https://polineo.in.ua/ua/p533724245-gumova-nasadka-dlya.html</url>
-    <price>379.01</price>
+    <price>382.78</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/781231551_gumova-nasadka-dlya.jpg</picture>
@@ -24735,9 +24735,9 @@ pH - 9,9 ± 1
 Країна-виробник - Італія</description>
     <param name="Тип">Щітка</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>5020</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533724257" available="true">
+  <offer id="533724257" available="false">
     <url>https://polineo.in.ua/ua/p533724257-pad-abrazivnij-zelenij.html</url>
-    <price>466.86</price>
+    <price>448.04</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/788604472_pad-abrazivnij-zelenij.jpg</picture>
@@ -24755,7 +24755,7 @@ pH - 9,9 ± 1
  </description>
     <param name="Колір" unit="">Зелений</param>
     <param name="Основне призначення" unit="">Для пола</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>8712</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>8712</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724258" available="true">
     <url>https://polineo.in.ua/ua/p533724258-perevarachivayuschijsya-sovok-dovgoyu.html</url>
     <price>564.75</price>
@@ -25675,7 +25675,7 @@ pH - 2,3 ± 1
   <param name="Розмір">-</param><article>MJ1</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724365" available="false">
     <url>https://polineo.in.ua/ua/p533724365-skrebok-dlya-zgonu.html</url>
-    <price>1099.38</price>
+    <price>1134.52</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/788597972_skrebok-dlya-zgonu.jpg</picture>
@@ -35555,7 +35555,7 @@ CHH20
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">30 см</param><article>0894Y</article><stock_quantity>50</stock_quantity></offer>
   <offer id="750558330" available="false">
     <url>https://polineo.in.ua/ua/p750558330-skrebok-dlya-zgonu.html</url>
-    <price>875.99</price>
+    <price>904.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/1264416469_skrebok-dlya-zgonu.jpg</picture>
@@ -35575,9 +35575,9 @@ CHH20
     <param name="Колір">Білий</param>
     <param name="Призначення" unit="">сгонка для пола</param>
   <vendor>No Brand</vendor><param name="Розмір">45 см</param><article>8641</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="750559433" available="true">
+  <offer id="750559433" available="false">
     <url>https://polineo.in.ua/ua/p750559433-shkrebok-dlya-zgonu.html</url>
-    <price>845.87</price>
+    <price>904.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/1264418120_shkrebok-dlya-zgonu.jpg</picture>
@@ -35596,10 +35596,10 @@ CHH20
  </description>
     <param name="Колір">Червоний</param>
     <param name="Призначення" unit="">сгонка для пола</param>
-  <vendor>No Brand</vendor><param name="Розмір">45 см</param><article>8656</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">45 см</param><article>8656</article><stock_quantity>0</stock_quantity></offer>
   <offer id="750560918" available="false">
     <url>https://polineo.in.ua/ua/p750560918-shkrebok-dlya-zgonu.html</url>
-    <price>874.74</price>
+    <price>904.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/1264420974_shkrebok-dlya-zgonu.jpg</picture>
@@ -35792,7 +35792,7 @@ CHH20
   <param name="Колір">Білий</param><param name="Розмір">45см</param><article>8412</article><stock_quantity>50</stock_quantity></offer>
   <offer id="751868153" available="false">
     <url>https://polineo.in.ua/ua/p751868153-nakonechnik-dlya-teleskopichnih.html</url>
-    <price>330.07</price>
+    <price>342.62</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/1267530405_nakonechnik-dlya-teleskopichnih.jpg</picture>
@@ -70176,9 +70176,9 @@ pH - 7,8±1
 Країна-виробник - Італія
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>8102</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1363198191" available="true">
+  <offer id="1363198191" available="false">
     <url>https://polineo.in.ua/ua/p1363198191-trimach-skrebka-metalevij.html</url>
-    <price>699.04</price>
+    <price>701.55</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342001</categoryId>
     <picture>https://images.prom.ua/2951450340_trimach-skrebka-metalevij.jpg</picture>
@@ -70196,7 +70196,7 @@ pH - 7,8±1
 Вага - 0,120 кг
 Країна-виробник - Італія
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8191</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8191</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1363217966" available="true">
     <url>https://polineo.in.ua/ua/p1363217966-trimach-plastikovij-shubkoyu.html</url>
     <price>1275.08</price>
@@ -70216,7 +70216,7 @@ pH - 7,8±1
 
  </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45см</param><article>8262</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1363277435" available="true">
+  <offer id="1363277435" available="false">
     <url>https://polineo.in.ua/ua/p1363277435-servetki-stolovi-fasto.html</url>
     <price>1327.79</price>
     <currencyId>UAH</currencyId>
@@ -70243,7 +70243,7 @@ pH - 7,8±1
 Отпускная единица - ящик
 Страна-производитель - Украина
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>C230</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>C230</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1363279406" available="true">
     <url>https://polineo.in.ua/ua/p1363279406-servetki-stolovi-fasto.html</url>
     <price>1139.54</price>
@@ -71259,9 +71259,9 @@ Ecolabel - Європейське екологічне маркування Euro
     <param name="Колір">Зелений</param>
     <param name="Тип" unit="">Ручка</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>5075VK01</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1365366858" available="true">
+  <offer id="1365366858" available="false">
     <url>https://polineo.in.ua/ua/p1365366858-skrebok-dlya-zgonu.html</url>
-    <price>845.87</price>
+    <price>904.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/2959003899_skrebok-dlya-zgonu.jpg</picture>
@@ -71278,10 +71278,10 @@ Ecolabel - Європейське екологічне маркування Euro
 Країна-виробник - Італія
 </description>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">45см</param><article>8666</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">45см</param><article>8666</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1365369189" available="false">
     <url>https://polineo.in.ua/ua/p1365369189-skrebok-dlya-zgonu.html</url>
-    <price>1105.66</price>
+    <price>1134.52</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/2959003899_skrebok-dlya-zgonu.jpg</picture>
@@ -79082,7 +79082,7 @@ pH 4
   <param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>26001</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1448785322" available="false">
     <url>https://polineo.in.ua/ua/p1448785322-trimach-pada-ruchkoyu.html</url>
-    <price>771.83</price>
+    <price>798.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/3231422672_trimach-pada-z.jpg</picture>
@@ -79146,7 +79146,7 @@ pH 4
     <param name="Матеріал">Пластик</param>
     <param name="Колір">Зелений</param>
   <param name="Розмір">-</param><article>10203 С</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1448839243" available="true">
+  <offer id="1448839243" available="false">
     <url>https://polineo.in.ua/ua/p1448839243-abrazivnij-pad.html</url>
     <price>390.31</price>
     <currencyId>UAH</currencyId>
@@ -79174,10 +79174,10 @@ pH 4
 Країна-виробник
 Італія</description>
     <param name="Сидіння для оператора">Ні</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>16045</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>16045</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1448848774" available="false">
     <url>https://polineo.in.ua/ua/p1448848774-abrazivnij-pad-zelenij.html</url>
-    <price>361.44</price>
+    <price>373.99</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/3231650219_abrazivnij-pad-zelenij.jpg</picture>
@@ -152787,7 +152787,7 @@ CHH-7704. Портативний (автономний) мобільний ст�
 
 Країна-виробник: Італія</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">30 см</param><article>1059Y</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2007075199" available="true">
+  <offer id="2007075199" available="false">
     <url>https://polineo.in.ua/ua/p2007075199-skrebok-dlya-zgonu.html</url>
     <price>1079.30</price>
     <currencyId>UAH</currencyId>
@@ -152822,8 +152822,8 @@ CHH-7704. Портативний (автономний) мобільний ст�
 
 
 Країна-виробник: Італія</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>1025B</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2007095237" available="true">
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>1025B</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="2007095237" available="false">
     <url>https://polineo.in.ua/ua/p2007095237-skrebok-dlya-zgonu.html</url>
     <price>1079.30</price>
     <currencyId>UAH</currencyId>
@@ -152858,8 +152858,8 @@ CHH-7704. Портативний (автономний) мобільний ст�
 
 
 Країна-виробник: Італія</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>1025G</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2008370177" available="true">
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>1025G</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="2008370177" available="false">
     <url>https://polineo.in.ua/ua/p2008370177-skrebok-dlya-zgonu.html</url>
     <price>1079.30</price>
     <currencyId>UAH</currencyId>
@@ -152894,7 +152894,7 @@ CHH-7704. Портативний (автономний) мобільний ст�
 
 
 Країна-виробник: Італія</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>1025R</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>1025R</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2008377986" available="false">
     <url>https://polineo.in.ua/ua/p2008377986-skrebok-dlya-zgonu.html</url>
     <price>1079.30</price>
@@ -158244,7 +158244,7 @@ Urinex не можна використовувати для чищення кр
 </description>
     <param name="Колір">Зелений</param>
   <vendor>No Brand</vendor><param name="Розмір">75 см</param><article>1058G</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2361673664" available="true">
+  <offer id="2361673664" available="false">
     <url>https://polineo.in.ua/ua/p2361673664-skrebok-one-piece.html</url>
     <price>2599.11</price>
     <currencyId>UAH</currencyId>
@@ -158280,7 +158280,7 @@ Urinex не можна використовувати для чищення кр
 
 </description>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">75 см</param><article>1058B</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">75 см</param><article>1058B</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2361676691" available="true">
     <url>https://polineo.in.ua/ua/p2361676691-schitka-radial-1019ym.html</url>
     <price>2158.60</price>
@@ -169191,9 +169191,9 @@ o   Країна  ТМ "Apex" — Італія
 
 </description>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1020RM</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2538475927" available="true">
+  <offer id="2538475927" available="false">
     <url>https://polineo.in.ua/ua/p2538475927-skrebok-1124b.html</url>
-    <price>1267.55</price>
+    <price>1268.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/6549816478_skrebok-1124b.jpg</picture>
@@ -169223,7 +169223,7 @@ o   Країна  ТМ "Apex" — Італія
 
 
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1124B</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1124B</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2540295978" available="false">
     <url>https://polineo.in.ua/ua/p2540295978-skrebok-1124g.html</url>
     <price>1185.98</price>
@@ -169259,7 +169259,7 @@ o   Країна  ТМ "Apex" — Італія
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1124G</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2540296919" available="false">
     <url>https://polineo.in.ua/ua/p2540296919-skrebok-1124r.html</url>
-    <price>1267.55</price>
+    <price>1268.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/6549825718_skrebok-1124r.jpg</picture>
@@ -169323,9 +169323,9 @@ o   Країна  ТМ "Apex" — Італія
 
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1127B</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2540298979" available="true">
+  <offer id="2540298979" available="false">
     <url>https://polineo.in.ua/ua/p2540298979-skrebok-1124g.html</url>
-    <price>1267.55</price>
+    <price>1268.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/6549823392_skrebok-1124g.jpg</picture>
@@ -169355,7 +169355,7 @@ o   Країна  ТМ "Apex" — Італія
 
 
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1124GA</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>1124GA</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2540736740" available="true">
     <url>https://polineo.in.ua/ua/p2540736740-skrebok-1127g.html</url>
     <price>256.02</price>
@@ -172399,7 +172399,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>8331YL</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2781044401" available="false">
     <url>https://polineo.in.ua/ua/p2781044401-zyednuvach-dlya-teleskopichnih.html</url>
-    <price>823.28</price>
+    <price>844.62</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/6867259633_zyednuvach-dlya-teleskopichnih.jpg</picture>
@@ -172823,9 +172823,9 @@ o   Країна  ТМ "Apex" — Італія
 	Країна-виробник : Італія
 </description>
   <param name="Колір">Комбінований</param><param name="Розмір">4м</param><article>8922YM</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2789486503" available="true">
+  <offer id="2789486503" available="false">
     <url>https://polineo.in.ua/ua/p2789486503-zyednuvach-dlya-teleskopichnih.html</url>
-    <price>788.88</price>
+    <price>844.62</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/6867259633_zyednuvach-dlya-teleskopichnih.jpg</picture>
@@ -172852,7 +172852,7 @@ o   Країна  ТМ "Apex" — Італія
     <param name="Артикул" unit="">CPA246</param>
     <param name="Длина, см" unit="">35</param>
     <param name="Матеріал" unit="">Пластик АВС</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8548YL</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>8548YL</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2790265387" available="false">
     <url>https://polineo.in.ua/ua/p2790265387-zatiskach-ruchki-s010007.html</url>
     <price>228.41</price>
@@ -175056,9 +175056,9 @@ Dualflow® Plus оснащена найсучаснішими елементам
     <param name="Длина, см" unit="">150</param>
     <param name="Матеріал" unit="">пластик PP-FG синий</param>
   <vendor>No Brand</vendor><param name="Розмір">150см</param><article>1039B</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2800897587" available="true">
+  <offer id="2800897587" available="false">
     <url>https://polineo.in.ua/ua/p2800897587-skrebok-75sm-double.html</url>
-    <price>1367.95</price>
+    <price>1467.10</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/6898958316_skrebok-75sm-double.jpg</picture>
@@ -175105,10 +175105,10 @@ Dualflow® Plus оснащена найсучаснішими елементам
 </description>
     <param name="Довжина ручки" unit="см">75</param>
     <param name="Колір">Зелений</param>
-  <vendor>No Brand</vendor><param name="Розмір">75см</param><article>1027G</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2800898483" available="true">
+  <vendor>No Brand</vendor><param name="Розмір">75см</param><article>1027G</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="2800898483" available="false">
     <url>https://polineo.in.ua/ua/p2800898483-skrebok-75sm-double.html</url>
-    <price>1367.95</price>
+    <price>1467.10</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/6898960414_skrebok-75sm-double.jpg</picture>
@@ -175155,7 +175155,7 @@ Dualflow® Plus оснащена найсучаснішими елементам
 </description>
     <param name="Довжина ручки" unit="см">75</param>
     <param name="Колір">Синій</param>
-  <vendor>No Brand</vendor><param name="Розмір">75см</param><article>1027B</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">75см</param><article>1027B</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2818251766" available="true">
     <url>https://polineo.in.ua/ua/p2818251766-bak-dlya-smittya.html</url>
     <price>4201.74</price>
@@ -195953,7 +195953,7 @@ IBC-контейнер SCHÜTZ RECONTAINER 1000 л — це надійне та 
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>20629</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3008176555" available="true">
     <url>https://polineo.in.ua/ua/p3008176555-trimach-pada-pid.html</url>
-    <price>656.37</price>
+    <price>672.68</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342016</categoryId>
     <picture>https://images.prom.ua/7282039560_trimach-pada-pid.jpg</picture>
