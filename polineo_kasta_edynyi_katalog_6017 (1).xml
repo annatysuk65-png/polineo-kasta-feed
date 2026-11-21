@@ -21174,9 +21174,9 @@ pH - 6,9±1
 Виробник SPLAST
 </description>
   <param name="Колір">Комбінований</param><param name="Розмір">130 см</param><article>U.103</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723884" available="true">
+  <offer id="533723884" available="false">
     <url>https://polineo.in.ua/ua/p533723884-schitka-dlya-pidlogi.html</url>
-    <price>229.67</price>
+    <price>230.92</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/788597819_schitka-dlya-pidlogi.jpg</picture>
@@ -21196,7 +21196,7 @@ pH - 6,9±1
     <param name="Матеріал" unit="">Пластик</param>
     <param name="Тип ворсу" unit="">поливинилхлорид</param>
     <param name="Страна происхождения" unit="">Италия</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>11602</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35см</param><article>11602</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723885" available="false">
     <url>https://polineo.in.ua/ua/p533723885-cusharka-dlya-ruk.html</url>
     <price>9775.20</price>
@@ -69656,9 +69656,9 @@ pH - 7,8±1
 Країна-виробник - Італія
 </description>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Д11630</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1361896710" available="true">
+  <offer id="1361896710" available="false">
     <url>https://polineo.in.ua/ua/p1361896710-sovok.html</url>
-    <price>320.03</price>
+    <price>343.87</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/2946481921_sovok-up.jpg</picture>
@@ -69677,7 +69677,7 @@ pH - 7,8±1
 Вага - кг
 Країна-виробник - Італія
 </description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>11717</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>11717</article><stock_quantity>0</stock_quantity></offer>
 <offer id="1361907978" available="true">
     <url>https://polineo.in.ua/ua/p1361907978-vinichok-dlya-znyattya.html</url>
     <price>1514.79</price>
@@ -138719,9 +138719,9 @@ Ultra Air Pocket
 Країна-виробник
 Італія</description>
   <param name="Колір">Комбінований</param><param name="Розмір">50 см</param><article>0000E120B</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1727986957" available="true">
+  <offer id="1727986957" available="false">
     <url>https://polineo.in.ua/ua/p1727986957-schitka-dlya-pidlogi.html</url>
-    <price>1045.42</price>
+    <price>942.51</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/4139504372_schitka-dlya-pidlogi.jpg</picture>
@@ -138748,7 +138748,7 @@ Ultra Air Pocket
 Країна-виробник
 Італія</description>
     <param name="Застосування">Універсальне</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">50 см</param><article>14001</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">50 см</param><article>14001</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1727994407" available="true">
     <url>https://polineo.in.ua/ua/p1727994407-schitka-dlya-pidlogi.html</url>
     <price>308.73</price>
@@ -194183,9 +194183,9 @@ T7 - Midsize Coreless System
 </description>
     <param name="Колір">Синій</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>20161</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2967988682" available="true">
+  <offer id="2967988682" available="false">
     <url>https://polineo.in.ua/ua/p2967988682-sovok-naboru.html</url>
-    <price>320.03</price>
+    <price>343.87</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341949</categoryId>
     <picture>https://images.prom.ua/7171299112_sovok-do-naboru.jpg</picture>
@@ -194203,7 +194203,7 @@ T7 - Midsize Coreless System
 Матеріал: пластик, гума
 
 Виробник: TM APEX</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Д A11717</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Д A11717</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2968013958" available="true">
     <url>https://polineo.in.ua/ua/p2968013958-yemnist-3000-dvi.html</url>
     <price>29643.10</price>
