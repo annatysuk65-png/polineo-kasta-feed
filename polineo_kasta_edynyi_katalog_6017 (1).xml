@@ -154096,7 +154096,7 @@ CHH-7704. Портативний (автономний) мобільний ст�
 Країна-виробник: Італія</description>
     <param name="Матеріал">Пластик</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>13757</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2021355913" available="true">
+  <offer id="2021355913" available="false">
     <url>https://polineo.in.ua/ua/p2021355913-mishki-dlya-smittya.html</url>
     <price>758.02</price>
     <currencyId>UAH</currencyId>
@@ -154122,7 +154122,7 @@ CHH-7704. Портативний (автономний) мобільний ст�
 
 
 Країна-виробник: Великобританія</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CW0173</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>CW0173</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2021664142" available="true">
     <url>https://polineo.in.ua/ua/p2021664142-mishki-dlya-smittya.html</url>
     <price>1858.66</price>
