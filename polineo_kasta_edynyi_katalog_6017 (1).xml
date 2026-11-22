@@ -23342,9 +23342,9 @@ Tовщина корпусу — 1,5 мм
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="см">16.4</param>
   <param name="Розмір">-</param><article>M03AB</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533724126" available="true">
+  <offer id="533724126" available="false">
     <url>https://polineo.in.ua/ua/p533724126-rushniki-promislovi-protirkovi.html</url>
-    <price>1295.16</price>
+    <price>1383.01</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/788602215_rushniki-promislovi-protirkovi.jpg</picture>
@@ -23379,7 +23379,7 @@ Tовщина корпусу — 1,5 мм
 </description>
     <param name="Матеріал основи">Целюлоза</param>
     <param name="Колір">Білий</param>
-  <param name="Розмір">-</param><article>160000</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>160000</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724127" available="true">
     <url>https://polineo.in.ua/ua/p533724127-schitka-dlya-unitazu.html</url>
     <price>3664.60</price>
@@ -69952,7 +69952,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>P187</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1362456265" available="false">
     <url>https://polineo.in.ua/ua/p1362456265-rushniki-promislovi-protiralni.html</url>
-    <price>1123.23</price>
+    <price>1326.54</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/2948132176_rushniki-promislovi-protiralni.jpg</picture>
@@ -70010,7 +70010,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>160020</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1362473906" available="false">
     <url>https://polineo.in.ua/ua/p1362473906-rushniki-promislovi-protiralni.html</url>
-    <price>1135.78</price>
+    <price>1216.10</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341985</categoryId>
     <picture>https://images.prom.ua/2948132176_rushniki-promislovi-protiralni.jpg</picture>
