@@ -5200,9 +5200,9 @@ CE, UL, СВ, RoHS.</description>
     <param name="Тип дозатора" unit="">Локтевой, наливной</param>
     <param name="Цвет / Покрытие" unit="">Белый</param>
   <param name="Розмір">-</param><article>S5М</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720785" available="true">
+  <offer id="533720785" available="false">
     <url>https://polineo.in.ua/ua/p533720785-dozator-ridkogo-mila.html</url>
-    <price>2354.38</price>
+    <price>2880.23</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/2989224018_dozator-ridkogo-mila.jpg</picture>
@@ -5248,7 +5248,7 @@ CE, UL, СВ, RoHS.</description>
     <param name="Наличие ключа " unit="">Да</param>
     <param name="Тип дозатора" unit="">Кнопочный, наливной</param>
     <param name="Цвет / Покрытие" unit="">Прозрачный</param>
-  <param name="Розмір">-</param><article>562satin</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>562satin</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720787" available="false">
     <url>https://polineo.in.ua/ua/p533720787-trimach-rizanogo-tualetnogo.html</url>
     <price>6377.91</price>
@@ -5421,9 +5421,9 @@ pH - 10,5 ± 1
 </description>
     <param name="Тип ручки">цілісна</param>
   <param name="Колір">Комбінований</param><param name="Розмір">25 см</param><article>PCE525</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720796" available="true">
+  <offer id="533720796" available="false">
     <url>https://polineo.in.ua/ua/p533720796-dozator-ridkogo-mila.html</url>
-    <price>1853.64</price>
+    <price>2264.02</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/3070283260_dozator-ridkogo-mila.jpg</picture>
@@ -5463,7 +5463,7 @@ pH - 10,5 ± 1
     <param name="Страна происхождения" unit="">Италия</param>
     <param name="Тип дозатора" unit="">Кнопочный, наливной</param>
     <param name="Цвет / Покрытие" unit="">Прозрачный</param>
-  <param name="Колір">Прозорий</param><param name="Розмір">-</param><article>562T</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Прозорий</param><param name="Розмір">-</param><article>562T</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720797" available="true">
     <url>https://polineo.in.ua/ua/p533720797-tualetnij-papir-ruloni.html</url>
     <price>945.02</price>
@@ -5828,9 +5828,9 @@ pH - 10,5 ± 1
     <param name="Объем, л" unit="">4</param>
     <param name="Материал корпуса" unit="">Пластик</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3361</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533720819" available="true">
+  <offer id="533720819" available="false">
     <url>https://polineo.in.ua/ua/p533720819-trimach-paperovih-rulonnih.html</url>
-    <price>8062.12</price>
+    <price>8615.58</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/788571022_trimach-paperovih-rulonnih.jpg</picture>
@@ -5857,7 +5857,7 @@ pH - 10,5 ± 1
     <param name="Вес (кг)" unit="">3,1</param>
     <param name="Дополнительные характеристики" unit="">Подходят рулонные полотенца с вытяжной гильзой диаметром до 250 мм</param>
     <param name="Размеры, мм" unit="">261х261х365 мм</param>
-  <param name="Розмір">-</param><article>DT0303</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>DT0303</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720820" available="false">
     <url>https://polineo.in.ua/ua/p533720820-dozator-ridkogo-mila.html</url>
     <price>3505.22</price>
@@ -7904,7 +7904,7 @@ pH - 6,8 ± 1
   <param name="Розмір">-</param><article>ES0010B</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533721443" available="false">
     <url>https://polineo.in.ua/ua/p533721443-trimach-paperovih-rulonnih.html</url>
-    <price>3590.56</price>
+    <price>3717.31</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/788575711_trimach-paperovih-rulonnih.jpg</picture>
@@ -8349,7 +8349,7 @@ Tовщина корпусу — 3 мм пластик
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40см</param><article>0691</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533721508" available="true">
     <url>https://polineo.in.ua/ua/p533721508-dozator-mila-ridkogo.html</url>
-    <price>1448.27</price>
+    <price>1770.81</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/2989304143_dozator-mila-ridkogo.jpg</picture>
@@ -10602,7 +10602,7 @@ pH - 9,0 ± 1
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>6410</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722092" available="false">
     <url>https://polineo.in.ua/ua/p533722092-trimach-paperovih-rushnikiv.html</url>
-    <price>2871.44</price>
+    <price>3505.22</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/788581718_trimach-paperovih-rushnikiv.jpg</picture>
@@ -15306,9 +15306,9 @@ pH - 8,2±1
     <param name="Об`єм" unit="л">120</param>
     <param name="Колір">Білий</param>
   <param name="Розмір">-</param><article>0W004660</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533723051" available="true">
+  <offer id="533723051" available="false">
     <url>https://polineo.in.ua/ua/p533723051-dozator-mila-ridkogo.html</url>
-    <price>1767.04</price>
+    <price>2148.56</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/2989304143_dozator-mila-ridkogo.jpg</picture>
@@ -15347,7 +15347,7 @@ pH - 8,2±1
     <param name="Наличие ключа " unit="">Да</param>
     <param name="Тип дозатора" unit="">Кнопочный, наливной</param>
     <param name="Цвет / Покрытие" unit="">Прозрачный глянец</param>
-  <param name="Розмір">-</param><article>605C</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>605C</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723054" available="true">
     <url>https://polineo.in.ua/ua/p533723054-dozator-mila-pini.html</url>
     <price>2715.82</price>
@@ -21035,9 +21035,9 @@ pH - 6,9±1
  </description>
     <param name="Особливість засобу">Неорганічне</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Фламенко (5шт)</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723872" available="true">
+  <offer id="533723872" available="false">
     <url>https://polineo.in.ua/ua/p533723872-trimach-paperovih-rushnikiv.html</url>
-    <price>2085.81</price>
+    <price>2571.50</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/2990634050_trimach-paperovih-rushnikiv.jpg</picture>
@@ -21067,7 +21067,7 @@ pH - 6,9±1
     <param name="Тип используемых полотенец" unit="">Z, V, C</param>
     <param name="Цвет / Покрытие" unit="">Прозрачный</param>
     <param name="Ширина пачки, мм" unit="">110</param>
-  <param name="Розмір">-</param><article>696</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>696</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723874" available="true">
     <url>https://polineo.in.ua/ua/p533723874-zahvat-kutovij-metal.html</url>
     <price>4762.73</price>
@@ -24096,7 +24096,7 @@ pH - 9,9 ± 1
   <param name="Розмір">-</param><article>Сорго</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724216" available="true">
     <url>https://polineo.in.ua/ua/p533724216-dozator-mila-ridkogo.html</url>
-    <price>1770.81</price>
+    <price>1893.80</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341986</categoryId>
     <picture>https://images.prom.ua/2989312562_dozator-mila-ridkogo.jpg</picture>
@@ -24863,7 +24863,7 @@ pH - 9,9 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>L-2160</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724267" available="false">
     <url>https://polineo.in.ua/ua/p533724267-trimach-paperovih-rushnikiv.html</url>
-    <price>3337.05</price>
+    <price>3938.19</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/788604642_trimach-paperovih-rushnikiv.jpg</picture>
@@ -25050,7 +25050,7 @@ pH - 9,9 ± 1
   <param name="Розмір">50см</param><article>MW.19</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724322" available="false">
     <url>https://polineo.in.ua/ua/p533724322-trimach-paperovih-rushnikiv.html</url>
-    <price>5837.01</price>
+    <price>6236.10</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/788593863_trimach-paperovih-rushnikiv.jpg</picture>
@@ -28674,7 +28674,7 @@ Tовщина корпусу — 1,5 мм
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>50902</article><stock_quantity>50</stock_quantity></offer>
   <offer id="667501473" available="false">
     <url>https://polineo.in.ua/ua/p667501473-trimach-paperovih-rulonnih.html</url>
-    <price>2026.83</price>
+    <price>2466.08</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/1089363781_trimach-paperovih-rulonnih.jpg</picture>
@@ -28700,7 +28700,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Колір">Білий</param>
     <param name="Розміщення тримача" unit="">Настенное</param>
   <param name="Розмір">-</param><article>768</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="667507821" available="true">
+  <offer id="667507821" available="false">
     <url>https://polineo.in.ua/ua/p667507821-a83001easy-trimach-paperovih.html</url>
     <price>2589.07</price>
     <currencyId>UAH</currencyId>
@@ -28725,7 +28725,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Матеріал">Пластик</param>
     <param name="Колір">Білий</param>
     <param name="Розміщення тримача" unit="">Настенное</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>A83001EASY</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>A83001EASY</article><stock_quantity>0</stock_quantity></offer>
   <offer id="667517937" available="true">
     <url>https://polineo.in.ua/ua/p667517937-trimach-paperovih-rulonnih.html</url>
     <price>8547.81</price>
@@ -28809,7 +28809,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D-410C</article><stock_quantity>50</stock_quantity></offer>
   <offer id="667569703" available="false">
     <url>https://polineo.in.ua/ua/p667569703-trimach-paperovih-rushnikiv.html</url>
-    <price>1105.66</price>
+    <price>2360.66</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/1089511769_trimach-paperovih-rushnikiv.jpg</picture>
@@ -28835,9 +28835,9 @@ Tовщина корпусу — 1,5 мм
     <param name="Матеріал">Нержавіюча сталь</param>
     <param name="Розміщення тримача" unit="">Настенное</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D-410S</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="668778541" available="true">
+  <offer id="668778541" available="false">
     <url>https://polineo.in.ua/ua/p668778541-trimach-paperovih-rushnikiv.html</url>
-    <price>1922.66</price>
+    <price>2051.93</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/7684233356_trimach-paperovih-rushnikiv.jpg</picture>
@@ -28861,7 +28861,7 @@ Tовщина корпусу — 1,5 мм
     <param name="Матеріал">Метал</param>
     <param name="Колір">Чорний</param>
     <param name="Розміщення тримача" unit="">Настенное</param>
-  <param name="Розмір">-</param><article>D-401Black</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>D-401Black</article><stock_quantity>0</stock_quantity></offer>
   <offer id="668852293" available="true">
     <url>https://polineo.in.ua/ua/p668852293-trimach-paperovih-rushnikiv.html</url>
     <price>1396.82</price>
@@ -43456,9 +43456,9 @@ CHH20
     <param name="Матеріал">Пластик</param>
     <param name="Колір">Чорний</param>
   <param name="Розмір">-</param><article>592BLACK</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="868124983" available="true">
+  <offer id="868124983" available="false">
     <url>https://polineo.in.ua/ua/p868124983-trimach-paperovih-rushnikiv.html</url>
-    <price>2589.07</price>
+    <price>2766.02</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/1535217104_trimach-paperovih-rushnikiv.jpg</picture>
@@ -43481,7 +43481,7 @@ CHH20
 </description>
     <param name="Колір">Білий</param>
     <param name="Матеріал">Пластик</param>
-  <param name="Розмір">-</param><article>A83001EASY</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>A83001EASY</article><stock_quantity>0</stock_quantity></offer>
   <offer id="868127971" available="false">
     <url>https://polineo.in.ua/ua/p868127971-trimach-paperovih-rushnikiv.html</url>
     <price>4643.50</price>
@@ -48989,7 +48989,7 @@ pH - 9
   <param name="Колір">Нержавіюча сталь</param><param name="Розмір">-</param><article>Мальборо</article><stock_quantity>0</stock_quantity></offer>
   <offer id="899235006" available="false">
     <url>https://polineo.in.ua/ua/p899235006-trimach-paperovih-rulonnih.html</url>
-    <price>9967.21</price>
+    <price>11795.75</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/1609465223_trimach-paperovih-rulonnih.jpg</picture>
@@ -54454,7 +54454,7 @@ LUXURY Fashion з вишуканим ароматом і ніжним рожев
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SoffioneC</article><stock_quantity>50</stock_quantity></offer>
   <offer id="949149410" available="false">
     <url>https://polineo.in.ua/ua/p949149410-trimach-paperovih-rulonnih.html</url>
-    <price>9967.21</price>
+    <price>11795.75</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/788581076_trimach-paperovih-rulonnih.jpg</picture>
@@ -65173,9 +65173,9 @@ pH - 7,5
     <param name="Матеріал">Пластик</param>
     <param name="Колір">Білий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>A70821</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1351402227" available="true">
+  <offer id="1351402227" available="false">
     <url>https://polineo.in.ua/ua/p1351402227-trimach-paperovih-rushnikiv.html</url>
-    <price>1175.94</price>
+    <price>1436.98</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/2910947600_trimach-paperovih-rushnikiv.jpg</picture>
@@ -65207,7 +65207,7 @@ pH - 7,5
 Країна-виробник - Італія</description>
     <param name="Матеріал">Пластик</param>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>A83801</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>A83801</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1351403782" available="false">
     <url>https://polineo.in.ua/ua/p1351403782-trimach-paperovih-rulonnih.html</url>
     <price>11766.88</price>
@@ -65440,7 +65440,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>D401White</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1352178722" available="false">
     <url>https://polineo.in.ua/ua/p1352178722-trimach-paperovih-rushnikiv.html</url>
-    <price>1631.50</price>
+    <price>1708.06</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/2913248686_trimach-paperovih-rushnikiv.jpg</picture>
@@ -65518,7 +65518,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>D410White</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1352182013" available="false">
     <url>https://polineo.in.ua/ua/p1352182013-trimach-paperovih-rushnikiv.html</url>
-    <price>3337.05</price>
+    <price>3938.19</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/2913260117_trimach-paperovih-rushnikiv.jpg</picture>
@@ -65551,7 +65551,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>DT2106</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1352183854" available="false">
     <url>https://polineo.in.ua/ua/p1352183854-trimach-paperovih-rushnikiv.html</url>
-    <price>5268.49</price>
+    <price>6236.10</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/2913266872_trimach-paperovih-rushnikiv.jpg</picture>
@@ -68698,7 +68698,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>A92813BM</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1359764878" available="false">
     <url>https://polineo.in.ua/ua/p1359764878-dozator-dlya-dezinfikuyuchogo.html</url>
-    <price>10784.22</price>
+    <price>12765.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494015</categoryId>
     <picture>https://images.prom.ua/2910764943_dozator-dlya-dezinfikuyuchogo.jpg</picture>
@@ -68725,7 +68725,7 @@ pH - 7,5
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>DJS0039ACS</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1359767590" available="false">
     <url>https://polineo.in.ua/ua/p1359767590-dozator-dlya-dezinfikuyuchogo.html</url>
-    <price>11879.83</price>
+    <price>14050.98</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494015</categoryId>
     <picture>https://images.prom.ua/2910764943_dozator-dlya-dezinfikuyuchogo.jpg</picture>
@@ -75368,7 +75368,7 @@ EU, OC стандарти безпеки
 </description>
     <param name="Колір">Білий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>3430</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1400449492" available="true">
+  <offer id="1400449492" available="false">
     <url>https://polineo.in.ua/ua/p1400449492-dozator-mila-ridkogo.html</url>
     <price>1748.22</price>
     <currencyId>UAH</currencyId>
@@ -75392,7 +75392,7 @@ EU, OC стандарти безпеки
 Країна-виробник - Італія
 </description>
     <param name="Колір">Сріблястий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>605S</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>605S</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1400456231" available="true">
     <url>https://polineo.in.ua/ua/p1400456231-dozator-ridkogo-mila.html</url>
     <price>2103.38</price>
@@ -81383,7 +81383,7 @@ pH - 4
   <param name="Розмір">-</param><article>A59201</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1587010578" available="false">
     <url>https://polineo.in.ua/ua/p1587010578-trimach-paperovih-rushnikiv.html</url>
-    <price>2796.14</price>
+    <price>2985.65</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/3680677776_trimach-paperovih-rushnikiv.jpg</picture>
@@ -81419,9 +81419,9 @@ pH - 4
     <param name="Матеріал">Пластик</param>
     <param name="Колір">Чорний</param>
   <param name="Розмір">-</param><article>A59213</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1587082572" available="true">
+  <offer id="1587082572" available="false">
     <url>https://polineo.in.ua/ua/p1587082572-trimach-paperovih-rushnikiv.html</url>
-    <price>3112.40</price>
+    <price>3796.38</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/3680965866_trimach-paperovih-rushnikiv.jpg</picture>
@@ -81453,7 +81453,7 @@ pH - 4
 Країна-виробник: Італія</description>
     <param name="Матеріал">Пластик</param>
     <param name="Колір">Сріблястий</param>
-  <param name="Розмір">-</param><article>A69511SAT</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>A69511SAT</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1587114238" available="true">
     <url>https://polineo.in.ua/ua/p1587114238-trimach-paperovih-rushnikiv.html</url>
     <price>1788.38</price>
@@ -132969,7 +132969,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <param name="Диаметр" unit="">12.5</param>
     <param name="Довжина" unit="">20</param>
   <param name="Колір">Комбінований</param><param name="Розмір">5 мм</param><article>12056</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1630171060" available="true">
+  <offer id="1630171060" available="false">
     <url>https://polineo.in.ua/ua/p1630171060-shlang-d125-select.html</url>
     <price>3549.14</price>
     <currencyId>UAH</currencyId>
@@ -133017,7 +133017,7 @@ Hozelock — інноваційна компанія, перша у світі, 
     <param name="Кількість шарів">4</param>
     <param name="Матеріал шланга">ПВХ</param>
     <param name="Стан">Новий</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">5 мм</param><article>12057</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">5 мм</param><article>12057</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630171061" available="false">
     <url>https://polineo.in.ua/ua/p1630171061-shlang-d19-select.html</url>
     <price>4640.99</price>
@@ -138873,9 +138873,9 @@ Ultra Air Pocket
     <param name="Тип резервуара за способом встановлення" unit="">Горизонтальный</param>
     <param name="Ширина" unit="">1600</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>12889</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1728825754" available="true">
+  <offer id="1728825754" available="false">
     <url>https://polineo.in.ua/ua/p1728825754-dozator-dlya-dezinfikuvalnogo.html</url>
-    <price>11215.94</price>
+    <price>13267.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494015</categoryId>
     <picture>https://images.prom.ua/4142166230_dozator-dlya-dezinfikuvalnogo.jpg</picture>
@@ -138923,10 +138923,10 @@ Ultra Air Pocket
 
 Країна-виробник
 Іспанія</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>DJS0039A</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>DJS0039A</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1728826277" available="false">
     <url>https://polineo.in.ua/ua/p1728826277-dozator-dlya-dezinfikuvalnogo.html</url>
-    <price>11215.94</price>
+    <price>13267.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494015</categoryId>
     <picture>https://images.prom.ua/4142167958_dozator-dlya-dezinfikuvalnogo.jpg</picture>
@@ -138977,7 +138977,7 @@ Ultra Air Pocket
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>DJS0039AB</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1728826468" available="false">
     <url>https://polineo.in.ua/ua/p1728826468-dozator-dlya-dezinfikuvalnogo.html</url>
-    <price>10784.22</price>
+    <price>12765.86</price>
     <currencyId>UAH</currencyId>
     <categoryId>36494015</categoryId>
     <picture>https://images.prom.ua/4142169634_dozator-dlya-dezinfikuvalnogo.jpg</picture>
@@ -168729,7 +168729,7 @@ o   Країна  ТМ "Apex" — Італія
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>B008</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2511030999" available="false">
     <url>https://polineo.in.ua/ua/p2511030999-trimach-paperovih-rulonnih.html</url>
-    <price>3230.37</price>
+    <price>3629.46</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341997</categoryId>
     <picture>https://images.prom.ua/6508291990_trimach-paperovih-rulonnih.jpg</picture>
@@ -169981,7 +169981,7 @@ o   Країна  ТМ "Apex" — Італія
 
 </description>
   <param name="Колір">Комбінований</param><param name="Розмір">45х15 см</param><article>Д 09920</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2591183139" available="false">
+  <offer id="2591183139" available="true">
     <url>https://polineo.in.ua/ua/p2591183139-dozator-ridkogo-mila.html</url>
     <price>2061.97</price>
     <currencyId>UAH</currencyId>
@@ -170042,7 +170042,7 @@ o   Країна  ТМ "Apex" — Італія
     <param name="Ширина" unit="см">9.5</param>
     <param name="Материал корпуса" unit="">белый ударопрочный пластик</param>
     <param name="Призначення" unit="">Дозатор жидкого мыла предназначен для работы с жидкостями любой вязкости</param>
-  <param name="Розмір">-</param><article>A56111W2</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Розмір">-</param><article>A56111W2</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2614551493" available="false">
     <url>https://polineo.in.ua/ua/p2614551493-urna-pedallyu-sirius.html</url>
     <price>1738.18</price>
@@ -185841,7 +185841,7 @@ T7 - Midsize Coreless System
 
 Корпус виготовлений із міцних металевих матеріалів, що забезпечують довговічність, зносостійкість і стійкість до впливу зовнішнього середовища. Регулятор простий у встановленні та зручний в експлуатації, що робить його практичним рішенням для щоденного використання вдома або на дачі.</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>20824</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2929824139" available="true">
+  <offer id="2929824139" available="false">
     <url>https://polineo.in.ua/ua/p2929824139-kontejner-fresh-box.html</url>
     <price>702.80</price>
     <currencyId>UAH</currencyId>
@@ -185875,7 +185875,7 @@ T7 - Midsize Coreless System
     <sales_notes>мин. партия товара 6 шт.</sales_notes>
     <param name="Матеріал">Поліпропілен</param>
     <param name="Тип">Кришка</param>
-  <param name="Колір">Прозорий</param><param name="Розмір">-</param><article>5217</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Прозорий</param><param name="Розмір">-</param><article>5217</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2932019791" available="true">
     <url>https://polineo.in.ua/ua/p2932019791-grabli-plastikovi-kvadratnij.html</url>
     <price>234.69</price>
