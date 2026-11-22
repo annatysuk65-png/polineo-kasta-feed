@@ -5639,9 +5639,9 @@ pH - 10,5 ± 1
     <param name="Колір">Білий</param>
     <param name="Вид кошика">Для сміття</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>544MA</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533720808" available="true">
+  <offer id="533720808" available="false">
     <url>https://polineo.in.ua/ua/p533720808-servetki-stolovi-sharovi.html</url>
-    <price>31.17</price>
+    <price>33.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/2951842692_servetki-stolovi-2-sharovi.jpg</picture>
@@ -5670,7 +5670,7 @@ pH - 10,5 ± 1
     <param name="Матеріал серветки">Целюлоза</param>
     <param name="Колір">Білий</param>
     <param name="Вид серветок">Столові</param>
-  <param name="Розмір">-</param><article>C52</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>C52</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720809" available="true">
     <url>https://polineo.in.ua/ua/p533720809-dozator-ridkogo-mila.html</url>
     <price>2141.03</price>
@@ -6321,9 +6321,9 @@ pH - 10,5 ± 1
     <param name="Тип дозатора" unit="">Кнопочный, наливной</param>
     <param name="Цвет / Покрытие" unit="">Матовый</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>F.5-CM</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720845" available="true">
+  <offer id="533720845" available="false">
     <url>https://polineo.in.ua/ua/p533720845-servetki-sharovi-500sht.html</url>
-    <price>155.87</price>
+    <price>166.16</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/2951814521_servetki-1-sharovi-500sht.jpg</picture>
@@ -6351,7 +6351,7 @@ pH - 10,5 ± 1
  </description>
     <param name="Матеріал серветки">Целюлоза</param>
     <param name="Колір">Білий</param>
-  <param name="Розмір">-</param><article>С501</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>С501</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720852" available="true">
     <url>https://polineo.in.ua/ua/p533720852-dozator-mila-pini.html</url>
     <price>592.36</price>
@@ -8473,9 +8473,9 @@ Tовщина корпусу — 3 мм пластик
     <param name="Цвет / Покрытие" unit="">Гнянцевая</param>
     <param name="Дополнительные характеристики" unit="">Напольная настенная</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ES0965C</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="533721532" available="true">
+  <offer id="533721532" available="false">
     <url>https://polineo.in.ua/ua/p533721532-servetki-kosmetichni-dlya.html</url>
-    <price>95.38</price>
+    <price>97.89</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/788576455_servetki-kosmetichni-dlya.jpg</picture>
@@ -8505,7 +8505,7 @@ Tовщина корпусу — 3 мм пластик
     <param name="Размер,см" unit="">19,5*22,5</param>
     <param name="Количество листов" unit="">80</param>
     <param name="Матеріал" unit="">Целлюлоза</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S780</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S780</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533721543" available="false">
     <url>https://polineo.in.ua/ua/p533721543-profesijnij-sovok-dlya.html</url>
     <price>2905.33</price>
@@ -26780,7 +26780,7 @@ pH - 12,1 ± 1
   <vendor>No Brand</vendor><param name="Розмір">50 см</param><article>0543</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724468" available="false">
     <url>https://polineo.in.ua/ua/p533724468-servetki-sharovi-400sht.html</url>
-    <price>193.27</price>
+    <price>205.82</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/788571580_servetki-2-sharovi-400sht.jpg</picture>
@@ -70062,9 +70062,9 @@ pH - 7,8±1
 </description>
     <param name="Колір">Білий</param>
   <vendor>No Brand</vendor><param name="Розмір">23Х25см</param><article>165000</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1362570273" available="true">
+  <offer id="1362570273" available="false">
     <url>https://polineo.in.ua/ua/p1362570273-servetki-stolovi-24h25sm.html</url>
-    <price>140.56</price>
+    <price>150.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/2948498815_servetki-stolovi-24h25sm.jpg</picture>
@@ -70085,10 +70085,10 @@ pH - 7,8±1
 Відпускна одиниця - пачка
 Країна-виробник - Україна
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">24Х25см</param><article>C104</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">24Х25см</param><article>C104</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1362585217" available="false">
     <url>https://polineo.in.ua/ua/p1362585217-servetki-stolovi-fasto.html</url>
-    <price>1213.59</price>
+    <price>1302.69</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/2948543358_servetki-stolovi-fasto.jpg</picture>
@@ -70218,7 +70218,7 @@ pH - 7,8±1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45см</param><article>8262</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1363277435" available="false">
     <url>https://polineo.in.ua/ua/p1363277435-servetki-stolovi-fasto.html</url>
-    <price>1327.79</price>
+    <price>1426.94</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/2948543358_servetki-stolovi-fasto.jpg</picture>
@@ -70244,9 +70244,9 @@ pH - 7,8±1
 Страна-производитель - Украина
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>C230</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1363279406" available="true">
+  <offer id="1363279406" available="false">
     <url>https://polineo.in.ua/ua/p1363279406-servetki-stolovi-fasto.html</url>
-    <price>1139.54</price>
+    <price>1223.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/2948543358_servetki-stolovi-fasto.jpg</picture>
@@ -70269,10 +70269,10 @@ pH - 7,8±1
 Відпускна одиниця - ящик
 Країна-виробник - Україна
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>C250</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>C250</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1363285917" available="false">
     <url>https://polineo.in.ua/ua/p1363285917-servetki-stolovi.html</url>
-    <price>509.53</price>
+    <price>545.93</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/2951802495_servetki-stolovi.jpg</picture>
@@ -70321,9 +70321,9 @@ pH - 7,8±1
 Країна-виробник - Україна
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S880</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1363443437" available="true">
+  <offer id="1363443437" available="false">
     <url>https://polineo.in.ua/ua/p1363443437-servetki-kosmetichni.html</url>
-    <price>69.28</price>
+    <price>74.05</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/2952239578_servetki-kosmetichni.jpg</picture>
@@ -70345,10 +70345,10 @@ pH - 7,8±1
 Відпускна одиниця - пачка
 Країна-виробник - Україна
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S899</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1363451538" available="true">
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S899</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="1363451538" available="false">
     <url>https://polineo.in.ua/ua/p1363451538-servetki-kosmetichni-logo.html</url>
-    <price>71.87</price>
+    <price>76.56</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341984</categoryId>
     <picture>https://images.prom.ua/2952283279_servetki-kosmetichni-no.jpg</picture>
@@ -70371,7 +70371,7 @@ pH - 7,8±1
 Відпускна одиниця - коробочка
 Країна-виробник - Україна
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S980</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S980</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1363457462" available="false">
     <url>https://polineo.in.ua/ua/p1363457462-servetki-kosmetichni-premium.html</url>
     <price>96.64</price>
