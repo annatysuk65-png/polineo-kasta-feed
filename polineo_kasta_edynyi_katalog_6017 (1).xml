@@ -24415,7 +24415,7 @@ pH - 9,9 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">75 см</param><article>MF-75-ECO</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724241" available="false">
     <url>https://polineo.in.ua/ua/p533724241-zahoplennya-vidkidnij-800mm.html</url>
-    <price>10449.13</price>
+    <price>12369.28</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342006</categoryId>
     <picture>https://images.prom.ua/2931810675_zahoplennya-vidkidnij-800mm.jpg</picture>
@@ -31776,7 +31776,7 @@ Tовщина корпусу — 1,5 мм
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>BAD090</article><stock_quantity>50</stock_quantity></offer>
   <offer id="683873784" available="false">
     <url>https://polineo.in.ua/ua/p683873784-poruchen-dlya-osib.html</url>
-    <price>12802.26</price>
+    <price>15145.34</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342006</categoryId>
     <picture>https://images.prom.ua/1119204966_poruchen-dlya-osib.jpg</picture>
@@ -45579,7 +45579,7 @@ pH - 12,5 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S.EX.A.5027</article><stock_quantity>0</stock_quantity></offer>
   <offer id="871287346" available="false">
     <url>https://polineo.in.ua/ua/p871287346-zasib-miyuchij-zasib.html</url>
-    <price>395.33</price>
+    <price>445.53</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342017</categoryId>
     <picture>https://images.prom.ua/2965905748_zasib-miyuchij-zasib.jpg</picture>
@@ -181282,7 +181282,7 @@ W3- Протиральні матеріали у коробі з відбірк�
 </description>
     <param name="Об`єм" unit="мл">1000</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>101472-001-000</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="2871076159" available="true">
+  <offer id="2871076159" available="false">
     <url>https://polineo.in.ua/ua/p2871076159-zasib-mijnij-dezinfektsijnim.html</url>
     <price>2025.57</price>
     <currencyId>UAH</currencyId>
@@ -181304,7 +181304,7 @@ W3- Протиральні матеріали у коробі з відбірк�
 	Об `єм 5 л Склад 5-15%: к-ПАР; &amp;lt;5%: н-ПАР, комплексоутворювачі, органічні розчинники. Додаткові компоненти: стабілізатори, консерванти. Не містить сполук фосфору. Розведення для машинного миття або миття вручну: використовують 0,5-2,5% розчин (50-250 мл засобу на 10 л води), залежно від ступеню забруднення; для розпилу: використовують 3% розчин (приблизно 20 мл концентрату на 750 мл води). pH 10,2±1 Аромат немає Країна-виробник Італія
 </description>
     <param name="Об`єм" unit="мл">5000</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SI/AL.S 5л</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SI/AL.S 5л</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2871772835" available="true">
     <url>https://polineo.in.ua/ua/p2871772835-trimach-servetok-stolovih.html</url>
     <price>1762.02</price>
