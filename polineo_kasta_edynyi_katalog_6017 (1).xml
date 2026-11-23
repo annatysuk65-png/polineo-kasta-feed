@@ -26118,7 +26118,7 @@ pH - 2,3 ± 1
     <param name="Артикул" unit="">1900</param>
     <param name="Материал корпуса" unit="">Пластик</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>1900</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533724414" available="true">
+  <offer id="533724414" available="false">
     <url>https://polineo.in.ua/ua/p533724414-kij-alyuminiyevij-teleskopichnij.html</url>
     <price>5773.00</price>
     <currencyId>UAH</currencyId>
@@ -26143,7 +26143,7 @@ pH - 2,3 ± 1
     <param name="Количество в упаковке, шт" unit="">6</param>
     <param name="Матеріал" unit="">Алюминий</param>
     <param name="Страна происхождения" unit="">Италия</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">9м</param><article>FRA-11531</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">9м</param><article>FRA-11531</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533724416" available="false">
     <url>https://polineo.in.ua/ua/p533724416-mop-zapaska-60sm.html</url>
     <price>596.13</price>
@@ -205387,7 +205387,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3270106441</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
-  <offer id="3272836972" available="true">
+  <offer id="3272836972" available="false">
     <url>https://polineo.in.ua/ua/p3272836972-schitka-dlya-mittya.html</url>
     <price>5459.25</price>
     <currencyId>UAH</currencyId>
@@ -205427,7 +205427,7 @@ Vialli S9B — компактний настінний дозатор для р�
 Підходить для домашнього та професійного використання
 
 </description>
-  <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3272836972</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
+  <stock_quantity>0</stock_quantity><vendor>No Brand</vendor><article>POL-3272836972</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
   <offer id="3278030726" available="true">
