@@ -49624,7 +49624,7 @@ pH - 9
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">9 м</param><article>TUS283</article><stock_quantity>50</stock_quantity></offer>
   <offer id="905713292" available="true">
     <url>https://polineo.in.ua/ua/p905713292-tus284-kij-alyuminiyevij.html</url>
-    <price>7471.02</price>
+    <price>7906.50</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/7045730810_tus284-kij-alyuminiyevij.jpg</picture>
@@ -49765,7 +49765,7 @@ pH - 9
   <param name="Колір">Комбінований</param><param name="Розмір">60 см</param><article>NO038</article><stock_quantity>50</stock_quantity></offer>
   <offer id="907776389" available="true">
     <url>https://polineo.in.ua/ua/p907776389-of321-schitka-dlya.html</url>
-    <price>338.85</price>
+    <price>384.03</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341957</categoryId>
     <picture>https://images.prom.ua/1628520781_of321-schitka-dlya.jpg</picture>
@@ -168814,7 +168814,7 @@ o   Країна  ТМ "Apex" — Італія
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>D483White</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2519325548" available="true">
     <url>https://polineo.in.ua/ua/p2519325548-tablichka-poperedzhuvalna-oberezhno.html</url>
-    <price>395.33</price>
+    <price>496.98</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342004</categoryId>
     <picture>https://images.prom.ua/6518405834_tablichka-poperedzhuvalna-oberezhno.jpg</picture>
@@ -202632,7 +202632,7 @@ Ecolabel - Європейське екологічне маркування Euro
     <param name="Призначення">Універсальне</param>
     <param name="Колір">Чорний</param>
   <param name="Розмір">-</param><article>BAF309</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="3125572353" available="true">
+  <offer id="3125572353" available="false">
     <url>https://polineo.in.ua/ua/p3125572353-sovok-chornij-dlya.html</url>
     <price>577.30</price>
     <currencyId>UAH</currencyId>
@@ -202660,7 +202660,7 @@ Ecolabel - Європейське екологічне маркування Euro
     <param name="Призначення">Універсальне</param>
     <param name="Матеріал робочої частини">Пластик</param>
     <param name="Колір">Чорний</param>
-  <param name="Розмір">-</param><article>BAF308</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>BAF308</article><stock_quantity>0</stock_quantity></offer>
   <offer id="3132169153" available="true">
     <url>https://polineo.in.ua/ua/p3132169153-zapaska-shvabru-zambak.html</url>
     <price>173.19</price>
@@ -204022,7 +204022,7 @@ Ecolabel - Європейське екологічне маркування Euro
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>9312</article><stock_quantity>50</stock_quantity></offer>
   <offer id="3147692692" available="true">
     <url>https://polineo.in.ua/ua/p3147692692-sovok-chornij-dlya.html</url>
-    <price>577.30</price>
+    <price>734.18</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341949</categoryId>
     <picture>https://images.prom.ua/7561694662_sovok-chornij-dlya.jpg</picture>
