@@ -48196,7 +48196,7 @@ pH - 9
     <param name="Тип складання">V (Z-Z)-укладання</param>
     <param name="Колір">Білий</param>
   <param name="Розмір">-</param><article>IMB-406312</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="891280968" available="true">
+  <offer id="891280968" available="false">
     <url>https://polineo.in.ua/ua/p891280968-sredstvo-pleseni-1000.html</url>
     <price>302.46</price>
     <currencyId>UAH</currencyId>
@@ -48216,7 +48216,7 @@ pH - 9
 Виробник: ХАДО
 </description>
     <param name="Об`єм" unit="мл">1000</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>DEZI3</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>DEZI3</article><stock_quantity>0</stock_quantity></offer>
   <offer id="891299527" available="true">
     <url>https://polineo.in.ua/ua/p891299527-zasib-dlya-vidalennya.html</url>
     <price>189.51</price>
