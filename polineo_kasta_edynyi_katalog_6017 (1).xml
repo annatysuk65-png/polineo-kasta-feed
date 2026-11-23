@@ -11381,7 +11381,7 @@ pH - 9,0 ± 1
     <param name="Размер,см" unit="">25*50</param>
     <param name="Матеріал" unit="">белый ударопрочный пластик</param>
   <param name="Розмір">-</param><article>822</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533722151" available="true">
+  <offer id="533722151" available="false">
     <url>https://polineo.in.ua/ua/p533722151-kij-alyuminiyevij-teleskopichnij.html</url>
     <price>3185.19</price>
     <currencyId>UAH</currencyId>
@@ -11409,7 +11409,7 @@ pH - 9,0 ± 1
     <param name="Длина, см" unit="">600</param>
     <param name="Телескопическая штанга" unit="">Да</param>
     <param name="Страна происхождения" unit="">Италия</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">6м</param><article>FRA-11530</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">6м</param><article>FRA-11530</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533722154" available="false">
     <url>https://polineo.in.ua/ua/p533722154-urna-vidkrita-80l.html</url>
     <price>16591.10</price>
@@ -24563,9 +24563,9 @@ pH - 9,9 ± 1
     <param name="Призначення" unit="">сгонка для пола</param>
     <param name="Размер,см" unit="">45</param>
   <param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>MYK502</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533724247" available="false">
+  <offer id="533724247" available="true">
     <url>https://polineo.in.ua/ua/p533724247-rukoyatka-alyuminiyeva-teleskopichna.html</url>
-    <price>3185.19</price>
+    <price>3363.40</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/7045731018_rukoyatka-alyuminiyeva-teleskopichna.jpg</picture>
@@ -24591,7 +24591,7 @@ pH - 9,9 ± 1
     <param name="Телескопическая штанга" unit="">Да</param>
     <param name="Матеріал" unit="">Алюминий</param>
     <param name="Страна происхождения" unit="">Турция</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TUS282</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>TUS282</article><stock_quantity>50</stock_quantity></offer>
   <offer id="533724248" available="false">
     <url>https://polineo.in.ua/ua/p533724248-vidro-sinye-28l.html</url>
     <price>1946.51</price>
@@ -180526,7 +180526,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
 </description>
     <param name="Колір">Білий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>CW0166</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2870748939" available="true">
+  <offer id="2870748939" available="false">
     <url>https://polineo.in.ua/ua/p2870748939-mishki-dlya-smittya.html</url>
     <price>706.57</price>
     <currencyId>UAH</currencyId>
@@ -180561,7 +180561,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
 	Країна-виробник Велика Британія
 </description>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>CW0169</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>CW0169</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2870755792" available="false">
     <url>https://polineo.in.ua/ua/p2870755792-mishki-dlya-smittya.html</url>
     <price>897.33</price>
@@ -205387,7 +205387,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3270106441</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
-  <offer id="3272836972" available="false">
+  <offer id="3272836972" available="true">
     <url>https://polineo.in.ua/ua/p3272836972-schitka-dlya-mittya.html</url>
     <price>5459.25</price>
     <currencyId>UAH</currencyId>
@@ -205427,7 +205427,7 @@ Vialli S9B — компактний настінний дозатор для р�
 Підходить для домашнього та професійного використання
 
 </description>
-  <stock_quantity>0</stock_quantity><vendor>No Brand</vendor><article>POL-3272836972</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
+  <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3272836972</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
   <offer id="3278030726" available="true">
