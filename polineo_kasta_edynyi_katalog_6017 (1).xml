@@ -33271,7 +33271,7 @@ pH - 14
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>100186-014-000</article><stock_quantity>50</stock_quantity></offer>
   <offer id="715054658" available="false">
     <url>https://polineo.in.ua/ua/p715054658-zasib-miyuchij-zasib.html</url>
-    <price>5164.33</price>
+    <price>5470.55</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342017</categoryId>
     <picture>https://images.prom.ua/1186874002_zasib-miyuchij-zasib.jpg</picture>
@@ -45440,7 +45440,7 @@ pH - 11,9 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.CL.NF.5006</article><stock_quantity>0</stock_quantity></offer>
   <offer id="871207448" available="false">
     <url>https://polineo.in.ua/ua/p871207448-zasib-mijnij-hlor.html</url>
-    <price>312.50</price>
+    <price>315.01</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342017</categoryId>
     <picture>https://images.prom.ua/2965905748_zasib-mijnij-hlor.jpg</picture>
@@ -45496,7 +45496,7 @@ pH - 8 ± 1
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>DRYSAN</article><stock_quantity>0</stock_quantity></offer>
   <offer id="871266924" available="false">
     <url>https://polineo.in.ua/ua/p871266924-zasib-miyuchij-dlya.html</url>
-    <price>3219.08</price>
+    <price>3320.73</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342017</categoryId>
     <picture>https://images.prom.ua/1541965173_zasib-miyuchij-dlya.jpg</picture>
@@ -45522,9 +45522,9 @@ pH - 12,5 ± 1
 Країна-виробник - Італія</description>
     <param name="Вага" unit="г">10000</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S.EX.A.5027 10кг</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="871270495" available="true">
+  <offer id="871270495" available="false">
     <url>https://polineo.in.ua/ua/p871270495-zasib-miyuchij-dlya.html</url>
-    <price>415.41</price>
+    <price>444.27</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342017</categoryId>
     <picture>https://images.prom.ua/2966174421_zasib-miyuchij-dlya.jpg</picture>
@@ -45549,7 +45549,7 @@ pH - 12,5 ± 1
 Аромат - немає
 Країна-виробник - Італія</description>
     <param name="Вага" unit="г">1000</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S.EX.A.5027 900г</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>S.EX.A.5027 900г</article><stock_quantity>0</stock_quantity></offer>
   <offer id="871275168" available="false">
     <url>https://polineo.in.ua/ua/p871275168-zasib-miyuchij-dlya.html</url>
     <price>2961.80</price>
@@ -45627,7 +45627,7 @@ pH - 10,2 ± 1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>100008-001-999</article><stock_quantity>50</stock_quantity></offer>
   <offer id="871323641" available="false">
     <url>https://polineo.in.ua/ua/p871323641-zasib-bacy-quart.html</url>
-    <price>2167.39</price>
+    <price>2290.38</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342017</categoryId>
     <picture>https://images.prom.ua/4739364664_zasib-bacy-quart-mijnij.jpg</picture>
@@ -138540,9 +138540,9 @@ Ultra Air Pocket
     <param name="Матеріал">Метал</param>
     <param name="Колір">Чорний</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>D480White</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1726303052" available="true">
+  <offer id="1726303052" available="false">
     <url>https://polineo.in.ua/ua/p1726303052-rozpilyuvach-kurkovij-28400.html</url>
-    <price>65.26</price>
+    <price>82.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341951</categoryId>
     <picture>https://images.prom.ua/4134120764_rozpilyuvach-kurkovij-28400.jpg</picture>
@@ -138565,10 +138565,10 @@ Ultra Air Pocket
 
 Країна-виробник
 Італія</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VELA 28/400 YELLOW</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VELA 28/400 YELLOW</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1726304486" available="false">
     <url>https://polineo.in.ua/ua/p1726304486-rozpilyuvach-kurkovij-28400.html</url>
-    <price>70.28</price>
+    <price>82.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341951</categoryId>
     <picture>https://images.prom.ua/4134124548_rozpilyuvach-kurkovij-28400.jpg</picture>
@@ -138593,9 +138593,9 @@ Ultra Air Pocket
 Італія</description>
     <param name="Колір">Червоний</param>
   <param name="Розмір">-</param><article>VELA 28/400 RED</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1726304497" available="true">
+  <offer id="1726304497" available="false">
     <url>https://polineo.in.ua/ua/p1726304497-rozpilyuvach-kurkovij-28400.html</url>
-    <price>70.28</price>
+    <price>82.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341951</categoryId>
     <picture>https://images.prom.ua/4134124714_rozpilyuvach-kurkovij-28400.jpg</picture>
@@ -138618,10 +138618,10 @@ Ultra Air Pocket
 
 Країна-виробник
 Італія</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VELA 28/400 GREEN</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1726304510" available="true">
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VELA 28/400 GREEN</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="1726304510" available="false">
     <url>https://polineo.in.ua/ua/p1726304510-rozpilyuvach-kurkovij-28400.html</url>
-    <price>65.26</price>
+    <price>82.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341951</categoryId>
     <picture>https://images.prom.ua/4134124927_rozpilyuvach-kurkovij-28400.jpg</picture>
@@ -138644,7 +138644,7 @@ Ultra Air Pocket
 
 Країна-виробник
 Італія</description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VELA 28/400 BLUE</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VELA 28/400 BLUE</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1727968071" available="true">
     <url>https://polineo.in.ua/ua/p1727968071-adapter-merezhevij-dlya.html</url>
     <price>1655.35</price>
@@ -184481,9 +184481,9 @@ T7 - Midsize Coreless System
 	Китай
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SP05 VP 28/410</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2903378999" available="true">
+  <offer id="2903378999" available="false">
     <url>https://polineo.in.ua/ua/p2903378999-rozpilyuvach-kurkovij-28400.html</url>
-    <price>77.81</price>
+    <price>82.83</price>
     <currencyId>UAH</currencyId>
     <categoryId>91572076</categoryId>
     <picture>https://images.prom.ua/7047802913_rozpilyuvach-kurkovij-28400.jpg</picture>
@@ -184516,7 +184516,7 @@ T7 - Midsize Coreless System
 	Країна-виробник
 	Італія
 </description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VELA 28/400 GREEN</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VELA 28/400 GREEN</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2903381017" available="false">
     <url>https://polineo.in.ua/ua/p2903381017-klyuch-dlya-vidkrittya.html</url>
     <price>632.52</price>
