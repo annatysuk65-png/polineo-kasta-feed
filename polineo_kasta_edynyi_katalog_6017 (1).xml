@@ -128789,7 +128789,7 @@ Kaleido від HoZelock 4119-тригерний розпилювач із цік
     <param name="Тип">Віник+совок</param>
     <param name="Колір">Синій</param>
   <param name="Розмір">-</param><article>10717</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1630169509" available="true">
+  <offer id="1630169509" available="false">
     <url>https://polineo.in.ua/ua/p1630169509-mitla-sovkom-planet.html</url>
     <price>345.13</price>
     <currencyId>UAH</currencyId>
@@ -128826,7 +128826,7 @@ Kaleido від HoZelock 4119-тригерний розпилювач із цік
     <param name="Матеріал ручки/черешка">Пластик</param>
     <param name="Призначення">Для прибирання приміщень</param>
     <param name="Тип">Віник+совок</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>10718</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>10718</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630169510" available="false">
     <url>https://polineo.in.ua/ua/p1630169510-mitla-sovkom-planet.html</url>
     <price>555.97</price>
@@ -205707,6 +205707,54 @@ Vialli S9B — компактний настінний дозатор для р�
 
 </description>
   <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3287641012</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
+
+
+  <offer id="3288013754" available="true">
+    <url>https://polineo.in.ua/ua/p3288013754-schitka-dlya-mittya.html</url>
+    <price>3006.98</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>21341958</categoryId>
+    <picture>https://images.prom.ua/7068522151_schitka-dlya-mittya.jpg</picture>
+    <picture>https://images.prom.ua/7026294517_schitka-dlya-mittya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка для миття та чищення сонячних панелей 3 м (набір) 383507280</name>
+    <vendorCode>383507280</vendorCode>
+    <description>Щітка для миття та чищення сонячних панелей 3 м (набір) — ефективний комплект для догляду за сонячними панелями, вікнами, фасадами та іншими поверхнями на висоті.
+
+Телескопічна алюмінієва рукоятка довжиною до 3 м дозволяє очищати поверхні без використання драбин або підйомників. Щітка з м’якою щетиною шириною 60 см дбайливо видаляє пил, бруд і наліт, не пошкоджуючи поверхню сонячних панелей. Водозгін (сквідж) шириною 55 см забезпечує швидке та рівномірне видалення води без розводів.
+
+Комплектація:
+
+
+	
+	Телескопічна алюмінієва рукоятка — 3 м
+	
+	
+	Щітка з м’якою щетиною — 60 см
+	
+	
+	Водозгін (сквідж) — 55 см
+	
+
+
+Переваги:
+
+
+	
+	Безпечне очищення сонячних панелей
+	
+	
+	Легка та міцна алюмінієва конструкція
+	
+	
+	Велика робоча ширина для швидкого миття
+	
+	
+	Підходить для домашнього та професійного використання
+	
+</description>
+  <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3288013754</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
   </offers>
