@@ -205623,9 +205623,9 @@ Vialli S9B — компактний настінний дозатор для р�
 
 </description>
   <stock_quantity>0</stock_quantity><article>POL-3287412960</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
-  <offer id="3287413080" available="true">
+  <offer id="3287413080" available="false">
     <url>https://polineo.in.ua/ua/p3287413080-schitka-dlya-mittya.html</url>
-    <price>4367.40</price>
+    <price>4417.60</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/7917179566_schitka-dlya-mittya.jpg</picture>
@@ -205663,7 +205663,7 @@ Vialli S9B — компактний настінний дозатор для р�
 Підходить для домашнього та професійного використання
 
 </description>
-  <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3287413080</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
+  <stock_quantity>0</stock_quantity><vendor>No Brand</vendor><article>POL-3287413080</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
   <offer id="3287641012" available="true">
