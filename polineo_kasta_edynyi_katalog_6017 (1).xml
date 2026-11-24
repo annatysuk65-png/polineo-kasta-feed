@@ -17499,7 +17499,7 @@ EAN код: 8020090027093
     <param name="Назначение" unit="">Отжимной механизм для ведра Т-6</param>
     <param name="Страна происхождения" unit="">Украина</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>ТО-6</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723477" available="true">
+  <offer id="533723477" available="false">
     <url>https://polineo.in.ua/ua/p533723477-zasib-miyuchij-dlya.html</url>
     <price>1506.00</price>
     <currencyId>UAH</currencyId>
@@ -17513,7 +17513,7 @@ EAN код: 8020090027093
     <description>Засіб миючий на спиртовій основі, застосовується для мармурової підлоги, підлоги з плитки, керамічної крихти і т. п. має високу очисну здатність; забезпечує блиск; швидко випаровується; не залишає розлучень; не потребує змивання. ХАРАКТЕРИСТИКА Об'єм - 10 л Складу - 5-10%: ізопропіловий спирт &amp;lt;5%: органічні розчинники. Додаткові компоненти: стабілізатори, консерванти, барвники, ароматизатор. Не містить фосфору. Розведення використовують 0,5-2% розчин (50-200 мл засобу на 10 л води), в залежності від ступеня забруднення pH - 10 ± 1 Аромат - хвоя Країна-виробник - Італія</description>
     <param name="Особливість засобу">Органічне</param>
     <param name="Об`єм" unit="мл">10000</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.N.P.1000/M</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>D.N.P.1000/M</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723482" available="false">
     <url>https://polineo.in.ua/ua/p533723482-skrebok-dlya-zgonu.html</url>
     <price>1877.48</price>
