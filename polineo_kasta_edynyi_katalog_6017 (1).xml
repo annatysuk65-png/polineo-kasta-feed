@@ -48427,7 +48427,7 @@ pH - 9
 </description>
     <param name="Тип ворсу">Жорсткий</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>YF341</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="891702401" available="false">
+  <offer id="891702401" available="true">
     <url>https://polineo.in.ua/ua/p891702401-032-vantuz.html</url>
     <price>72.79</price>
     <currencyId>UAH</currencyId>
@@ -48447,7 +48447,7 @@ pH - 9
 Країна походження: Україна
 Виробник: Україна
 </description>
-  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>032</article><stock_quantity>0</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>032</article><stock_quantity>50</stock_quantity></offer>
   <offer id="891776930" available="true">
     <url>https://polineo.in.ua/ua/p891776930-utrimuvach-vkladish-motuzkovij.html</url>
     <price>1281.36</price>
@@ -158687,7 +158687,7 @@ Urinex не можна використовувати для чищення кр
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>Д 80224</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2377329725" available="true">
     <url>https://polineo.in.ua/ua/p2377329725-vantuz-zambak-plastik.html</url>
-    <price>131.78</price>
+    <price>154.37</price>
     <currencyId>UAH</currencyId>
     <categoryId>21342000</categoryId>
     <picture>https://images.prom.ua/6309387223_vantuz-zambak-plastik.jpg</picture>
@@ -183310,7 +183310,7 @@ W3- Протиральні матеріали у коробі з відбірк�
   <param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>UTP031</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2896228344" available="true">
     <url>https://polineo.in.ua/ua/p2896228344-trimach-plastikovij.html</url>
-    <price>214.61</price>
+    <price>222.14</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341958</categoryId>
     <picture>https://images.prom.ua/788570152_trimach-plastikovij-45.jpg</picture>
@@ -184901,7 +184901,7 @@ T7 - Midsize Coreless System
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>281246248516</article><stock_quantity>50</stock_quantity></offer>
   <offer id="2912116848" available="true">
     <url>https://polineo.in.ua/ua/p2912116848-styazhka-skvidzh-dlya.html</url>
-    <price>213.35</price>
+    <price>220.88</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341966</categoryId>
     <picture>https://images.prom.ua/7058863247_styazhka-skvidzh-dlya.jpg</picture>
@@ -206058,7 +206058,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <stock_quantity>50</stock_quantity><article>POL-3289840741</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
   <offer id="3289888598" available="true">
     <url>https://polineo.in.ua/ua/p3289888598-zimovij-nabir-dlya.html</url>
-    <price>2371.95</price>
+    <price>1287.63</price>
     <currencyId>UAH</currencyId>
     <categoryId>103725104</categoryId>
     <picture>https://images.prom.ua/7922561300_zimovij-nabir-dlya.jpg</picture>
