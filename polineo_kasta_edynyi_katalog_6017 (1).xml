@@ -5996,7 +5996,7 @@ pH - 10,5 ± 1
     <param name="Кількість аркушів у пачці/відривів в рулоні" unit="">143</param>
     <param name="Матеріал основи" unit="">Целлюлоза</param>
   <param name="Розмір">-</param><article>IMB-401845</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533720824" available="true">
+  <offer id="533720824" available="false">
     <url>https://polineo.in.ua/ua/p533720824-rukavichki-polietilenovi.html</url>
     <price>65.26</price>
     <currencyId>UAH</currencyId>
@@ -6021,7 +6021,7 @@ pH - 10,5 ± 1
 </description>
     <param name="Матеріал">Поліетилен</param>
     <param name="Тип">Одноразові</param>
-  <param name="Колір">Комбінований</param><param name="Розмір">M</param><article>500111</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Колір">Комбінований</param><param name="Розмір">M</param><article>500111</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533720825" available="false">
     <url>https://polineo.in.ua/ua/p533720825-vidro-witty-vidtiskachem.html</url>
     <price>16528.35</price>
