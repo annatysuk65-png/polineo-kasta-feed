@@ -75660,7 +75660,7 @@ EU, OC стандарти безпеки
     <param name="Колір">Сірий</param>
     <param name="Матеріал">Сталь</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>Ажур-сер</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1400949581" available="true">
+  <offer id="1400949581" available="false">
     <url>https://polineo.in.ua/ua/p1400949581-vidro-dlya-smittya.html</url>
     <price>394.07</price>
     <currencyId>UAH</currencyId>
@@ -75683,7 +75683,7 @@ EU, OC стандарти безпеки
 </description>
     <param name="Колір">Білий</param>
     <param name="Матеріал">Пластик</param>
-  <param name="Розмір">-</param><article>124065</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>124065</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1401071770" available="true">
     <url>https://polineo.in.ua/ua/p1401071770-vidro-plastikove-ruchkoyu.html</url>
     <price>124.25</price>
@@ -184776,7 +184776,7 @@ T7 - Midsize Coreless System
 	у коробці
 </description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>SilkenA</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2906574679" available="true">
+  <offer id="2906574679" available="false">
     <url>https://polineo.in.ua/ua/p2906574679-teleskopichna-shvabra-dlya.html</url>
     <price>3514.00</price>
     <currencyId>UAH</currencyId>
@@ -184816,8 +184816,8 @@ T7 - Midsize Coreless System
 
 
 Чисті вікна швидко та без зайвих зусиль.</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>280246248516</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2906584236" available="true">
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>280246248516</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="2906584236" available="false">
     <url>https://polineo.in.ua/ua/p2906584236-teleskopichna-shvabra-dlya.html</url>
     <price>3514.00</price>
     <currencyId>UAH</currencyId>
@@ -184857,8 +184857,8 @@ T7 - Midsize Coreless System
 
 
 Чисті вікна швидко та без зайвих зусиль.</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>280247249517</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2906595016" available="true">
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">45 см</param><article>280247249517</article><stock_quantity>0</stock_quantity></offer>
+  <offer id="2906595016" available="false">
     <url>https://polineo.in.ua/ua/p2906595016-teleskopichna-shvabra-dlya.html</url>
     <price>4329.75</price>
     <currencyId>UAH</currencyId>
@@ -184898,7 +184898,7 @@ T7 - Midsize Coreless System
 
 
 Чисті вікна швидко та без зайвих зусиль.</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>281246248516</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">35 см</param><article>281246248516</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2912116848" available="true">
     <url>https://polineo.in.ua/ua/p2912116848-styazhka-skvidzh-dlya.html</url>
     <price>220.88</price>
@@ -205666,7 +205666,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <stock_quantity>0</stock_quantity><vendor>No Brand</vendor><article>POL-3287413080</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
-  <offer id="3287641012" available="false">
+  <offer id="3287641012" available="true">
     <url>https://polineo.in.ua/ua/p3287641012-schitka-dlya-mittya.html</url>
     <price>5459.25</price>
     <currencyId>UAH</currencyId>
@@ -205706,7 +205706,7 @@ Vialli S9B — компактний настінний дозатор для р�
 Підходить для домашнього та професійного використання
 
 </description>
-  <stock_quantity>0</stock_quantity><vendor>No Brand</vendor><article>POL-3287641012</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
+  <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3287641012</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
   <offer id="3288013754" available="true">
