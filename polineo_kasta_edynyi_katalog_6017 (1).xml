@@ -123846,7 +123846,7 @@ PAPATYA — провідний світовий бренд із розробки
     <param name="Тип">Ручка</param>
     <param name="Ширина насадки" unit="см">11</param>
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>6919</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="1630168009" available="true">
+  <offer id="1630168009" available="false">
     <url>https://polineo.in.ua/ua/p1630168009-politsya-dlya-vzuttya.html</url>
     <price>756.77</price>
     <currencyId>UAH</currencyId>
@@ -123893,7 +123893,7 @@ PAPATYA — провідний світовий бренд із розробки
     <param name="Тип меблів">полиця для взуття</param>
     <param name="Колір">Чорний</param>
     <param name="Ширина" unit="мм">460</param>
-  <param name="Розмір">-</param><article>6915</article><stock_quantity>50</stock_quantity></offer>
+  <param name="Розмір">-</param><article>6915</article><stock_quantity>0</stock_quantity></offer>
   <offer id="1630168010" available="true">
     <url>https://polineo.in.ua/ua/p1630168010-ruchka-dlya-shvabri.html</url>
     <price>126.76</price>
