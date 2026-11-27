@@ -179449,7 +179449,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
 
 Рекомендований для  сухого прибирання, хімчистки підлоги, полірування воском.</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40см</param><article>UA9931</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="2862329904" available="true">
+  <offer id="2862329904" available="false">
     <url>https://polineo.in.ua/ua/p2862329904-osnova-velcro-40sm.html</url>
     <price>1853.64</price>
     <currencyId>UAH</currencyId>
@@ -179460,7 +179460,7 @@ Eco Gonisa 36 — це надійний, зручний та екологічн�
     <name>Основа Velcro 40см</name>
     <vendorCode>00000887</vendorCode>
     <description>Основа Velcro виготовлена з поліаміду з пластиковими дисками для закріплення мопа. Система Velcro призначена як для сухого так і для вологого прибирання пилу та підлоги. Подібна основа дозволяє легко замінити моп за рахунок наявності змінних липучок. Чудова можливість використовувати попередньо підготовлені мопи, обходитись без ополіскування і віджиму, що полегшує процес прибирання.</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40см</param><article>00000887</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">40см</param><article>00000887</article><stock_quantity>0</stock_quantity></offer>
   <offer id="2862424396" available="true">
     <url>https://polineo.in.ua/ua/p2862424396-osnova-mopa-dlya.html</url>
     <price>938.74</price>
