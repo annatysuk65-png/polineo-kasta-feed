@@ -49607,7 +49607,7 @@ pH - 9
 
 Ручка алюмінієва з накруткою. Довжина 130 см. Для основи на 40 і 50 см.</description>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">130 см</param><article>ALS286</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="905710894" available="true">
+  <offer id="905710894" available="false">
     <url>https://polineo.in.ua/ua/p905710894-tus283-kij-alyuminiyevij.html</url>
     <price>6249.90</price>
     <currencyId>UAH</currencyId>
@@ -49621,7 +49621,7 @@ pH - 9
 Телескопічний алюмінієвий кий для миття вікон виконаний з легкого матеріалу - алюмінію, не іржавіє і легкий у використанні. Дозволяє мити високі фасади без використання сходів. Кий може складатися з двох або трьох частин, він може бути різної довжини. З допомогою пластикових фіксаторів може бути підібрана відповідна висота. 
 Довжина алюмінієвої рукоятки: 3 по 300 = 900 див. 
 Використовується: В закладах харчування, медичних закладах. громадських місцях і на промислових об'єктах.</description>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">9 м</param><article>TUS283</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">9 м</param><article>TUS283</article><stock_quantity>0</stock_quantity></offer>
   <offer id="905713292" available="true">
     <url>https://polineo.in.ua/ua/p905713292-tus284-kij-alyuminiyevij.html</url>
     <price>8408.50</price>
@@ -206339,6 +206339,57 @@ Vialli S9B — компактний настінний дозатор для р�
 </description>
     <param name="Матеріал" unit="">Телескоп - алюміній, щітка - пластик, стяжка- метал і пінополіуретанова смужка</param>
   <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3291164971</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
+
+
+  <offer id="3292353655" available="true">
+    <url>https://polineo.in.ua/ua/p3292353655-schitka-zapasna-komplektu.html</url>
+    <price>163.15</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>21341957</categoryId>
+    <picture>https://images.prom.ua/7927985215_schitka-zapasna-do.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка запасна до комплекту для сонячних панелей</name>
+    <vendor>Uctem</vendor>
+    <vendorCode>340</vendorCode>
+    <country_of_origin>Туреччина</country_of_origin>
+    <description>Щітка для очищення сонячних панелей
+Щітка оснащена м’якою щетиною, яка призначена для делікатного очищення поверхні від пилу та забруднень. Пластикова основа має конструкцію з різьбовим отвором під кутом 45°, що дозволяє встановлювати щітку на телескопічну ручку.
+Характеристики щітки:
+
+
+Матеріал основи: пластик.
+
+
+Матеріал щетини: поліпропілен.
+
+
+Розмір основи: 240 × 55 мм.
+
+
+Ширина щетини: 290 мм.
+
+
+Довжина щетини: 50 мм.
+
+
+Діаметр щетини: 0,5–1,6 мм.
+
+
+М’яка щетина для очищення поверхонь.
+
+
+Різьбовий отвір для кріплення ручки.
+
+
+Кут кріплення: 45°.
+
+
+ </description>
+    <param name="Матеріал ворсу">ПВХ (полівінілхлорид)</param>
+    <param name="Тип">Щітка</param>
+    <param name="Тип ручки">телескопічна</param>
+  <stock_quantity>50</stock_quantity><article>POL-3292353655</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
   </offers>
