@@ -20946,7 +20946,7 @@ pH - 6,9±1
     <param name="Матеріал" unit="">Металл</param>
     <param name="Застосування" unit="">Для багажа</param>
   <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">-</param><article>3002285</article><stock_quantity>50</stock_quantity></offer>
-  <offer id="533723865" available="true">
+  <offer id="533723865" available="false">
     <url>https://polineo.in.ua/ua/p533723865-kij-alyuminiyevij-teleskopichnij.html</url>
     <price>2083.30</price>
     <currencyId>UAH</currencyId>
@@ -20973,7 +20973,7 @@ pH - 6,9±1
     <param name="Телескопическая штанга" unit="">Да</param>
     <param name="Матеріал" unit="">Алюминий</param>
     <param name="Страна происхождения" unit="">Италия</param>
-  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">4 м</param><article>FRA-11518</article><stock_quantity>50</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Колір">Комбінований</param><param name="Розмір">4 м</param><article>FRA-11518</article><stock_quantity>0</stock_quantity></offer>
   <offer id="533723866" available="true">
     <url>https://polineo.in.ua/ua/p533723866-mop-dlya-osnovi.html</url>
     <price>978.90</price>
@@ -150232,7 +150232,7 @@ pH 7,2±1
   <param name="Колір">Комбінований</param><param name="Розмір">-</param><article>VDM 33100</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1939367443" available="true">
     <url>https://polineo.in.ua/ua/p1939367443-teleskopichna-ruchka-dlya.html</url>
-    <price>3785.08</price>
+    <price>4894.50</price>
     <currencyId>UAH</currencyId>
     <categoryId>21341960</categoryId>
     <picture>https://images.prom.ua/4833067261_teleskopichna-ruchka-dlya.jpg</picture>
@@ -205774,7 +205774,7 @@ Vialli S9B — компактний настінний дозатор для р�
   <stock_quantity>0</stock_quantity><vendor>No Brand</vendor><article>POL-3289304258</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
-  <offer id="3289656061" available="true">
+  <offer id="3289656061" available="false">
     <url>https://polineo.in.ua/ua/p3289656061-schitka-dlya-mittya.html</url>
     <price>7341.75</price>
     <currencyId>UAH</currencyId>
@@ -205883,7 +205883,7 @@ Vialli S9B — компактний настінний дозатор для р�
 
 </description>
     <param name="Матеріал" unit="">Телескоп - алюміній, щітка - пластик, стяжка- метал і пінополіуретанова смужка</param>
-  <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3289656061</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
+  <stock_quantity>0</stock_quantity><vendor>No Brand</vendor><article>POL-3289656061</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
   <offer id="3289669852" available="true">
     <url>https://polineo.in.ua/ua/p3289669852-schitka-dlya-mittya.html</url>
     <price>4894.50</price>
