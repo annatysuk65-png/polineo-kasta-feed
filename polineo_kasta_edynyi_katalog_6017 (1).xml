@@ -206250,7 +206250,7 @@ Vialli S9B — компактний настінний дозатор для р�
 </description>
     <param name="Матеріал" unit="">Телескоп - алюміній, щітка - пластик, стяжка- метал і пінополіуретанова смужка</param>
   <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3291149997</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
-<offer id="3291164971" available="true">
+<offer id="3291164971" available="false">
     <url>https://polineo.in.ua/ua/p3291164971-schitka-dlya-mittya.html</url>
     <price>6400.50</price>
     <currencyId>UAH</currencyId>
@@ -206338,7 +206338,7 @@ Vialli S9B — компактний настінний дозатор для р�
 
 </description>
     <param name="Матеріал" unit="">Телескоп - алюміній, щітка - пластик, стяжка- метал і пінополіуретанова смужка</param>
-  <stock_quantity>50</stock_quantity><vendor>No Brand</vendor><article>POL-3291164971</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
+  <stock_quantity>0</stock_quantity><vendor>No Brand</vendor><article>POL-3291164971</article><param name="Колір">комбінований/в асортименті</param><param name="Розмір">без розміру</param></offer>
 
 
   <offer id="3292353655" available="true">
