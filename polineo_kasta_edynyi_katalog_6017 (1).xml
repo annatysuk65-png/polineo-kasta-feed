@@ -69462,7 +69462,7 @@ pH - 7,8±1
 </description>
     <param name="Колір">Білий</param>
   <vendor>No Brand</vendor><param name="Розмір">-</param><article>B917</article><stock_quantity>0</stock_quantity></offer>
-  <offer id="1361559515" available="false">
+  <offer id="1361559515" available="true">
     <url>https://polineo.in.ua/ua/p1361559515-tualetnij-papir-ruloni.html</url>
     <price>530.87</price>
     <currencyId>UAH</currencyId>
@@ -69492,7 +69492,7 @@ pH - 7,8±1
 Країна-виробник - Україна
 </description>
     <param name="Колір">Білий</param>
-  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B923</article><stock_quantity>0</stock_quantity></offer>
+  <vendor>No Brand</vendor><param name="Розмір">-</param><article>B923</article><stock_quantity>50</stock_quantity></offer>
   <offer id="1361563582" available="true">
     <url>https://polineo.in.ua/ua/p1361563582-tualetnij-papir-ruloni.html</url>
     <price>1039.14</price>
